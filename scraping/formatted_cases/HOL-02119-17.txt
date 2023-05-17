@@ -1,0 +1,512 @@
+Metadata:
+Date:	2018-01-24
+File number:	
+HOL-02119-17
+	HOL-02119-17
+Citation:	HOL-02119-17 (Re), 2018 CanLII 41860 (ON LTB), <https://canlii.ca/t/hs06p>, retrieved on 2023-05-16	https://canlii.ca/t/hs06p
+Content:
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: HOL-02119-17
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+H.L
+(the 'Landlord') applied for an order to terminate the tenancy and evict V.L
+and V.G.B (the 'Tenants') because the Tenants did not pay the rent that the
+Tenants owe.
+ 
+This
+application was heard in Toronto on January 15, 2018.  The Landlord and the
+Tenants attended the hearing.
+ 
+This
+was a bilingual hearing in which the Landlord participated in English, the
+Tenants participated in French and S.B interpreted between the two languages. 
+This order is issued in English and in French.
+ 
+The
+Tenants are referred to as VL and VGB in this order.  A previous tenant, E.R,
+is referred to as ER.
+ 
+Determinations:
+ 
+1.      The
+first question to be determined is whether the Tenants are, in fact, tenants of
+the rental unit.
+2.      A
+tenancy began in May, 2017 when VL and ER moved in.  VGB moved in one month
+later, and ER moved out the month after because, in the words of the Landlord’s
+lawyer, she “did not feel safe in the presence of (VGB).” 
+3.      The
+Tenants took the position that either VL or VL and ER together remained tenants
+and that VGB was only a guest.  The Landlord argued that even though the
+Tenants declined to sign a written tenancy agreement that his lawyer had
+prepared, there was an oral agreement of a new tenancy between the Landlord and
+the Tenants.
+4.      I
+prefer the Landlord’s position over that of the Tenants for three reasons. 
+First, because it was clear to everyone that ER intended to vacate the rental
+unit.  Second, because it was also clear that VGB had moved in.  And third, there
+was a new tenancy with the Tenants as tenants because the definition of tenant
+in subsection 2(1) of the Residential Tenancies Act, 2006 (the ‘Act’)
+includes “a person who pays rent in return for the right to occupy a rental
+unit” where VGB sometimes paid rent.
+5.      The
+Tenants were therefore correctly named as tenant parties to the application and
+in the notice of termination preceding it.
+6.      Next,
+I turn to the issue of last month rent deposits (LMR).  
+7.      When
+ER and VL moved in, they paid the Landlord an LMR of $2,000.00.  The Landlord
+testified referring to his ledger that when ER moved out, the Landlord applied
+half of the LMR, which he took to be ER’s portion, and applied it to the rent due
+September 1, 2017.  The Landlord further testified that he only received
+$1,000.00 more that month which he applied to rent, which was not
+cross-examined or contradicted by the Tenants.
+8.      The
+Tenants took the position that the part of the LMR paid out to ER was done
+unlawfully and that the Landlord was wrongly seeking to replenish that amount through
+this application.  I disagree on both counts.
+9.      As
+to the first issue, the Tenants referred to the rarely used section 47.2 of the
+Act which provides that a joint tenant can terminate a tenancy “if the tenant
+is deemed under subsection 47.3(1) to have experienced violence or another form
+of abuse…”  The Tenants did not specifically refer to that latter subsection,
+but there was no evidence that any of those possibilities, namely criminal
+sureties to keep the peace, restraining orders, allegations of serious violence
+or threats or sexual violence, were present in this situation.  Had that
+subsection applied, the LMR would have gone to the benefit of the person who
+did not give notice, VGB.  The very mention of the subsection actually
+supported the Landlord’s position that there was a new tenancy with VGB as a
+Tenant where he was claiming the entirety of the LMR as his.  However, the
+subsection did not apply, therefore the LMR could only be applied to the last
+month of the tenancy. 
+10.   The
+Landlord’s position appeared to be that the first tenancy, with VL and ER as
+tenants, had to be terminated on notice, where he applied ER’s half of the LMR
+to the rent due for September, 2017.  He kept the other half, belonging to VL,
+to apply to LMR for the new tenancy with the Tenants as tenants.  The Landlord
+testified he did not receive the rest of the new LMR that he thought should
+have been paid by VGB.
+11.   The
+Tenants argued that the Landlord was actually claiming the LMR in this
+application which would not have been permissible because an LMR is not arrears
+of rent.  In fact, I find the claim was not for LMR but for the $1,000.00 not
+paid in October, 2017.  That amount was indicated as owing in the application
+for November, 2017, but the Landlord applied rent received after service of the
+N4 notice of termination and prior to the filing of the application to the
+oldest arrears of rent, a perfectly acceptable accounting practice.
+12.   I
+therefore see no defect in the Landlord’s application.
+13.   The
+Tenants also brought cheque with them to pay for rent for January, 2018 and it
+was not noticed whether the Landlord collected that cheque.  If that amount was
+paid, it should be deducted from the arrears of rent below.
+14.   The
+Tenants have not paid the total rent they were required to pay for the period
+from October 1, 2017 to January 31, 2018.  Because of the arrears, the Landlord
+served a Notice of Termination effective November 23, 2017.
+15.   The
+Landlord collected a rent deposit of $1,000.00 from the Tenants and this
+deposit is still being held by the Landlord.
+16.   Interest
+on the rent deposit is owing to the Tenants for the period from April 29, 2017
+to November 23, 2017.
+17.   The
+Tenants paid $2,000.00 after the application was filed.
+18.   I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Act, and find that it would be unfair to grant relief
+from eviction pursuant to subsection 83(1) of the Act.  The Tenants indicated
+they could pay all arrears of rent owing within the time allowed by a standard
+order.
+It is ordered that:
+ 
+1.      Unless
+the Tenant voids the order as set out below, the tenancy between the Landlord
+and the Tenants is terminated.  The Tenants must move out of the rental unit on
+or before February 4, 2018.
+2.      The
+Tenants shall pay to the Landlord $1,580.24*, which represents the amount of
+rent owing and compensation up to January 24, 2018, less the rent deposit and
+interest the Landlord owes on the rent deposit.
+3.      The
+Tenants shall also pay to the Landlord $65.75 per day for compensation for the
+use of the unit starting January 25, 2018 to the date they move out of the
+unit.
+4.      The
+Tenants shall also pay to the Landlord $175.00 for the cost of filing the
+application.
+5.      If
+the Tenants do not pay the Landlord the full amount owing* on or before
+February 4, 2018, the Tenants will start to owe interest.  This will be simple
+interest calculated from February 5, 2018 at 3.00% annually on the balance
+outstanding.
+6.      If
+the unit is not vacated on or before February 4, 2018, then starting February
+5, 2018, the Landlord may file this order with the Court Enforcement Office
+(Sheriff) so that the eviction may be enforced.
+7.      Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to
+give vacant possession of the unit to the Landlord, on or after February 5,
+2018.
+8.      If
+the Tenants wish to void this order and continue the tenancy, they must pay to
+the Landlord or to the Board in trust:
+i)        $3,175.00 if the payment is made on or before January 31, 2018, or
+ii)       $5,175.00 if the payment is made on or before February 4, 2018**.
+If the Tenants do not make full payment in accordance with this paragraph and
+by the appropriate deadline, then the Landlord may file this order with the
+Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+9.      The
+Tenants may make a motion to the Board under subsection 74(11) of the Act to
+set aside this order if they pay the amount required under that subsection on
+or after February 5, 2018 but before the Sheriff gives vacant possession to the
+Landlord. The Tenants are only entitled to make this motion once during the
+period of the tenancy agreement with the Landlord.
+ 
+January 24, 2018                                                            _______________________
+Date Issued                                                                      Jean-Paul
+Pilon
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Toronto South-RO
+79 St. Clair Avenue East, Suite 212, 2nd Floor
+Toronto ON M4T1M6
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the Act, the part of this order
+relating to the eviction expires on August 5, 2018 if the order has not been
+filed on or before this date with the Court Enforcement Office (Sheriff) that
+has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+**         Refer to section B on the attached Summary of
+Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: HOL-02119-17
+ 
+A.        Amount the Tenants must pay if the tenancy is
+terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+October 1, 2017 to November 23, 2017
+
+
+$512.33
+
+
+
+ 
+ 
+
+
+
+Less the amount the Tenants paid to the Landlord
+
+
+ 
+
+
+-$2,000.00
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+November 24, 2017 to January 24, 2018
+
+
+$4,076.50
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,000.00
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+April 29, 2017 to November 23, 2017
+
+
+-$8.59
+
+
+
+ 
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$1,580.24
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenants must pay to the Landlord:
+
+
+$175.00
+
+
+
+ 
+ 
+
+
+
+Plus daily compensation owing for each day of occupation
+  starting January 25, 2018:
+
+
+$65.75 (per
+  day)
+
+
+
+ 
+ 
+
+
+
+Total the Tenants must pay the Landlord if the tenancy is
+  terminated:
+
+
+$1,755.24, + $65.75 per day starting January 25, 2018
+
+
+
+ 
+ 
+B. Amount the Tenants must pay to void the eviction order and
+continue the tenancy:
+ 
+1.         If the payment is made on or before January 31, 2018:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears: 
+
+
+October 1, 2017 to January 31, 2018
+
+
+$5,000.00
+
+
+
+ 
+
+
+
+Less the amount the Tenants paid to the Landlord:
+
+
+ 
+
+
+-$2,000.00
+
+
+
+ 
+
+
+
+Additional costs the Tenants must pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+ 
+
+
+
+Total the Tenants must pay to continue the tenancy:
+
+
+On or before January 31, 2018
+
+
+$3,175.00
+
+
+
+ 
+ 
+ 
+ 
+2.         If the payment is made after January 31, 2018 but on or
+before February 4, 2018:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+October 1, 2017 to February 28, 2018
+
+
+$7,000.00
+
+
+
+ 
+
+
+
+Less the amount the Tenants paid to the Landlord:
+
+
+ 
+
+
+-$2,000.00
+
+
+
+ 
+
+
+
+Additional costs the Tenants must pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenants must pay to continue the tenancy:
+
+
+On or before February 4, 2018
+
+
+$5,175.00
+
+
+
+ 
+ 
+ 
+ 
+

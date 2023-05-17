@@ -1,0 +1,1084 @@
+Metadata:
+Date:	2019-03-18
+File number:	
+CEL-83008-19
+	CEL-83008-19
+Citation:	CEL-83008-19 (Re), 2019 CanLII 86980 (ON LTB), <https://canlii.ca/t/j2gjh>, retrieved on 2023-05-16	https://canlii.ca/t/j2gjh
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-83008-19
+ 
+Time
+period for Arrears Owing From:   January 1, 2019 to January 18,
+2019
+(From
+the commencement of arrears to the termination date in the notice, or the end
+of the rental period if the tenancy is not being terminated.)
+ 
+Part
+1
+- Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/01/2019
+  - 18/01/2019
+
+
+$1,213.15
+
+
+ 
+
+
+$1,213.15
+
+
+$1,000.00
+
+
+$213.15
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part
+  Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**   
+  To calculate the Rent for part of a month, use the 
+      
+  following formula for columns (B), (C) and (D):
+ 
+      
+  Monthly Rent X 12 X # Days
+                  
+  365
+
+
+ (F)
+  Total Rent Owing
+
+
+$213.15
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                     $213.15
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $1,285.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                        $213.15
+ 
+(I)         Total
+Amount Owing                                                                                           $213.15
+ 
+ 
+Part
+II
+- Calculation of Compensation
+(Use
+this part if the tenancy is being terminated)
+ 
+(J)
+(i)    Lump Sum Compensation Start Date                                             January
+19, 2019
+            (Day
+after termination date in notice)
+ 
+   
+(ii)    Lump Sum Compensation End Date                                              March
+18, 2019
+            (Date
+of order)
+ 
+(K)
+       Daily Compensation (Monthly Rent X 12)                                                               $67.40
+                 
+                                   365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       59
+days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $3,976.60
+            [(K)
+X (L)] =
+ 
+ 
+Part
+III: NSF and Related Administration Charges                                                                  
+ 
+
+
+
+ 
+(N)
+Amount of NSF
+Cheque Charge
+
+
+ 
+(O)
+Related Admin.
+Charge, if any
+
+
+ 
+ 
+Maximum Admin.
+Charge per Regs.
+
+
+ 
+(P)
+Lower of
+(O) or $20
+
+
+ 
+(Q)
+Total Charge
+(N) + (P)
+
+ 
+
+
+
+$25.00
+
+
+$20.00
+
+
+$20.00
+
+
+$20.00
+
+
+$45.00
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+                                                                   
+  (Q) Total NSF Charges Owing:
+
+
+$45.00
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(R1)      NSF
+Charges Owing                                                                                              $45.00
+            [From
+(Q)]
+ 
+(R2)      NSF
+Charges Claimed                                                                                             $0.00
+ 
+(R3)      Include
+whichever is LESS when calculating total NSF charges owing                   $0.00
+ 
+Part
+IV
+- Rent Deposit and Interest Owing
+(Use
+this part if you are terminating the tenancy)
+ 
+(S)        Rent
+Deposit                                                                                                     $2,050.00
+ 
+(T1)      Interest
+Owing on Rent Deposit
+        For
+period from: 18/01/2018 to 17/01/2019
+       (i)  Annual
+Amount (S) X 1.8%                                                                    
+=               $36.90
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.1011
+       (iii) Interest
+Owing (ii) X 365 (# of days)                                                        =
+              $36.90
+ 
+ 
+(T2)      Interest
+Owing on Rent Deposit
+        For
+period from: 18/01/2019 to 18/01/2019
+       (i)  Annual
+Amount (S) X 1.8%                                                                    
+=               $36.90
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.1011
+       (iii) Interest
+Owing (ii) X 1 (# of days)                                                           =
+                $0.10
+ 
+ 
+(T3)      Total
+amount of interest owing on rent deposit
+ 
+            [(T1)
++ (T2)]                                                                                         $37.00
+ 
+ 
+ 
+(U)        Rent
+Deposit + Interest
+ 
+            [(S)
++ (T3)] =                                                                                                      $2,087.00
+ 
+ 
+Part
+V
+- Total Amount Owing
+ 
+(V)        Terminating
+the tenancy [I+M+R3-U]                                                                    $2,102.75
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+ 
+File Number: CEL-83008-19
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In
+  the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+D
+  K
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+D
+  K
+S
+  S
+W
+  L
+ 
+
+
+Tenants
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+D
+K (‘DKZ’ or the 'Landlord') applied for an order to terminate the tenancy and
+evict S S, D K and W L (‘SS’, ‘DK’ and ‘WL’ or collectively, the 'Tenants')
+because the Tenants did not pay the rent that the Tenants owe. The Landlord
+also claimed NSF cheque charges and related administration charges.  (L1
+Application)
+ 
+The
+Landlord also applied for an order to terminate the tenancy and evict the
+Tenants because they, another occupant of the rental unit or someone they
+permitted in the residential complex have wilfully or negligently caused undue
+damage to the premises. The Landlord has also applied for an order requiring
+the Tenants to compensate the Landlord for the damage. (L2 Application)
+ 
+These
+applications were heard in Mississauga on March 1, 2019.
+ 
+The Landlord’s Agent, L K (‘LKZ’), and one of the Tenants, SS,
+attended the hearing. LKZ submitted a letter from the Landlord that authorizes
+LKZ to act as the Landlord’s Agent for the hearing (exhibit LL#1).
+ 
+ 
+Determinations:
+ 
+L1 Applications
+ 
+1.      The
+Tenants have not paid the total rent the Tenants were required to pay for the
+period from January 1, 2019 to March 31, 2019.  Because of the arrears, the
+Landlord served a Notice of Termination effective January 18, 2019.
+2.      The
+Landlord’s claim for NSF cheque and related administration charges were removed
+from the application.
+3.      The
+Landlord collected a rent deposit of $2,050.00 from the Tenants and this
+deposit is still being held by the Landlord.
+4.      Interest
+on the rent deposit is owing to the Tenants for the period from January 18,
+2018 to January 18, 2019.
+5.      The
+Tenants made no payments after the filing of the application.
+L2
+Application
+6.      The
+Tenants live in the rental unit, which is on the upper main level of the
+building that also contains a basement apartment, rented by others.
+7.      There
+is an N5 notice of termination that forms the basis of the L2 application.  The
+N5 was served on the Tenants on January 15, 2019, and clearly itemizes the
+claimed wilful or negligent damage caused by the Tenants or their guest or
+another occupant of the rental unit.   The Landlord identified $4,231.85 as the
+estimated costs to repair the undue damage to the unit.
+8.      LKZ
+testified he acts as the Landlord’s property manager for the unit.  On January
+14, 2019, at about 2:00 in the morning, he received a call from the basement
+tenants about a fight in the rental unit.  The police had been despatched
+there.  LKZ rushed to the unit to open the door so the police would not have to
+knock it down.
+9.      LKZ
+took 4 photos of the rental unit at about 3:00 am when he had entered with the
+police (exhibit LL#1).  The photos evidence that some kind of violent
+altercation took place in the unit.  LKZ testified that only DK was in the unit
+when he arrived, and the police questioned DK about the incident that had taken
+place there.    I noted for the record that the undue damage to the walls
+appeared quite extensive.  LKZ also submitted a photo to show the police were
+present in the unit (exhibit LL#2).
+10.   LKZ
+stated that he asked DK what had happened and DK told him that he had been
+drunk and all he could remember was that he had a big fight.  LKZ was unable to
+learn who the other combatant was.
+11.   Later
+on January 14, 2019 around 5:00 pm, LKZ testified he returned to the unit with
+a contractor who went through the unit.  The contractor quoted $4,231.85
+($3,745.00 plus HST) to repair the walls, paint the walls and to sand/stain the
+floors (exhibit LL#3).
+12.   The
+evidence that LKZ presented about the floors being damaged was inconclusive. 
+SS denied the floors had any damage.  LKZ tried to show another photograph
+(exhibit LL#4) in an effort to show the damage being claimed, but I was not
+persuaded by the evidence that the floors had been the subject of anything more
+than normal “wear and tear” activity.
+13.   The
+portion of the LL#3 quotation for sanding/staining the floors was $1.50 per
+square foot and there was 300 square feet of floor quoted; therefore, $450.00
+was subtracted from LL#3 so that the new total of $3,723.25 ($3,295.00 plus
+HST) became the adjusted amount that is being claimed under the application.
+14.   LKZ
+confirmed that the Tenants did not attempt to pay the Landlord anything to
+repair the undue damage caused, neither did they attempt to undertake any
+repairs themselves.
+15.   SS
+was unable to provide any testimony or submission in respect of the claimed
+damage that occurred on January 14, 2019, as SS testified that she was not
+present at the unit when the fight happened.
+16.   LKZ
+then testified that another fight took place in the rental unit after the L2
+application had been filed; specifically, he presented exhibit LL#5 which is a
+copy of a Mississauga News article describing a February 22, 2019 police
+tactical and rescue team’s de-escalation of an intoxicated man barricading
+himself in the rental unit.  
+17.   At
+the 5:26:50 mark of the record, LKZ showed a colour photograph taken on his handheld
+device, showing what he described as front door damage because of the police’s
+involvement.  LKZ was unable to confirm who made what damage exactly to the
+expensive, ornate door, and he did not submit any other evidence to quantify
+the damage he believes happened.  
+18.   Without
+being able to make a causal connection of the claimed damage to the Tenants,
+and without any quotation to estimate the claimed damage needing reasonable repair,
+this new claim was not furthered by the LKZ in the hearing.  As a result, I
+make no finding on this additional claim.
+19.   Based
+on the submissions of the parties and evidence adduced, I find that on a
+balance of probabilities, the Tenants have wilfully or negligently caused
+undue damage to the rental unit and they did not void the N5 notice of
+termination within the 7-day period set out under subsection 62(3) of the Act.
+20.   The
+Landlord maintained the application’s request for the undue damages to be paid,
+and to have the tenancy terminated.  LKZ requested a standard 11-day order for
+the non-remedial termination.
+21.   I
+find that the adjusted amount of $3,723.35 for repairing the damage or
+replacing property that was damaged, as given in paragraph 13 above, to be reasonable,
+and I will order that total to be paid by the Tenants to the Landlord.  
+22.   Also,
+based on my finding that the Tenants wilfully or negligently damaged the rental
+unit, I am also granting the Landlord’s request to terminate the tenancy.  I
+gave this decision to the parties present and asked for submissions on
+circumstances.
+23.   SS
+testified that she had no circumstances to disclose for herself as she is
+preparing to move out of the rental unit very soon.  SS was not aware of any circumstances
+for DK.
+24.   However,
+SS did say that WL is currently at Western Hospital where she thinks he is
+recovering from some type of heart problem; she thinks WL may have had a heart
+attack on February 27, 2019 at the beginning of his work-day.  SS stated she
+spoke with WL this very morning but the call was very brief and they did not
+talk about his condition.   SS stated that WL called her because he knows the
+rent for March 2019 is due today. 
+25.   SS
+was able to present text messages she exchanged with WL recently on her
+handheld device.  I read two messages into the record at the 5:35:55 mark and I
+noted that WL made no mention of any heart problem; instead, his messages seem
+to suggest he is readily able to communicate.
+26.   LKZ
+submitted exhibit LL#6, which is a copy of a February 28, 2019 email message he
+received from one of the basement tenants.  The basement tenant states that
+they have not seen WL around at all for about 3 months due to a fight that DK
+had with WL.
+Section
+83
+27.   I
+provided my determination to the parties present that I will terminate the
+tenancy based on the L2 application.  The Landlord confirmed his request that
+the termination date be set for the standard eleven day period.  If granted,
+the Landlord requested the L1 application be amended to be an order for arrears
+only.
+28.   I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Act, and find that it would be unfair to grant relief
+from eviction pursuant to subsection 83(1) of the Act.  The L1 application is
+hereby converted to an order for arrears only as the tenancy is to be
+terminated in a non-remedial, standard way under the L2 application.
+ 
+It is ordered that:
+ 
+L1 and L2 Applications
+ 
+1.      The
+tenancy between the Landlord and the Tenants is terminated on March 29, 2019.  
+2.      The
+Tenants must move out of the rental unit on or before March 29, 2019.
+3.      The
+Tenants shall pay to the Landlord $2,102.75*, which represents the amount of
+rent owing and compensation up to March 18, 2019 (date of this order), less the
+rent deposit and interest the Landlord owes on the rent deposit.
+4.      The
+Tenants shall also pay to the Landlord $67.40 per day for compensation for the
+use of the unit starting March 19, 2019 to the date the Tenants move out of the
+unit.
+5.      The
+Tenants shall also pay to the Landlord $190.00 for the cost of filing the
+application.
+6.     
+With regard to the L2 application for wilful or negligent damage,
+the Tenants shall also pay to the Landlord $3,723.35, which represents the
+reasonable costs (including taxes) of repairing the undue damage to the rental
+unit property.
+7.      If
+the Tenants do not pay the Landlord the full amount owing* for arrears, filing
+fee and damage on or before March 29, 2019, the Tenants will start to owe
+interest.  This will be simple interest calculated from March 30, 2019 at 3.00%
+annually on the balance outstanding.
+8.      If
+the unit is not vacated on or before March 29, 2019, then starting March 30,
+2019, the Landlord may file this order with the Court Enforcement Office
+(Sheriff) so that the eviction may be enforced.
+9.      Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to
+give vacant possession of the unit to the Landlord, on or after March 30, 2019.
+March 18, 2019                                                                _________
+Date Issued                                                                      Alex
+Brkic
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the Act, the part of this order
+relating to the eviction expires on September 30, 2019 if the order has not
+been filed on or before this date with the Court Enforcement Office (Sheriff)
+that has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+ 
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-83008-19
+ 
+A.        Amount the Tenants must pay because the tenancy is
+terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+January 1, 2019 to January 18, 2019
+
+
+$213.15
+
+
+
+ 
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+January 19, 2019 to March 18, 2019
+
+
+$3,976.60
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$2,050.00
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+January 18, 2018 to January 18, 2019
+
+
+-$37.00
+
+
+
+ 
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$2,102.75
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenants must pay to the Landlord (‘FF’):
+
+
+$190.00
+
+
+
+ 
+ 
+
+
+
+Plus daily compensation owing for each day of occupation
+  starting March 19, 2019 (based on rent = $2,050.00):
+
+
+$67.40 (per
+  day)
+
+
+
+ 
+ 
+
+
+
+Total Arrears and FF the Tenants must pay the Landlord:
+
+
+$2,292.75, + $67.40 per day starting March 19, 2019
+
+
+
+ 
+
+
+
+Additional costs (from L2 Application) the Tenants must pay the
+  Landlord for repairing the undue damage:
+
+
+$3,723.35
+
+
+
+ 
+ 
+

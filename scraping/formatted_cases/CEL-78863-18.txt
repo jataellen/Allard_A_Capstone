@@ -1,0 +1,805 @@
+Metadata:
+Date:	2019-02-01
+File number:	
+CEL-78863-18
+	CEL-78863-18
+Citation:	CEL-78863-18 (Re), 2019 CanLII 86911 (ON LTB), <https://canlii.ca/t/j2gj3>, retrieved on 2023-05-16	https://canlii.ca/t/j2gj3
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-78863-18
+ 
+Time
+period for Arrears Owing From:   March 1, 2018 to August 2, 2018
+(From
+the commencement of arrears to the termination date in the notice, or the end
+of the rental period if the tenancy is not being terminated.)
+ 
+Part
+1
+- Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/03/2018
+  - 30/06/2018
+
+
+$5,342.16
+
+
+ 
+
+
+$5,342.16
+
+
+$5,263.20
+
+
+$78.96
+
+
+
+
+01/07/2018
+  - 31/07/2018
+
+
+$1,335.54
+
+
+ 
+
+
+$1,335.54
+
+
+$1,315.80
+
+
+$19.74
+
+
+
+
+01/08/2018
+  - 02/08/2018
+
+
+$87.82
+
+
+ 
+
+
+$87.82
+
+
+$1,315.80
+
+
+-$1,227.98
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part
+  Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**   
+  To calculate the Rent for part of a month, use the 
+      
+  following formula for columns (B), (C) and (D):
+ 
+      
+  Monthly Rent X 12 X # Days
+                  
+  365
+
+
+ (F)
+  Total Rent Owing
+
+
+-$1,129.28
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                 -$1,129.28
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                                  $328.18
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                    -$1,129.28
+ 
+(H1)      Payment
+to Landlord                                                                                        $5,263.20
+ 
+(I)         Total
+Amount Owing                                                                                       -$6,392.48
+ 
+ 
+Part
+II
+- Calculation of Compensation
+(Use
+this part if the tenancy is being terminated)
+ 
+(J)
+(i)    Lump Sum Compensation Start Date                                             August
+3, 2018
+            (Day
+after termination date in notice)
+ 
+   
+(ii)    Lump Sum Compensation End Date                                              February
+1, 2019
+            (Date
+of order)
+ 
+(K)
+       Daily Compensation (Monthly Rent X 12)                                                               $43.91
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                     183
+days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $8,035.53
+            [(K)
+X (L)] =
+ 
+ 
+Part
+III
+- Rent Deposit and Interest Owing
+(Use
+this part if you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                     $1,290.00
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2011 to 18/08/2012
+       (i)  Annual
+Amount (S) X 3.1%                                                                    
+=               $39.99
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.1096
+       (iii) Interest
+Owing (ii) X 366 (# of days)                                                        =
+              $40.11
+ 
+ 
+(O2)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2012 to 18/08/2013
+       (i)  Annual
+Amount (S) X 2.5%                                                                    
+=               $32.25
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.0884
+       (iii) Interest
+Owing (ii) X 365 (# of days)                                                        =
+              $32.27
+ 
+ 
+(O3)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2013 to 18/08/2014
+       (i)  Annual
+Amount (S) X 0.8%                                                                    
+=               $10.32
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.0283
+       (iii) Interest
+Owing (ii) X 365 (# of days)                                                        =
+              $10.33
+ 
+ 
+(O4)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2014 to 18/08/2015
+       (i)  Annual
+Amount (S) X 1.6%                                                                    
+=               $20.64
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.0565
+       (iii) Interest
+Owing (ii) X 365 (# of days)                                                        =
+              $20.62
+ 
+ 
+(O5)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2015 to 18/08/2016
+       (i)  Annual
+Amount (S) X 2%                                                                      
+=               $25.80
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.0707
+       (iii) Interest
+Owing (ii) X 366 (# of days)                                                        =
+              $25.88
+ 
+ 
+(O6)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2016 to 18/08/2017
+       (i)  Annual
+Amount (S) X 1.5%                                                                    
+=               $19.35
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.053
+       (iii) Interest
+Owing (ii) X 365 (# of days)                                                        =
+              $19.35
+ 
+ 
+(O7)      Interest
+Owing on Rent Deposit
+        For
+period from: 19/08/2017 to 02/08/2018
+       (i)  Annual
+Amount (S) X 1.8%                                                                    
+=               $23.22
+       (ii) Daily
+Amount (i) / 365                                                                                              
+=   0.0636
+       (iii) Interest
+Owing (ii) X 349 (# of days)                                                        =
+              $22.20
+ 
+ 
+ 
+ 
+(O8)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)
++ (O2) + (O3) + (O4) + (O5) + (O6) + (O7)]                                  $170.76
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N)
++ (O8)] =                                                                                                     $1,460.76
+ 
+ 
+Part
+IV
+- Total Amount Owing
+ 
+(Q)       Terminating
+the tenancy [I+M-P]                                                                            $182.29
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: CEL-78863-18
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+YKC
+(the 'Landlord') applied for an order to terminate the tenancy and evict VT
+(the 'Tenant') because the Tenant did not pay the rent that the Tenant owes. 
+(the L1 Application)
+ 
+The
+Landlord also applied for an order to terminate the tenancy and evict the
+Tenant because the Tenant, another occupant of the rental unit or someone the
+Tenant permitted in the residential complex has substantially interfered with
+the reasonable enjoyment or lawful right, privilege or interest of the Landlord
+or another tenant (N5 notice of termination); and because the Tenant has been
+persistently late in paying the Tenant's rent (N8 notice of termination).  (the
+L2 Application)
+ 
+These
+applications were heard in Mississauga on October 23, 2018 and on January 18,
+2019.
+ 
+One of the Landlords, AL, the Landlords’ Legal Representative, IB  and
+the Tenant attended both hearings.  The Tenant’s Legal Representative, ‘SS’,
+only attended the second hearing on January 18, 2019.
+ 
+Subsequent to the first hearing on October 23, 2018, interim order
+CEL-78863-18-IN was issued on October 26, 2018, which in effect made some
+preliminary findings on the L1 application, and ordered the disclosure of
+documents between the parties.
+ 
+Preliminary Issues
+ 
+1.  SS argued for the dismissal of both applications on the basis
+that the multiplicity of different notices of termination served on the Tenant
+have, in effect, confused and confounded the Tenant so as to not clearly understand
+what she had to do, and when, to void those notices that were able to be
+voided.  SS submitted two prior Board orders (exhibit TT#6- CEL-24830-12 and
+exhibit TT#7-TSL-93538-18) in support of his arguments.  
+ 
+IB claimed that in respect of the N4 notices, each time the Tenant
+voided a N4 notice for unpaid rent, she then subsequently became late again in
+paying another rent.  IB argued that a landlord is in its legal right to serve
+another N4 on a tenant when a tenant falls into new arrears of rent.  As for
+the N5 and N8 notices, IB argued that the claims in those notices are for
+distinctively different bases, and cannot reasonably be confused with one
+another.
+ 
+I denied the request for the dismissal of the applications.  I
+believe that on a balance of probabilities, the Tenant here was not confused as
+to what notice was valid, or what notice had the ability to be voided.  The
+Landlord used Board approved notices at all times, and those notices each
+describe in plain language what is at issue, and what can or cannot be done to
+either void the notice or contest the Landlord and maintain the tenancy.
+ 
+Further, TT#6 dealt with a single N4 notice issue in which the
+landlord sent multiple N4s and after failing before the Board at an initial
+hearing based on the second N4 that was served, the landlord decided to file
+another application based on the first N4 notice (instead of starting anew).  
+This is not the case here.
+ 
+TT#7 dealt with three N5, N6 and N7 notices at the same time, with
+the same termination date, and all based on the identical reasons for ending
+the tenancy.  Again, this is not the case here.
+ 
+2.  SS raised the issue of receiving documents from the Tenant one
+day later than the deadline specified in interim order CEL-78863-18-IN.    The
+deadline in the interim order was effectively, January 3, 2019.  Because of
+this breach, SS requested that the Board not consider any the Tenant’s evidence
+at this hearing.
+ 
+IB produced evidence that on January 2, 2019, he sent all
+documents via Canada Post’s overnight courier service, so any delay was not of
+his doing.  Further, IB objected to this being raised at all since SS never
+once indicated anything to him that this was somehow a fatal breach of the
+interim order.  Both IB and SS submitted arguments in respect of “natural
+justice” being served.
+ 
+Based on the respective submissions, I do not find the Landlord’s
+technical breach of my interim order to be of the Landlord’s doing, or significant
+enough for me to take the position that I should disallow everything the
+Landlord might present at the second hearing.  I rely upon section 202 of the Residential
+Tenancies Act, 2006 (the ‘Act’) which directs me to ascertain the real
+substance of all transactions, and not just the outward appearance of them.  In
+this case, I believe IB intended fully to comply with my interim order, and
+made a good faith posting of his evidence to SS on January 2, 2019.   I
+therefore denied the Landlord’s request on this issue.
+ 
+3.  SS argued that much of the evidence he has seen, and which may
+be adduced at the second hearing, is about events that post-date the date when
+the applications were filed by the Landlord on August 29, 2018.  He requested
+that anything post-filing be disallowed at the second hearing.
+ 
+IB submitted arguments in respect of “natural justice” being
+served, relying on section 233 of the Act for his arguments.  SS submitted his
+own arguments in reply about “natural justice” ending with again, the N5 and N8
+are for different, contradictory bases.
+ 
+I denied the Landlord’s argument about post-filing evidence being
+adduced at the hearing.  With regard to section 201 of the Act, Interpretation
+Guideline 13(d) and Rule 19 of the Board’s Rules, Members have the ability,
+while respecting procedural fairness, to hear whatever evidence is deemed
+necessary to properly consider all issues in an application being heard.  There
+is no limitation set anywhere that requires all evidence to reflect solely
+pre-filing events.   Board notices of termination often set termination dates
+well beyond application filing dates, and it would simply render the hearing
+process useless if some “event date” limitation relative to an application
+filing date were to be set.  As well, section 83 of the Act requires Members to
+hear all the circumstances in a landlord’s application that seeks eviction,
+which in most cases requires Members to hear submissions about events happening
+after the filing of the application at bar.  Finally, hearings are supposed to
+be summary in nature, and must dispose of all matters in a hearing as
+efficiently and expeditiously as possible, all in keeping with section 183 of
+the Act.
+ 
+Determinations:
+ 
+            October 23, 2018 Hearing
+ 
+1.      From
+that hearing, and with reference to section 212 of the Act, I find the Notice
+of Rent Increase that was served is a valid notice as that notice is
+substantially compliant with respect to the content of that form.  
+2.      I
+also find that the lawful monthly rent for the rental unit as of February 1,
+2018 is $1,335.54.
+3.      However,
+with regard to the N4 notice underlying the L1 application at bar, I find the
+application cannot proceed as it stands, because the N4 notice claims rent for
+a period of time that had already been ruled upon in order CEL-72966-18.  
+Order CEL-72966-18 was never reviewed, it became final and has since expired as
+of September 11, 2018.
+            January
+18, 2019 Hearing
+L1 Amended
+to L9 Application
+4.      The
+Landlord requested that the L1 application be amended to become an arrears-only
+application under section 87 of the Act.  After hearing the submissions of the
+parties, I consent to amending the L1 application so that it effectively
+becomes an arrears-only application beginning with the March 1, 2018 rental
+period going forward.
+5.      The
+Tenant has not paid the total rent the Tenant was required to pay for the period
+from March 1, 2018 to January 31, 2019.  Because of the arrears, the Landlord had
+originally served a Notice of Termination effective August 2, 2018.
+6.      The
+Landlord collected a rent deposit of $1,290.00 from the Tenant and this deposit
+is still being held by the Landlord.
+7.      Interest
+on the rent deposit is owing to the Tenant for the period from August 19, 2011
+to August 2, 2018.
+8.      The
+Tenant paid $5,263.20 after the application was filed.
+L2
+Application
+9.      The
+Landlord submitted nine exhibits (LL#3 to LL#11), and with some testimony from
+AL, claimed VT substantially interfered with the Landlord’s lawful rights and
+privileges in respect of refusing entry, or interfering with the ability to
+enter, of the Landlord or the Landlord’s agents on over 40 occasions including
+on:  February 9, 2018 (LL#3-mechanical contractor), April 13, 2018 (LL#4- pest
+control), August 14, 2018 (LL#5-inspection by AL), August 17, 2018  August 20,
+2018 (LL#6-inspection by AL), and November 9, 2018 (LL#7-Landlords’ real estate
+agent).  
+10.   IB
+stated that the issue of being refused entry is still outstanding to date.  IB
+stated that VT went as far as stating in writing that she would not be allowing
+the Landlords into the unit (LL#8- VT letter dated November 9, 2018), despite
+being advised that the rental unit was put up for sale by the Landlords (LL#9, 
+LL#10).  Exhibit LL#11 was submitted to show that for 62 possible showings,
+only 5 were successful because IB claimed that VT refused the Landlords entry.
+11.   IB
+submitted that the Landlords notified VT in writing that they did not have the
+key to the rental unit (LL#8, L#9, LL#10).  
+12.   SS
+and the Tenant then proceeded by submitting rebuttals against each claim of
+refused entry presented on by the Landlords at the hearing. Two additional
+exhibits were submitted as TT#8 (April 13/18 text message between IB and AL)
+and TT#9 (copy of purchase agreement which the Tenant received on December
+10/18).  Many of the “refused” entries were actually occasions when the
+Landlords came to the rental unit and no one was there to let them in.
+13.   It
+became very evident to me that there are two central issues surrounding the N5
+claims under this application.  The first is language.   I noted at times in
+the hearing when the Landlords’ limitation of the English language manifested
+itself.  An example of that is exhibit LL#3, which clearly states that a
+mechanical contractor needed to enter on February 9, 2018.  That notice makes
+no mention that the Landlords themselves need any entry, so when AL showed up
+with the mechanical contractor at the rental unit on February 9th,
+VT only permitted the mechanical contractor to enter.
+14.   The
+second issue relates to the key which unlocks the entry door to the rental
+unit.  It was clear to me at the earlier part of the claims, the Tenant was not
+aware that the Landlords had no key to enter the rental unit. The notices for
+entry request the Tenant to be present at the unit, but VT pointed out
+correctly, there is no need for her to be present at the unit for any time that
+the Landlords had duly notified her of the need to enter.
+15.   The
+door-key issue became understood by the Tenant, as the evidence and testimonies
+strongly suggest, in November 2018 (most certainly on November 29, 2018-LL#10),
+when the matter of a security “key code” on the rental unit key was finally expressed
+in writing. As it turns out, a security “key code” is required so that a
+duplicate key can be made; and that “key code” appears on the actual key
+itself, which to date only the Tenant has possession of.  All along, I believe
+VT’s testimony that she thought the Landlords had their own key, or if not, she
+believed they could have made their own duplicate key through the condo
+management company that manages the building.
+16.   However,
+since she has become fully aware of the Landlords’ need for a “key code”, VT
+has not been forthcoming in giving the much needed “key code” to the
+Landlords.  I firmly suspect that because of all the happenings under the
+tenancy, the parties’ relationship has deteriorated to the point of acrimony,
+so that neither party seems willing to talk to the other, never mind cooperate
+with one another.
+17.   Before
+making final determinations on the N5 notice, I asked the parties that if the
+“key code” were passed between the parties, would that not resolve the
+application at bar.  The parties both agreed that this would be satisfactory,
+and before me, VT handed over the “key code” to AL.  IB agreed that the L2/N5
+application was adequately resolved; there was no objection from SS.
+18.   With
+respect to the N8 notice of termination (claiming the Tenant has been
+persistently late in paying her rents), I held the matter down for a few
+minutes so the parties could talk about settling the N8 basis of the L2
+application.  The parties returned, requesting a continuation of the tenancy
+under an order on consent for payment of future rents, on time and in full,
+subject to section 78 of the Act. 
+It is ordered that:
+ 
+L1/L9 Application
+ 
+1.      The
+Tenant shall pay to the Landlords $1,722.94*, which
+represents the amount of rent owing and compensation up to January 31, 2019 and
+includes the cost of filing the application.
+2.      If
+the Tenant does not pay the Landlords the full amount owing of $1,722.94 on or
+before February 12, 2019, the Tenant will start to owe interest.  This will be
+simple interest calculated from February 13, 2019 at 3.00% annually on the
+balance outstanding.
+3.      To
+be clear, the rent that is due on the February 1, 2019 for the rental period of
+February 1-28, 2019 is not included as part of this order.
+L2
+Application
+4.      With
+respect to the Landlords being able to make a duplicate key to the rental unit at
+their own expense, if there is additional information or assistance the
+Landlords need so the rental unit key can be duplicated, the Landlords shall
+clearly communicate in writing the information or assistance needed, and the
+Tenant shall continue to cooperate with the Landlords in good faith.
+5.      The
+tenancy between the Landlords and the Tenant shall continue but shall be subject
+to the following order on consent:  
+6.      The
+Tenant shall pay the Landlords the full monthly rent on or before the first day
+of each month for a twelve month period commencing February 1, 2019 through to
+and including January 1, 2020.
+7.      If
+the Tenant fails to make any one of the payments ordered in paragraph 6, in
+full and on time, the Landlords may apply under section 78 of the Residential
+Tenancies Act, 2006, without notice to the Tenant for an order terminating
+the tenancy and evicting the Tenant. The Landlords must make this application
+no later than 30 days after the Tenant’s failure to make a payment. 
+February 1, 2019                                                             _______
+Date Issued                                                                      Alex
+Brkic
+                                                                                                                           Member,
+Landlord and Tenant Board
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+ 
+ 
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-78863-18
+ 
+A.        Amount the Tenant must pay under the arrears-only
+application:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+March 1, 2018 to January 31, 2019
+
+
+$6,796.14
+
+
+
+ 
+ 
+
+
+
+Less the amount the Tenant paid to the Landlord:
+
+
+ 
+
+
+-$5,263.20
+
+
+
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord (filing
+  fee):
+
+
+ 
+
+
+$190.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to the Landlord:
+
+
+Arrears owing to January 31, 2019
+
+
+$1,722.94
+
+
+
+ 
+ 
+ 
+Calculation of Interest on Rent Deposit
+
+
+
+Rent deposit that Landlord is holding:
+
+
+ 
+
+
+$1,290.00
+
+
+
+ 
+
+
+
+Less the interest owing by Landlord on the rent deposit:
+
+
+August 19, 2011 to August 2, 2018 (termination date in original N4
+  notice)
+
+
+$170.76
+
+
+
+ 
+

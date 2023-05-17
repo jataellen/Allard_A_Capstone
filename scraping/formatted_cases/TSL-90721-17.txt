@@ -1,0 +1,222 @@
+Metadata:
+Date:	2018-03-01
+File number:	
+TSL-90721-17
+	TSL-90721-17
+Citation:	TSL-90721-17 (Re), 2018 CanLII 42877 (ON LTB), <https://canlii.ca/t/hs1fg>, retrieved on 2023-05-16	https://canlii.ca/t/hs1fg
+Content:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: TSL-90721-17
+ 
+ 
+ 
+#.B.C.H.I
+(the 'Landlord') applied, to the Landlord and Tenant Board (the “Board”), for
+an order to terminate the tenancy and evict A.S (the 'Tenant') because the
+Tenant did not pay the rent that the Tenant owes.
+ 
+This
+application was heard in Toronto on February 20, 2018.
+ 
+The
+Landlord was represented by D.C, licensed paralegal. The Tenant attended the
+hearing and was self-represented.
+ 
+It is determined that:
+ 
+Preliminary Matters
+ 
+Letters From Other Tenants of the Complex
+ 
+1.      The Tenant sought to
+rely on some hearsay evidence in the form of four letters from other tenants of
+the residential complex, who did not attend the hearing to provide oral
+testimony. The Tenant explained the said four tenants could not attend due to
+work commitments. Witnesses regularly provide testimony in Board proceedings via
+telephone. No explanation was provided going to why the four tenants could not
+take time off work to attend the hearing or participate via telephone
+and it does not appear the Tenant requested a summons to compel their
+attendance. In my view, a reasonable explanation was not provided why the four
+tenants did not attended the hearing, either in person or by teleconference.
+2.      Hearsay evidence is
+admissible in Board proceedings, but considering that the authors of
+the letters
+were not available to be cross-examined on their statements, no reasonable
+explanation was provided why the individuals were unavailable to testify in
+person or by telephone and the letters were not in the form of a sworn
+affidavit, the letters had minimal evidentiary value and were given no weight. With
+disputed hearsay evidence, credibility is a central issue and the necessity for
+cross-examination is intensified. Basic fairness and natural justice requires
+that evidence of this nature be assessed in light of there being no opportunity
+to cross-examine; this is especially so when the document at issue is being
+heavily relied upon to seek the relief requested and the opposing side is
+denied the right of cross-examination.
+Service
+of the Notice of Rent Increase (the “NORI”)
+3.      The
+arrears claimed in this application arise from the Tenant’s failure to pay a statutory
+rent increase in 2016. The Tenant’s position is that the N4 notice is invalid as
+it does not state the lawful rent because she was not served with a NORI raising
+the monthly rent to $1,243.58, effective September 1, 2016.
+4.      The Act and the
+Board’s Rules require a landlord to provide a tenant with documents, including
+NORIs, and if they are served in accordance with the Act and Rules they are
+deemed to have been served whether the tenant receives them or not. It is only
+when documents are not served in accordance with one of the permissible methods
+set out in subsection 191(1) of the Residential Tenancies
+Act, 2006
+(the 'Act') or
+Rule 5 that a landlord must prove the tenant actually received them (pursuant
+to subsection 191(2) of the Act). Here, the Landlord’s evidence is that the
+NORI was served to the Tenant by JH, on May 28, 2016, in accordance with
+one of the permissible methods set out in subsection 191(1) of the Act. For the
+reasons that follow, I find, on a balance of probabilities, that the NORI was
+served to the Tenant on May 28, 2016 and, therefore, the N4 notice
+of termination served to the Tenant on October 31, 2017, is valid.
+5.      On any
+application before the Board the party making an allegation has the onus of
+proving that allegation on a balance of probabilities. That means the Landlord
+here must lead sufficient evidence to establish it is more likely than not the NORI was served to
+the Tenant on May 28, 2016.
+6.      On a balance of
+probabilities means that the Landlord must show that its version of events is
+the more probable and should succeed. Saying something is proven on a balance
+of probabilities simply means that it is more likely than not to have occurred.
+It means that it is probable, i.e., the probability that some event happened is
+more than 50%--indeed, 50.1% is sufficient. In all cases, the decision maker
+must weigh up the evidence and decide which version is most probably true.
+Consequently, the real truth may never be known. All that can be done is to
+decide which of the parties has presented the most probable version.
+7.      Further, as the
+Supreme Court of Canada stated in F. H. v. McDougall, 2008 SCC 53 (“F.
+H. v. McDougall”), at paragraph 46, the civil standard of proof requires
+that evidence “must always be sufficiently clear, convincing and cogent to
+satisfy the balance of probabilities test.” Here, in my view, the Landlord’s
+evidence has met the required standard. 
+8.      JH, the
+superintendent of the complex for the past four years, testified she served the
+NORI to the Tenant on or about 12 p.m. on May 28, 2016, by placing the document
+under the door to the unit. The Landlord provided a Notice of Rent Increase
+(Serving List) (the “Serving List”), completed by JH for May 28, 2016, which JH
+testified she completed upon serving the NORI to the Tenant. The said Serving
+List bears JH’s signature and indicates JH only served one NORI on May 28th—that
+served to the Tenant.
+9.      The Tenant
+testified she was home all day on May 28, 2016 and was able to so recall
+because she was sick and unable to go outdoors. Further, the Tenant recalls she
+was working on a university research paper at home as she was too ill to go to
+the library.
+10.   On
+cross-examination the Tenant acknowledged she was served with a NORI by the
+Landlord for a rent increase in 2017 and signed the Landlord’s Serving List in
+this connection. The Tenant further acknowledged she was served with a NORI for
+a rent increase in 2015. The Tenant was asked if there would be any benefit to
+the Landlord in failing to serve her with a NORI for 2016, and the Tenant
+stated there would be no benefit. 
+11.   As
+stated above, when a landlord serves a document to a tenant in
+accordance with one of the permitted methods set out in subsection 191(1) of
+the Act or Rule 5 of the Board’s Rules, there is no concomitant obligation
+on the Landlord to prove the tenant actually received the document. Rule 5.1 d.
+lists one of the permissible methods of service of a document as follows:  “for service on a person who occupies the rental unit, by placing
+it under the door of the unit or through a mail slot in the door.” If a
+Landlord opts for this method of service there is
+no requirement the landlord knock on the door of the unit to ascertain if the
+tenant is home and/or received the document being served. Indeed, if such was
+required, then the landlord would, in essence, be effecting personal service
+upon the tenant, which is another and different permissible method of service,
+as the landlord might as well simply hand the document to the tenant. By allowing
+a landlord to place the document under the door of the unit or through a mail
+slot in the door, Rule 5.1 d. allows the landlord to discharge her/his
+obligation in that fashion with no other conditions attached.
+12.   With respect to what
+transpired on May 28, 2016, I have no reason to prefer JH’s version of facts
+over AS’s version. However, JH’s testimony, which testimony was corroborated by
+the Serving List and copy of the NORI at issue, was certainly superior to that
+of the Tenant, who, as stated, testified she was home all day on May 28th.
+So, while I believe the Tenant was home on May 28th, I also believe
+JH placed the NORI under the door to the unit on that date. This is especially
+so as, while the Tenant was given an clear opportunity to cross-examine JH, the
+witness’s testimony remained unshaken and uncontradicted, both internally and
+vis-à-vis the documentary evidence provided—that is the Serving List and the
+copy of the NORI served to the Tenant on May 28th.
+13.   For the above
+reasons, I find, on a balance of probabilities, that the NORI was served to the
+Tenant as JH testified on May 28th and, therefore,
+the N4 notice of termination served to the Tenant on October 31, 2017, is valid
+and the current lawful monthly rent is $1,243.58.
+The
+Landlord’s Application
+1.      The
+Tenant has not paid $329.16 of the total rent the Tenant was required to pay
+for the period from September 1, 2016 to February 28, 2018. Because of the
+arrears, the Landlord served a Notice of Termination.
+2.      The
+Tenant also owes the Landlord $190.00 for the cost of filing the application.
+3.      The
+total amount owing to February 28, 2018 is $519.16 ($329.16 + $190.00).
+4.      I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Residential Tenancies Act, 2006 (the 'Act'), and find
+that it would not be unfair to grant relief from eviction subject to the
+conditions set out in this order pursuant to subsection 83(1)(a) and 204(1) of
+the Act. In particular, no evidence was presented the parties have, in the
+past, been before the Board in connection with any issues arising out of the
+tenancy and, further, the Tenant made significant payments to the Landlord
+after the application was filed.
+It is ordered that:
+ 
+1.      The
+Tenant shall pay the Landlord $519.16 as follows:
+      
+      a) $173.05, on or before March 15, 2018;
+             
+b) $173.05, on or before April 15, 2018; and
+            
+c) $173.06, on or before May 16, 2016.
+2.      The Tenant
+shall also pay the Landlord rent owing for the month of March, 2018 no later
+than March 10, 2018.
+3.      The Tenant
+shall also pay the Landlord rent owing for the months of April, 2018 and May,
+2018 no later than the first day of the month.
+4.      If
+the Tenant fails to make any one of the payments in accordance with this order,
+the outstanding balance of any arrears of rent and costs to be paid by the
+Tenant to the Landlord pursuant to paragraphs 1, 2 or 3 of this order shall
+become immediately due and owing and the Landlord may, without notice to the
+Tenant apply to the Board pursuant to section 78 of the Act for an order
+terminating the tenancy and evicting the Tenant and requiring that the Tenant
+pay any new arrears, NSF fees and related charges that became owing after February
+28, 2018.
+ 
+ 
+March 1, 2018                                                                  _______________________
+Date Issued                                                                      Roger
+Rodrigues
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Toronto South-RO
+79 St. Clair Avenue East, Suite 212, 2nd Floor
+Toronto ON M4T1M6
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+

@@ -1,0 +1,668 @@
+Metadata:
+Date:	2020-08-04
+File number:	
+TEL-05412-19
+	TEL-05412-19
+Citation:	Northview Apartment Reit v Clayton, 2020 CanLII 61279 (ON LTB), <https://canlii.ca/t/j9dqp>, retrieved on 2023-05-16	https://canlii.ca/t/j9dqp
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: TEL-05412-19
+ 
+Time period for Arrears
+Owing            From:   July
+1, 2019 to August 30, 2019
+(From the commencement of
+arrears to the termination date in the notice, or the end of the rental period
+if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/07/2019 - 31/07/2019
+
+
+$1,296.14
+
+
+ 
+
+
+$1,296.14
+
+
+ 
+
+
+$1,296.14
+
+
+
+
+01/08/2019 - 30/08/2019
+
+
+$1,278.39
+
+
+ 
+
+
+$1,278.39
+
+
+ 
+
+
+$1,278.38
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent
+  for part of a month, use the 
+       following formula for
+  columns (B), (C) and (D):
+ 
+       Monthly Rent X 12
+  X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$2,574.52
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                        $2,574.52
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                                     $4,078.42
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                         $2,574.52
+ 
+(I)         Total Amount
+Owing                                                                                              $2,574.52
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy
+is being terminated)
+ 
+(J) (i)    Lump Sum
+Compensation Start Date                                            August
+31, 2019
+            (Day after
+termination date in notice)
+ 
+    (ii)    Lump Sum
+Compensation End Date                                              August
+4, 2020
+            (Date of order)
+ 
+(K)       Daily
+Compensation (Monthly
+Rent X 12)                                                              $42.61
+                                                    
+365
+ 
+(L)        Number of Days
+for Lump Sum Compensation                                                  340
+days
+            (# days between
+start date and order date - inclusive)
+ 
+(M)       Total Lump Sum
+Compensation                                                                           $14,487.40
+            [(K) X (L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are
+terminating the tenancy)
+ 
+(N)        Rent Deposit                                                                                                          $1,445.29
+ 
+(O1)      Interest Owing
+on Rent Deposit
+        For period from:
+01/11/2018 to 30/08/2019
+       (i)  Annual Amount (S)
+X 1.8%                                                                     =               $26.02
+       (ii) Daily Amount (i)
+/ 365                                                                                               
+=   0.0713
+       (iii) Interest Owing
+(ii) X 303 (# of days)                                                        =
+              $21.60
+ 
+ 
+ 
+ 
+(O2)      Total amount of
+interest owing on rent deposit
+ 
+            [(O1)]                                                                                                 $21.60
+ 
+ 
+ 
+(P)        Rent Deposit +
+Interest
+ 
+            [(N) + (O2)] =                                                                                                           $1,466.89
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                             $15,595.03
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies
+Act, 2006
+ 
+File Number: TEL-05412-19
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+160, 100 RIDEAU STREET
+OSHAWA ON L1J6P5
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+Northview Apartment Reit
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+Andrew Clayton
+Elizabeth Wilson
+Hoyes Michalos & Associates Inc. as the Trustee
+  for Elizabeth Dawn Wilson
+ 
+
+
+Tenants
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+Northview Apartment Reit (the 'Landlord') applied for
+an order to terminate the tenancy and evict Andrew Clayton, Elizabeth Wilson
+and Hoyes Michalos & Associates Inc as the Trustee for Elizabeth Dawn
+Wilson (the 'Tenants') because the Tenants did not pay the rent that the
+Tenants owe and because they have been persistently late in paying their rent.
+The Landlord also claimed compensation for each day the Tenants remained in the
+unit after the termination date.
+ 
+This application was heard in Whitby on March 2, 2020.
+
+ 
+Only the Landlord’s legal
+representative, Matt Anderson, attended the hearing.
+ 
+As a result of a Superior Court
+of Justice order suspending the enforcement of LTB eviction orders during the
+period from March 18, 2020 to July 31, 2020, the issuance of this Order has
+been delayed. Any payments made by the Tenants to the Landlord after the
+application was filed by the Landlord must deducted from the amount ordered by
+the Board.
+ 
+Determinations:
+ 
+THE APPLICATION FOR NON-PAYMENT OF
+RENT
+ 
+1.     
+The Tenants have not paid
+the total rent the Tenants were required to pay for the period from July 1,
+2019 to November 30, 2019.  Because of the arrears, the Landlord served a
+Notice of Termination effective August 30, 2019.
+2.     
+The outstanding arrears for
+the period ending March 31, 2020, are $12,623.74. 
+3.     
+The Landlord incurred costs
+for filing the application and is entitled to be reimbursed for those costs. 
+4.     
+The Landlord collected a
+rent deposit of $1,445.29 from the Tenants and this deposit is still being held
+by the Landlord.
+5.     
+Interest on the rent deposit
+is owing to the Tenants for the period from November 1, 2018 to August 30,
+2019, in the amount of $21.60.
+THE APPLICATION FOR PERSISTENTLY LATE PAYMENT
+6.     
+The Tenants have
+persistently failed to pay the rent on the date it was due. According to the
+Landlord’s submissions, the Tenants have been late paying their rent 28 out of
+28 times since November 2017. 
+7.     
+I have considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act.
+It is ordered that:
+1.     
+The tenancy between the
+Landlord and the Tenants is terminated.  The Tenants must move out of the
+rental unit on or before August 15, 2020.
+2.     
+The Tenants shall pay to the
+Landlord $15,595.03*, which represents the amount of rent owing and
+compensation up to August 4, 2020, less the rent deposit and interest the
+Landlord owes on the rent deposit.
+3.     
+The Tenants shall also pay
+to the Landlord $42.61 per day for compensation for the use of the unit
+starting August 5, 2020 to the date the Tenants move out of the unit.
+4.     
+The Tenants shall also pay
+to the Landlord $190.00 for the cost of filing the application.
+5.     
+If the Tenants do not pay
+the Landlord the full amount owing* on or before August 15, 2020, the Tenants
+will start to owe interest.  This will be simple interest calculated from
+August 16, 2020 at .00% annually on the balance outstanding.
+6.     
+If the unit is not vacated
+on or before August 15, 2020, then starting August 16, 2020, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+7.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after August 16, 2020.
+8.     
+If, on or before August 15,
+2020, the Tenants pay the amount of $20,199.14** to the Landlord or to the
+Board in trust, this order for eviction will be void.  This means that the
+tenancy would not be terminated and the Tenants could remain in the unit.  If
+this payment is not made in full and on time, the Landlord may file this order
+with the Court Enforcement Office (Sheriff) so that the eviction may be
+enforced.
+9.     
+The Tenants may make a
+motion to the Board under subsection 74(11) of the Act to set aside this order
+if they pay the amount required under that subsection on or after August 16,
+2020 but before the Sheriff gives vacant possession to the Landlord. The
+Tenants are only entitled to make this motion once during the period of the
+tenancy agreement with the Landlord.
+10.  
+Any payments by the Tenants to the Landlord
+after the application was filed by the Landlord are deducted from amount
+ordered by the Board.
+ 
+ 
+August 4, 2020                                                                _______________________
+Date Issued                                                                      Laura
+Hartslief
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Toronto East-RO
+2275 Midland Avenue, Unit 2
+Toronto ON M1P3E7
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of
+the Act, the part of this order relating to the eviction expires on February
+16, 2021 if the order has not been filed on or before this date with the Court
+Enforcement Office (Sheriff) that has territorial jurisdiction where the rental
+unit is located.
+ 
+*           Refer to section A on
+the attached Summary of Calculations.
+ 
+ 
+
+
+
+
+Schedule
+1
+SUMMARY
+OF CALCULATIONS
+ 
+File
+Number: TEL-05412-19
+ 
+A.        Amount the Tenants
+must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+July 1, 2019 to August 30, 2019
+
+
+$2,574.52
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+August 31, 2019 to August 4,
+  2020
+
+
+$14,487.40
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,445.29
+
+
+
+ 
+
+
+
+Less the interest owing on the
+  rent deposit:
+
+
+November 1, 2018 to August 30,
+  2019
+
+
+-$21.60
+
+
+
+ 
+
+
+
+Amount owing to the Landlord on
+  the order date:(total
+  of previous boxes)
+
+
+$15,595.03
+
+
+
+ 
+
+
+
+Additional costs the Tenants must
+  pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+
+
+
+Plus daily compensation owing
+  for each day of occupation starting August 5, 2020:
+
+
+$42.61 (per day)
+
+
+
+ 
+
+
+
+Total the Tenants must pay
+  the Landlord if the tenancy is terminated:
+
+
+$15,785.03,
+  + $42.61
+  per day starting August 5, 2020
+
+
+
+ 
+ 
+
