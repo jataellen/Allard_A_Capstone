@@ -1,0 +1,944 @@
+Metadata:
+Date:	2018-07-20
+File number:	
+HOL-02425-18-RV
+	HOL-02425-18-RV
+Citation:	HOL-02425-18-RV (Re), 2018 CanLII 88582 (ON LTB), <https://canlii.ca/t/hv7n6>, retrieved on 2023-05-16	https://canlii.ca/t/hv7n6
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: HOL-02425-18-RV
+ 
+Time period for Arrears
+Owing            From:    June
+1, 2017 to February 28, 2018
+(From the commencement of
+arrears to the termination date in the notice, or the end of the rental period
+if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/06/2017 - 31/12/2017
+
+
+$13,910.00
+
+
+ 
+
+
+$13,910.00
+
+
+$700.00
+
+
+$13,210.00
+
+
+
+
+01/01/2018 - 31/01/2018
+
+
+$2,000.00
+
+
+ 
+
+
+$2,000.00
+
+
+ 
+
+
+$2,000.00
+
+
+
+
+01/02/2018 - 28/02/2018
+
+
+$2,000.00
+
+
+ 
+
+
+$2,000.00
+
+
+ 
+
+
+$2,000.00
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent
+  for part of a month, use the 
+       following formula for
+  columns (B), (C) and (D):
+ 
+       Monthly Rent X 12
+  X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$17,210.00
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                $17,210.00
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                             $17,385.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                 $17,210.00
+ 
+(H1)      Payment to
+Landlord                                                                                     $11,680.00
+ 
+(I)         Total Amount
+Owing                                                                                        $5,530.00
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy
+is being terminated)
+ 
+(J) (i)    Lump Sum
+Compensation Start Date                                            March
+1, 2018
+            (Day after
+termination date in notice)
+ 
+    (ii)    Lump Sum
+Compensation End Date                                              July
+20, 2018
+            (Date of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                                $65.75
+                                                    
+365
+ 
+(L)        Number of Days
+for Lump Sum Compensation                                                     142
+days
+            (# days between
+start date and order date - inclusive)
+ 
+(M)       Total Lump Sum
+Compensation                                                                      $9,336.50
+            [(K) X (L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are
+terminating the tenancy)
+ 
+(N)        Rent Deposit                                                                                                    $2,000.00
+ 
+(O1)      Interest Owing
+on Rent Deposit
+        For period from:
+05/08/2014 to 04/08/2015
+       (i)  Annual Amount (S)
+X 1.6%       =                                                          $32.00
+       (ii) Daily Amount (i)
+/ 365               =                                                             0.0877
+       (iii) Interest Owing
+(ii) X 365 (# of days) =                                                                       $32.01
+ 
+ 
+(O2)      Interest Owing on
+Rent Deposit
+        For period from:
+05/08/2015 to 04/08/2016
+       (i)  Annual Amount (S)
+X 2%          =                                                          $40.00
+       (ii) Daily Amount (i)
+/ 365               =                                                             0.1096
+       (iii) Interest Owing
+(ii) X 366 (# of days) =                                                                       $40.11
+ 
+ 
+(O3)      Interest Owing
+on Rent Deposit
+        For period from:
+05/08/2016 to 04/08/2017
+       (i)  Annual Amount (S)
+X 1.5%       =                                                          $30.00
+       (ii) Daily Amount (i)
+/ 365               =                                                             0.0822
+       (iii) Interest Owing
+(ii) X 365 (# of days) =                                                                       $30.00
+ 
+ 
+(O4)      Interest Owing
+on Rent Deposit
+        For period from:
+05/08/2017 to 28/02/2018
+       (i)  Annual Amount (S)
+X 1.8%       =                                                          $36.00
+       (ii) Daily Amount (i)
+/ 365               =                                                             0.0986
+       (iii) Interest Owing
+(ii) X 208 (# of days) =                                                                       $20.51
+ 
+ 
+ 
+ 
+(O5)      Total amount of
+interest owing on rent deposit
+ 
+            [(O1) + (O2) +
+(O3) + (O4)]                                                                 $122.63
+ 
+ 
+ 
+(P)        Rent Deposit +
+Interest
+ 
+            [(N) + (O5)] =                                                                                                     $2,122.63
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                        $12,743.87
+ 
+
+
+
+
+Order under Section 21.2
+of the 
+Statutory Powers
+Procedure Act 
+and the Residential
+Tenancies Act, 2006
+ 
+File Number: HOL-02425-18-RV
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+A & N S
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+C M T
+ 
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+Review Order
+ 
+ 
+A & N S (the 'Landlord') applied for an order to
+terminate the tenancy and evict C M T (the 'Tenant') because the Tenant did not
+pay the rent that the Tenant owes.
+ 
+The Landlord’s application was resolved by order
+HOL-02425-18, issued on April 12, 2018.
+ 
+On June 27, 2018, the Tenant requested a review of
+that order.
+ 
+The Tenant’s review request was heard in Mississauga
+on July 18, 2018.
+ 
+The Landlord, A. S, and the Tenant
+attended the hearing. The Landlord was represented by paralegal S. P.
+ 
+Determinations:
+ 
+1.     
+The Tenant alleges that,
+after the hearing that took place on April 11, 2018, the Landlord agreed not to
+file the eviction order with the sheriff if the Tenant made payments towards
+the rent arrears. The Tenant further alleges that she made payments yet the
+Landlord committed an “abuse of process” by still proceeding with the eviction.
+2.     
+The Landlord did not commit
+an abuse of process. To the contrary, the Tenant has received the benefit of
+the Landlord’s good nature and patience. The Landlord delayed filing the
+eviction order with the sheriff at the Tenant’s request to try and give the
+Tenant some time to pay the amount owing.
+3.     
+The Landlord presented
+numerous text messages sent between the Landlord and the Tenant which clearly
+establish that the Landlord stated that he would not evict the Tenant if the
+Tenant was able to bring the “account current” or at least reduce the amount
+owing to $3,000.00. The Tenant repeatedly promised payments but then asked for
+more time.
+4.     
+The Tenant did not dispute
+the contents of the text messages.
+5.     
+The April 12th
+order permits the Landlord to file the eviction order with the sheriff as of
+April 24, 2018. The order states that the eviction portion of the order expires
+as of October 24, 2018. This means that the Landlord has up to that date to
+file the order with the sheriff to enforce the eviction. 
+6.     
+The text messages establish
+that the Landlord was more than patient with the Tenant and gave her multiple
+opportunities to pay the amount owing before he filed the order with the
+sheriff at the end of May.
+7.     
+There have been multiple
+arrears orders during this four year tenancy. The Tenant has had an ongoing balance
+of rent arrears owing for the last three years. This is not disputed. 
+8.     
+It is also not disputed that
+the Tenant has a pattern of accumulating multiple months of rent arrears and
+then tries to secure the funds needed to pay the substantial amount that has
+accumulated. The Landlord has repeatedly given the Tenant extra time to come up
+with the funds needed to reduce the rent arrears.
+9.     
+In an email the Tenant sent
+to the Board on April 11, 2018 she states that the Landlord has been very
+patient with her and “has put up with more than he probably should”.
+10.  
+There is no serious error in
+the order or the proceedings. The allegation in the Tenant’s review request
+regarding an abuse of process is unfounded. 
+11.  
+Yet, the Landlord was not
+opposed to replacing the April 12th order with a new order
+reflecting the current amount owing and giving the Tenant another opportunity
+to pay the amount owing. He stated that he is trying to be “humane” because the
+Tenant has two children. It was on the basis of the Landlord’s consent that the
+review request was granted at the hearing since there is otherwise no basis for
+the review.
+12.  
+The monthly rent is
+$2,000.00.
+13.  
+The Tenant has not paid
+$15,530.00 of the total rent the Tenant was required to pay for the period from
+June 1, 2017 to July 31, 2018. Because of the arrears, the Landlord served a N4
+Notice of Termination.
+14.  
+The Tenant also owes the
+Landlord $175.00 for the cost of filing the application.
+15.  
+The amount owing is not
+disputed.
+16.  
+The Landlord collected a
+rent deposit of $2,000.00 from the Tenant and this deposit is still being held
+by the Landlord.
+17.  
+Interest on the rent deposit
+is owing to the Tenant for the period from August 5, 2014 to February 28, 2018.
+18.  
+The multiple arrears orders
+and the Tenant’s pattern of payment establishes that the Tenant is simply
+unable to afford the rent for this unit. She is a single mother with two
+children with a limited income. Utilities are not included in the rent and are
+an extra expense.
+19.  
+The Tenant applied for and
+was granted a fee waiver to file this review based on her reported income. In
+that document she declared that her income is almost equivalent to the amount
+of rent that she is paying. This also establishes that the Tenant is unable to
+afford the rent for the unit.
+20.  
+I have considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would not be unfair to
+postpone the eviction until August 7, 2018 pursuant to subsection 83(1)(b) of
+the Act. This short delay will give the Tenant some time to organize her move
+or try to obtain a loan for the funds needed to void the order. The Landlord
+was not opposed to this date.
+It is ordered that:
+ 
+1.     
+Order HOL-02425-18, issued
+on April 12, 2018, is cancelled and replaced by the following: 
+2.     
+Unless the Tenant voids the
+order as set out below, the tenancy between the Landlord and the Tenant is
+terminated. The Tenant must move out of the rental unit on or before August 7,
+2018.
+3.     
+The Tenant shall pay to the
+Landlord $12,743.87*, which represents the amount of rent owing and
+compensation up to July 20, 2018, less the rent deposit and interest the
+Landlord owes on the rent deposit.
+4.     
+The Tenant shall also pay to
+the Landlord $65.75 per day for compensation for the use of the unit starting
+July 21, 2018 to the date the Tenant moves out of the unit.
+5.     
+The Tenant shall also pay to
+the Landlord $175.00 for the cost of filing the application.
+6.     
+If the unit is not vacated
+on or before August 7, 2018, then starting August 8, 2018, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+7.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after August 8, 2018.
+8.     
+If the Tenant wishes
+to void this order and continue the tenancy, the Tenant must pay to the
+Landlord or to the Board in trust:
+i)        $15,705.00 if the payment is made on or before July 31, 2018, or
+ii)       $17,705.00 if the payment is made on or before August 7, 2018**.
+If the Tenant does not make full payment in accordance with this paragraph and
+by the appropriate deadline, then the Landlord may file this order with the
+Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+9.     
+The Tenant may make a motion
+to the Board under subsection 74(11) of the Act to set aside this order if they
+pay the amount required under that subsection on or after August 8, 2018 but
+before the Sheriff gives vacant possession to the Landlord. The Tenant is only
+entitled to make this motion once during the period of the tenancy agreement
+with the Landlord.
+                                                                                                
+July 20, 2018                                                                    _______________________
+Date Issued                                                                      Karen
+Wallace
+                                                                                                                           Vice
+Chair, Landlord and Tenant Board
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of
+the Act, the part of this order relating to the eviction expires on February 8,
+2019 if the order has not been filed on or before this date with the Court
+Enforcement Office (Sheriff) that has territorial jurisdiction where the rental
+unit is located.
+ 
+*           Refer to section A on
+the attached Summary of Calculations.
+**         Refer to section B on
+the attached Summary of Calculations.
+
+
+
+
+Schedule
+1
+SUMMARY
+OF CALCULATIONS
+ 
+File
+Number: HOL-02425-18-RV
+ 
+A.        Amount the Tenant
+must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: 
+
+
+June 1, 2017 to February 28,
+  2018
+
+
+$17,210.00
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid
+  to the Landlord:
+
+
+ 
+
+
+-$11,680.00
+
+
+
+ 
+
+
+
+Plus daily rent/compensation: ( to the date of the order)
+
+
+March 1, 2018 to July 20, 2018
+
+
+$9,336.50
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$2,000.00
+
+
+
+ 
+
+
+
+Less the interest owing on the
+  rent deposit:
+
+
+August 5, 2014 to February 28,
+  2018
+
+
+-$122.63
+
+
+
+ 
+
+
+
+Amount owing to the Landlord on
+  the order date:(total
+  of previous boxes)
+
+
+$12,743.87
+
+
+
+ 
+
+
+
+Additional costs the Tenant must
+  pay to the Landlord:
+
+
+$175.00
+
+
+
+ 
+
+
+
+Plus daily compensation owing
+  for each day of occupation starting July 21, 2018:
+
+
+$65.75 (per day)
+
+
+
+ 
+
+
+
+Total the Tenant must pay the
+  Landlord if the tenancy is terminated:
+
+
+$12,918.87,
+  + $65.75
+  per day starting July 21, 2018
+
+
+
+ 
+ 
+ 
+ 
+ 
+B. Amount the Tenant must pay
+to void the eviction order and continue the tenancy:
+ 
+1.         If the payment is
+made on or before July 31, 2018:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears: 
+
+
+June 1, 2017 to July 31, 2018
+
+
+$27,210.00
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid
+  to the Landlord:
+
+
+ 
+
+
+-$11,680.00
+
+
+
+ 
+
+
+
+Additional costs the Tenant must
+  pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to
+  continue the tenancy:
+
+
+On or before July 31, 2018
+
+
+$15,705.00
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.         If the payment is
+made after July 31, 2018 but on or before August 7, 2018:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+June 1, 2017 to August 31, 2018
+
+
+      $29,210.00
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid
+  to the Landlord:
+
+
+ 
+
+
+-$11,680.00
+
+
+
+ 
+
+
+
+Additional costs the Tenant must
+  pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to
+  continue the tenancy:
+
+
+On or before August 7, 2018
+
+
+$17,705.00
+
+
+
+ 
+ 
+ 
+ 
+

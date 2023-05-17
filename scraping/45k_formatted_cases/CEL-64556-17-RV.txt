@@ -1,0 +1,841 @@
+Metadata:
+Date:	2017-04-13
+File number:	
+CEL-64556-17-RV
+	CEL-64556-17-RV
+Citation:	CEL-64556-17-RV (Re), 2017 CanLII 28662 (ON LTB), <https://canlii.ca/t/h3r3c>, retrieved on 2023-05-16	https://canlii.ca/t/h3r3c
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-64556-17-RV
+ 
+Time period for Arrears Owing From:   August 1, 2016 to March 31,
+2017
+(From the commencement of arrears to the termination date in the
+notice, or the end of the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/08/2016 - 28/02/2017
+
+
+$4,550.00
+
+
+ 
+
+
+$4,550.00
+
+
+$770.00
+
+
+$3,780.00
+
+
+
+
+01/03/2017 - 31/03/2017
+
+
+$650.00
+
+
+ 
+
+
+$650.00
+
+
+ 
+
+
+$650.00
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent for part of a month, use the 
+       following formula for columns (B), (C) and (D):
+ 
+       Monthly Rent X 12 X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$4,430.00
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                  $4,430.00
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                               $4,430.00
+ 
+(G3)      Include whichever is less when Calculation
+Total Arrears Owing                     $4,430.00
+ 
+(H1)      Payment to Landlord                                                                                           $350.00
+ 
+(I)         Total Amount Owing                                                                                        $4,080.00
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy is being terminated)
+ 
+(J) (i)    Lump Sum Compensation Start Date                                             April
+1, 2017
+            (Day after termination date in notice)
+ 
+    (ii)    Lump Sum Compensation End Date                                              April
+13, 2017
+            (Date of order)
+ 
+(K)        Daily Compensation (Monthly Rent X 12)                                                               $21.37
+                                                     365
+ 
+(L)        Number of Days for Lump Sum Compensation                                                       13
+days
+            (# days between start date and order date - inclusive)
+ 
+(M)       Total Lump Sum Compensation                                                                          $277.81
+            [(K) X (L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are terminating the tenancy)
+ 
+(N)        Rent Deposit                                                                                                       $650.00
+ 
+(O1)      Interest Owing on Rent Deposit
+        For period from: 02/02/2015 to 01/02/2016
+       (i)  Annual Amount (S) X 2%         =                                                          $13.00
+       (ii) Daily Amount (i) / 365              =                                                             0.0356
+       (iii) Interest Owing (ii) X 365 (# of days) =                                                                      $12.99
+ 
+ 
+(O2)      Interest Owing on Rent Deposit
+        For period from: 02/02/2016 to 01/02/2017
+       (i)  Annual Amount (S) X 1.5%       =                                                            $9.75
+       (ii) Daily Amount (i) / 365              =                                                             0.0267
+       (iii) Interest Owing (ii) X 366 (# of days) =                                                                       $9.77
+ 
+ 
+(O3)      Interest Owing on Rent Deposit
+        For period from: 02/02/2017 to 31/03/2017
+       (i)  Annual Amount (S) X 1.5%       =                                                            $9.75
+       (ii) Daily Amount (i) / 365              =                                                             0.0267
+       (iii) Interest Owing (ii) X 58 (# of days) =                                                                         $1.55
+ 
+ 
+ 
+ 
+(O4)      Total amount of interest owing on rent
+deposit
+ 
+            [(O1) + (O2) + (O3)]                                                                             $24.31
+ 
+ 
+ 
+(P)        Rent Deposit + Interest
+ 
+            [(N) + (O4)] =                                                                                                        $674.31
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating
+the tenancy [I+M-P]                                                                          $3,683.50
+ 
+
+
+
+
+Order under Section 21.2 of the 
+Statutory Powers Procedure Act 
+and the Residential Tenancies Act, 2006
+ 
+File Number: CEL-64556-17-RV
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter
+  of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+T T T
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+O S
+aka N M D B
+ 
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+Review Order
+ 
+T T T (TTT) (the
+'Landlord') applied for an order to terminate the tenancy and evict O St (OS)
+aka N M D B (NMDB) (the 'Tenant') because the Tenant did not pay the rent that
+the Tenant owes.
+ 
+The Landlord’s L1 application
+was resolved by order CEL-64556-17, issued on March 16, 2017.
+ 
+On March 27, 2017,
+the Tenant requested a review of that order.
+ 
+The Tenant’s review
+request was heard in Mississauga on April 11, 2017.
+ 
+The
+Landlord and the Tenant attended the hearing.
+ 
+Preliminary Matter:
+ 
+The
+Tenant provided documentation of a name change. He stated that his legal name
+is OS but since March 2016 he is also known as NMDB. The application was
+amended to include the second name that the Tenant is now known as. The
+Landlord was not aware of the name change but was not opposed to amending the
+application to add the second name.
+ 
+Determinations and Reasons:
+ 
+1.     
+The Tenant was not
+reasonably able to participate in the original hearing on March 15, 2017. He
+arrived late for the hearing on March 15th and sat in Hearing Room
+1. He was unaware his case had been transferred to Hearing Room 2 and it was
+heard in his absence. 
+2.     
+The Tenant’s review request
+was granted at the review hearing and the Landlord’s L1 application was
+re-heard.
+3.     
+An interim order was issued
+on March 27, 2017 which required the Tenant to pay the April rent of $650.00 to
+the Board in trust on or before April 4, 2017.
+4.     
+The Tenant did not comply
+with the interim order. No amount was paid to the Board. No amount was paid to
+the Landlord for April rent either. The Tenant stated that his employment is
+seasonal, his income fluctuates and he does not have the money to pay the April
+rent.
+5.     
+The interim order states
+that the Board may refuse to hear the evidence and submissions of the Tenant at
+the review hearing if the April rent was not paid to the Board in trust. Yet,
+the Tenant was permitted to present his rent receipts and evidence regarding
+the amount of rent arrears owing.
+The Rent Arrears Owing
+6.     
+The monthly rent is
+$650.00.  There is a last month's rent deposit of $650.00. This is undisputed.
+7.     
+However, the amount of rent
+arrears owing is disputed.
+8.     
+The Landlord claims that
+there is $4,080.00 in rent arrears owing to March 31, 2017 plus $650.00 for the
+April rent for a total of $4,730.00 rent owing to April 30, 2017.
+9.     
+The Tenant did not state an
+exact amount that he thinks is owing. He merely presented a number of rent
+receipts and a letter from the Landlord dated January 8, 2017 and stated that
+the amount owing is less than the Landlord is claiming.
+10.   It is undisputed that the tenancy began in
+February 2015. 
+11.   The rent paid in 2015 is not in dispute. The
+rent paid in 2017 is also not in dispute. The Tenant’s dispute relates to the rent
+paid and owing for 2016.
+12.   The Tenant presented a number of rent receipts
+at the hearing. Those receipts establish that the rent was fully paid for each
+month in 2015.
+13.   The rent receipts also establish that the full
+rent was not paid for every month in 2016 or in 2017.
+14.   For the twelve month period in 2016 the Tenant
+should have paid the Landlord $7,800.00 in rent ($650.00 per month x 12
+months).
+15.   The Tenant presented the following seven
+receipts for 2016: $650.00 paid February 11, 2016; $650.00 paid June 24, 2016;
+$650.00 paid July 20, 2016; $380.00 paid August 4, 2016; $400.00 paid August 24,
+2016; $500.00 paid September 21, 2016; and $400.00 paid October 7, 2016. These
+receipts total $3,630.00.
+16.   The amount that should have been paid in 2016 is
+$7,800.00. The receipts establish that $3,630.00 was paid. According to the
+receipts, this leaves a balance of $ 4,170.00 owing for 2016.
+17.   However, the Tenant stated that other amounts
+were paid to the Landlord that he does not have receipts for. He relied on a
+letter from the Landlord dated January 8, 2017 to establish additional payments
+and the correct amount owing.
+18.   That letter establishes that the Tenant had a
+balance of only $2,980.00 as of December 31, 2016 and not $4,170.00 (a
+difference of $1,190.00 less).
+19.   The lower $2,980.00 amount is claimed by the
+Landlord up to December 31, 2016.
+20.   Despite the fact that the rent receipts the
+Tenant presented establish a balance of $4,170.00, the lower amount of $2,980
+claimed by the Landlord is what is being ordered for 2016.
+21.   For 2017 the Tenant should have paid the
+Landlord $2,600.00 in rent for the four month period January 1, 2017 to April
+30, 2017 ($650.00 per month x 4 months).
+22.   The Tenant presented the following two receipts
+for 2017: $500.00 paid January 8, 2017; and $350.00 paid February 25, 2017.
+These receipts total $850.00.
+23.   A total of $850.00 was paid to the Landlord in
+2017. This is undisputed. There is no dispute that only two payments have been
+made in 2017. Therefore, the Tenant owes the Landlord $1,750.00 for rent arrears
+for the period from January 1, 2017 to April 30, 2017 ($2,600.00 - $850.00 paid).
+24.   The total amount of rent arrears owing to the
+Landlord is $2,980.00 for 2016 and $1,750.00 for 2017. This totals $4,730.00.
+This is the amount that is claimed by the Landlord.
+25.   The Landlord’s documents are all consistent
+regarding the amount owing.
+26.   The Tenant had no other documents, receipts or
+bank records to present to establish any additional amounts that should be
+credited to him.
+27.   The Tenant continues to dispute the $4,730.00
+amount. He believes the amount owing to the Landlord is lower. Although he did
+not present an exact figure, his belief that the amount is lower is coming from
+some confusion regarding how (and to which months) his payments were applied.
+For example, the Tenant believes that he has not been given a credit for the
+$500.00 paid in September 2016 or the $400.00 paid in October 2016 since the
+Landlord is showing those months as still owing.
+28.   Yet, this is because the Tenant rarely paid a
+full $650.00 amount in each month in 2016. His payments were sporadic and
+usually less than the full $650.00 monthly rent. As a result, the payments made
+in August, September and October 2016 were applied back to the amounts still
+owing from prior months in 2016.
+29.   As the calculations set out above clearly show,
+the Tenant has been given a credit for every single payment that he presented a
+rent receipt for. He also received an additional credit of $1,190.00 for
+payments not reflected in the rent receipts since the Landlord claimed
+$1,190.00 less than the amount the rent receipts established which was
+consistent with his January 8, 2017 letter.
+30.   The Tenant has not paid $4,730.00 of the total
+rent the Tenant was required to pay for the period from August 1, 2016 to April
+30, 2017. Because of the arrears, the Landlord served a N4 Notice of
+Termination.
+31.   The Landlord collected a rent deposit of $650.00
+from the Tenant and this deposit is still being held by the Landlord.
+32.   Interest on the rent deposit is owing to the
+Tenant for the period from February 2, 2015 to March 31, 2017.
+33.   I have considered all of the disclosed
+circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act. No rent has been
+paid since February. There are over seven months of rent owing to the Landlord.
+The Tenant did not comply with the interim order. The interim order was meant
+to ensure that the amount of rent arrears ordered in March did not increase
+when April rent came due. Yet, that was not accomplished. No amount was paid to
+the Board. The Tenant said he is currently unable to pay the April rent.
+It is ordered that:
+ 
+1.     
+Order CEL-64556-17, issued
+on March 16, 2017, is cancelled and replaced by the following: 
+2.     
+Unless the Tenant voids the
+order as set out below, the tenancy between the Landlord and the Tenant is
+terminated. The Tenant must move out of the rental unit on or before April 24,
+2017.
+3.     
+The Tenant shall pay to the
+Landlord $3,683.50*, which represents the amount of rent owing and compensation
+up to April 13, 2017, less the rent deposit and interest the Landlord owes on
+the rent deposit.
+4.     
+The Tenant shall also pay to
+the Landlord $21.37 per day for compensation for the use of the unit starting
+April 14, 2017 to the date the Tenant moves out of the unit.
+5.     
+The Tenant shall also pay to
+the Landlord $190.00 for the cost of filing the application.
+6.     
+If the unit is not vacated
+on or before April 24, 2017, then starting April 25, 2017, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+7.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after April 25, 2017.
+8.     
+If, on or before April
+24, 2017, the Tenant pays the amount of $4,920.00** to the Landlord or to the
+Board in trust, this order for eviction will be void.  This means that the tenancy would not be
+terminated and the Tenant could remain in the unit.  If this payment is not
+made in full and on time, the Landlord may file this order with the Court
+Enforcement Office (Sheriff) so that the eviction may be enforced.
+9.     
+The Tenant may make a motion
+to the Board under subsection 74(11) of the Act to set aside this order if they
+pay the amount required under that subsection on or after April 25, 2017 but
+before the Sheriff gives vacant possession to the Landlord. The Tenant is only
+entitled to make this motion once during the period of the tenancy agreement
+with the Landlord.
+ 
+April 13, 2017                                                                   _______________________
+Date Issued                                                                      Karen
+Wallace
+                                                                                                                           Vice
+Chair, Landlord and Tenant Board
+Central-RO
+3
+Robert Speck Pkwy, 5th Floor
+Mississauga
+ON L4Z2G5
+ 
+ 
+ 
+       This order
+contains all reasons for the determinations and order made. No further reasons
+will be issued.
+ 
+If
+you have any questions about this order, call 416-645-8080 or toll free at
+1-888-332-3234.
+ 
+In
+accordance with section 81 of the Act, the part of this order relating to the
+eviction expires on October 25, 2017 if the order has not been filed on or
+before this date with the Court Enforcement Office (Sheriff) that has
+territorial jurisdiction where the rental unit is located.
+ 
+*           Refer
+to section A on the attached Summary of Calculations.
+**         Refer
+to section B on the attached Summary of Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-64556-17-RV
+ 
+A.        Amount the Tenant must pay if the tenancy is
+terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: 
+
+
+August 1, 2016 to March 31, 2017
+
+
+$4,430.00
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid to the Landlord in February after the
+  application was filed
+
+
+ 
+
+
+-$350.00
+
+
+
+ 
+
+
+
+Plus daily rent/compensation: (to the date of the order)
+
+
+April 1, 2017 to April 13, 2017
+
+
+$277.81
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$650.00
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+February 2, 2015 to March 31, 2017
+
+
+-$24.31
+
+
+
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$3,683.50
+
+
+
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+
+
+
+Plus daily compensation owing for each day of occupation starting
+  April 14, 2017:
+
+
+$21.37 (per day)
+
+
+
+ 
+
+
+
+Total the Tenant must pay the Landlord if the tenancy is
+  terminated:
+
+
+$3,873.50, + $21.37 per day starting April 14,
+  2017
+
+
+
+ 
+ 
+ 
+ 
+ 
+B. Amount the Tenant must pay to void the eviction order
+and continue the tenancy:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+August 1, 2016 to April 30, 2017
+
+
+$5,080.00
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid to the Landlord in February after the
+  application was filed
+
+
+ 
+
+
+-$350.00
+
+
+
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord:
+
+
+ 
+
+
+$190.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to continue the tenancy:
+
+
+On or before April 24, 2017
+
+
+$4,920.00
+
+
+
+ 
+ 
+

@@ -1,0 +1,634 @@
+Metadata:
+Date:	2017-03-20
+File number:	
+CEL-64717-17
+	CEL-64717-17
+Citation:	CEL-64717-17 (Re), 2017 CanLII 28615 (ON LTB), <https://canlii.ca/t/h3r3g>, retrieved on 2023-05-16	https://canlii.ca/t/h3r3g
+Content:
+
+
+Arrears Worksheet
+ 
+File
+Number: CEL-64717-17
+ 
+Time period for
+Arrears Owing From:   February
+1, 2017 to February 16, 2017
+(From the
+commencement of arrears to the termination date in the notice, or the end of
+the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/02/2017 -
+  16/02/2017
+
+
+$613.20
+
+
+ 
+
+
+$613.20
+
+
+ 
+
+
+$613.20
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To
+  calculate the Rent for part of a month, use the 
+       following
+  formula for columns (B), (C) and (D):
+ 
+       Monthly
+  Rent X 12 X # Days
+                  
+  365
+
+
+ (F) Total
+  Rent Owing
+
+
+$613.20
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                     $613.20
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $1,355.71
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                        $613.20
+ 
+(I)         Total
+Amount Owing                                                                                           $613.20
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if
+the tenancy is being terminated)
+ 
+(J) (i)    Lump
+Sum Compensation Start Date                                             February
+17, 2017
+            (Day
+after termination date in notice)
+ 
+    (ii)    Lump
+Sum Compensation End Date                                              March
+20, 2017
+            (Date
+of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                               $38.32
+                     
+                               365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       32 days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $1,226.24
+            [(K) X
+(L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if
+you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                     $1,142.40
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For period
+from: 01/09/2016 to 16/02/2017
+       (i)  Annual
+Amount (S) X 1.5%       =                                                          $17.14
+       (ii) Daily
+Amount (i) / 365              =                                                             0.0469
+       (iii) Interest
+Owing (ii) X 169 (# of days) =                                                                       $7.93
+ 
+ 
+ 
+ 
+(O2)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)]                                                                                                   $7.93
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N) +
+(O2)] =                                                                                                     $1,150.33
+ 
+ 
+ 
+Part IV - Amounts owing to Tenant under s.82
+(Use this part if
+you are including amounts owing by the Landlord to the Tenant pursuant to s.
+82)
+ 
+(Q)       Amount
+owing under s.82                                                                                       $0.00
+ 
+Part V - Total Amount Owing
+ 
+(R)        Terminating the tenancy [I+M-(P+Q)]                                                                      $689.11
+ 
+
+
+
+
+Order
+under Section 87 and 69
+Residential
+Tenancies Act, 2006
+ 
+File
+Number: CEL-64717-17
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+O A(2503-2507) Inc.
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+D K
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+O A (2503-2507) Inc. (the 'Landlord')
+applied for an order to terminate the tenancy and evict D K (the 'Tenant')
+because the Tenant did not pay the rent that the Tenant owes (L1 Application).
+ 
+The Landlord also applied for an order to
+terminate the tenancy and evict the Tenant because he has been persistently
+late in paying his rent (L2 Application). 
+ 
+This application was heard in Mississauga
+on March 7, 2017.
+ 
+The Landlord's Agent,
+A. P and the Tenant attended the hearing.
+ 
+Preliminary Issue:
+ 
+The Tenant requested an
+adjournment to obtain legal representation.  The Landlord's Agent opposed the
+request.  The Tenant said he obtained legal advice from tenant duty counsel.  I
+denied the request for an adjournment.  Section 183 of the Residential
+Tenancies Act, 2006 (the 'Act') directs the Board to adopt the most
+expeditious method of determining the questions arising in a proceeding while
+affording the parties an adequate opportunity to be heard. The Tenant had an
+opportunity to retain legal representation prior to the hearing.  
+ 
+At the hearing the
+Tenant raised the following issues pursuant to section 82 of the Act: 
+ 
+a)    Falling concrete from the living room ceiling;
+b)    Peeling paint and plaster throughout the unit;
+c)    Leaking kitchen sink;
+d)    Broken electrical outlets;
+e)    Broken front closet door;
+f)     Missing silicone around the bathtub;
+g)    Clogged kitchen and bathroom vents;
+h)   Damaged parquet flooring in the living room;
+i)     Toilet missing 3 screws;
+j)      Front door lock is loose;
+k)    Downstairs buzzer is not working;
+l)     Unit requires painting.
+ 
+Determinations and
+Reasons:
+ 
+Regarding L1 rent
+arrears application
+ 
+1.     
+The Tenant has not paid the total rent he was
+required to pay for the period from February 1, 2017 to March 31, 2017. 
+Because of the arrears, the Landlord served a Notice of Termination effective
+February 16, 2017.
+2.     
+The Landlord collected a rent deposit of
+$1,142.40 from the Tenant and this deposit is still being held by the Landlord.
+3.     
+Interest on the rent deposit is owing to the
+Tenant for the period from September 1, 2016 to February 16, 2017.
+Section 82 issues
+4.     
+The Tenant seeks a repair order regarding the
+maintenance issues complained of pursuant to section 82 of the Act.  
+5.     
+Section 20 of the Act specifies that a landlord
+is responsible for providing and maintaining a rental unit in a good state of
+repair, fit for habitation and for complying with health, safety, housing and
+maintenance standards.
+6.     
+It is undisputed that the leaking kitchen sink,
+clogged vents in the kitchen and bathroom, parquet floor in the living room and
+malfunctioning buzzer were repaired by the Landlord on February 27, 2017.
+Living room ceiling
+ 
+7.     
+A portion of the living room ceiling has broken
+and concrete like pieces have fallen into the Tenant’s living room space on
+January 22, 2017 and again on February 26, 2017.  The Tenant cleaned up the
+debris on January 22nd and did not tell the Landlord until February
+26th at which time the Landlord assisted him with the cleanup.  The
+Tenant submitted photos of the damaged ceiling and debris. 
+8.     
+The Landlord has not repaired the issue and
+believes the ceiling damage might have been caused by the Tenant banging the
+ceiling with a broom.
+9.     
+The Landlord breached section 20 of the Act by
+failing to repair the living room ceiling.  The Landlord has known about this
+issue since February 26th and acknowledged that no action to repair
+the ceiling has been taken.  I am not satisfied that the photo presented by the
+Landlord of a round spot on the living room ceiling with three marks is
+indicative that the Tenant banged the ceiling with a broom handle.  I find the
+Tenant’s testimony that this spot was where a smoke detector was previously
+installed to be more plausible.  In any event, the Landlord is required to
+maintain the unit in a good state of repair pursuant to section 20 of the Act.
+Peeling paint and plaster
+ 
+10.   The Landlord breached section 20 of the Act by failing to repair
+peeling paint and plaster in the rental unit. There is peeling paint and
+plaster on the wall beside the stove in the kitchen, walls in the bedroom, the
+bathroom ceiling and wall above the sink and the top of the living room
+window.  The Tenant submitted photos of these areas and reported these issues
+to the Landlord on February 17, 2017.
+11.   The Landlord attended the unit on February 18th to
+investigate the repair issues however these repairs have not yet been done.
+Kitchen Electrical
+outlets
+12.   The Landlord replaced the kitchen outlet covers on February 27th. 
+The Tenant acknowledged that the electrical outlets were replaced on February 27th. 
+However, at the hearing the Tenant said the internal part of the outlet does
+not function properly and the light switch is loose.
+13.   The Tenant did not report the loose light switch or the
+malfunctioning electrical outlet to the Landlord.   Therefore no breach is
+found regarding these issues and these claims are dismissed.
+Front closet
+door
+ 
+14.   The Landlord breached section 20 of the Act by failing to maintain
+the front hall closet door in a good state of repair. The front hall closet
+door requires painting.  The Tenant told the Landlord in mid-February 2017 and
+the Landlord was aware of the issue when the Landlord attended the unit on
+February 18th to inspect this door.
+Silicone in
+bathroom
+ 
+15.   The issue regarding missing silicone in the bathroom is not
+indicative of a repair issue and although the Tenant’s reasons for requesting
+that the base of the tile wall around the tub and base of the tub be sealed are
+reasonable, I do not find a breach of section 20 of the Act.  This is more of a
+cosmetic issue.  This claim is dismissed.
+Toilet
+ 
+16.   It is disputed whether the repair to securely affix the toilet to
+the floor was completed on February 27, 2017 by the Landlord. The best evidence
+was the service report from the Landlord dated February 27, 2017 which
+indicates that the loose screws at the base of the toilet were fixed.  No
+breach is found because the Tenant did not report the issue to the Landlord
+after February 27, 2017 and the Landlord cannot be held responsible for an
+issue it did not know about.  This claim is dismissed.
+Entry door lock
+17.   The Tenant did not provide sufficient evidence to establish that
+repair was required regarding his entry door lock.  The photo submitted by the
+Tenant did not demonstrate that repair was required.  The Landlord’s inspection
+report dated February 18th did not indicate any repair to the entry
+door lock.  The Tenant is requesting a new keyed entry lock for the bottom door
+knob which is not a repair.  As there is no breach of section 20 of the Act,
+this claim is dismissed.
+Repaint the unit
+18.   The Tenant requested repainting of the rental unit.  There was
+insufficient evidence presented to support a finding that the Landlord breached
+section 20 of the Act by failing to repaint the rental unit.  This claim is
+dismissed other than where painting is ordered in relation to the repair of
+peeling paint and plaster.
+L2 persistent late application
+19.   The Landlord served the Tenant with an N8 notice of termination
+effective April 30, 2017 which alleged that the Tenant persistently paid rent
+late.
+20.   The Tenant persistently paid rent late. It is undisputed that the
+Tenant paid rent late 8 times out of the last 12 months. The rent is due on the
+first day of each month and this is a monthly tenancy.
+Relief from eviction
+21.  
+Subsection 83(3) of the Act states in part: “[Without]
+restricting the generality of subsection 83(1), the
+Board shall refuse to grant the application where satisfied that, (a) the
+landlord is in serious breach of the landlord’s responsibilities under
+this Act or of any material covenant in the tenancy agreement” [emphasis added].
+
+22.   The photographs of the fallen concrete pieces submitted by the
+Tenant are indicative of a serious breach of the Landlord’s responsibilities
+pursuant to section 20 of the Act.  I note that on
+January 22nd a piece of concrete that could cause injury to a person
+fell on his couch. While the chunks of concrete appear smaller on February 26th,
+in my view they present a safety risk.  I find that this issue, which the
+Landlord has known about since February 26th and has failed to take
+steps to repair is a health or safety concern for the Tenant and does not
+represent a good state of repair.  
+23.   Therefore, pursuant to subsection 83(3) of
+the Act, as the Landlord is in serious breach of the Landlord’s
+responsibilities under the Act, eviction must be refused. The L1 application is
+converted to an L9 application which permits an order for arrears of rent
+only.  The L2 application must be dismissed.
+ 
+It is ordered that:
+ 
+L9 Application for
+rent arrears only:
+ 
+1.      The Tenant shall pay to the Landlord $2,331.42, which represents the
+amount of rent owing up to March 31, 2017.
+2.      The Tenant shall also pay to the Landlord $190.00 for the cost of
+filing the application.
+3.      If the Tenant does not pay the Landlord the full amount owing* on or
+before March 31, 2017, the Tenant will start to owe interest.  This will be
+simple interest calculated from April 1, 2017 at 2.00% annually on the balance
+outstanding.
+4.      The Landlord shall repair the living room ceiling on or before April
+13, 2017*.
+5.      The Landlord shall complete the following repairs to the rental unit
+on or before April 21, 2017*:
+a)    Repair the plaster and paint the wall beside the stove in the
+kitchen, walls in the bedroom, the bathroom ceiling and wall above the bathroom
+sink and the top of the living room window;
+b)    Paint the front closet door.
+L2 Application
+persistent late:
+ 
+6.     
+The L2 application is dismissed.
+ 
+March 20, 2017                                                                _______________________
+Date Issued                                                                      Avril
+Cardoso
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy,
+5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+*It is brought to the parties’ attention that, pursuant to
+subsection 234(y) of the Residential Tenancies Act, 2006, it is an offence for the Landlord to fail to comply
+with an order of the Board requiring repairs to be completed by a specified
+date.
+ 
+

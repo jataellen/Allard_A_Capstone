@@ -1,0 +1,774 @@
+Metadata:
+Date:	2017-01-18
+File number:	
+CEL-62600-16
+	CEL-62600-16
+Citation:	CEL-62600-16 (Re), 2017 CanLII 9545 (ON LTB), <https://canlii.ca/t/gxq6n>, retrieved on 2023-05-16	https://canlii.ca/t/gxq6n
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-62600-16
+ 
+Time period for
+Arrears Owing From:   September
+1, 2016 to November 5, 2016
+(From the
+commencement of arrears to the termination date in the notice, or the end of
+the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/09/2016 -
+  30/09/2016
+
+
+$1,760.00
+
+
+ 
+
+
+$1,760.00
+
+
+ 
+
+
+$1,760.00
+
+
+
+
+01/10/2016 -
+  31/10/2016
+
+
+$1,760.00
+
+
+ 
+
+
+$1,760.00
+
+
+ 
+
+
+$1,760.00
+
+
+
+
+01/11/2016 -
+  05/11/2016
+
+
+$289.32
+
+
+ 
+
+
+$289.32
+
+
+ 
+
+
+$289.32
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To
+  calculate the Rent for part of a month, use the 
+       following
+  formula for columns (B), (C) and (D):
+ 
+       Monthly
+  Rent X 12 X # Days
+                  
+  365
+
+
+ (F) Total
+  Rent Owing
+
+
+$3,809.32
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                  $3,809.32
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $5,450.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                     $3,809.32
+ 
+(H1)      Payment
+to Landlord                                                                                        $5,280.00
+ 
+(I)         Total
+Amount Owing                                                                                       -$1,470.68
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if
+the tenancy is being terminated)
+ 
+(J) (i)    Lump
+Sum Compensation Start Date                                             November
+6, 2016
+            (Day
+after termination date in notice)
+ 
+    (ii)    Lump
+Sum Compensation End Date                                              January
+13, 2016
+            (Date
+of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                               $57.86
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                         0 day
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                             $0.00
+            [(K) X
+(L)] =
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                         -$1,470.68
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: CEL-62600-16
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter
+  of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+M H
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+C K
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+M H (the
+'Landlord') applied for an order to terminate the tenancy and evict C K (the
+'Tenant') because the Tenant did not pay the rent that the Tenant owes (L1
+Application).
+ 
+The Landlord also applied for an order to terminate
+the tenancy and evict C K (the 'Tenant') because:
+1)   
+she, another occupant
+of the rental unit or someone she permitted in the residential complex has
+wilfully or negligently caused undue damage to the premises. The Landlord has
+also applied for an order requiring the Tenant to compensate the Landlord for
+the damage;
+2)   
+she, another occupant
+of the rental unit or someone she permitted in the residential complex has
+substantially interfered with the reasonable enjoyment or lawful right,
+privilege or interest of the Landlord or another tenant; 
+3)   
+she or another occupant
+of the rental unit has committed an illegal act or has carried out, in the
+rental unit or the residential complex (L2 Application). 
+ 
+The Landlord also
+claimed compensation for each day the Tenant remained in the unit after the termination
+date.
+ 
+These applications
+were heard in Mississauga on January 5, 2017.
+ 
+Only
+the Landlord and Landlord's Legal Representative, F. O attended the hearing. 
+L. de M (LD) was a Witness for the Landlord.
+ 
+Determinations
+and Reasons:
+ 
+Regarding
+L1 rent arrears application:
+ 
+1.     
+The Tenant
+has not paid the total rent she was required to pay for the period from
+September 1, 2016 to December 31, 2016.  Because of the arrears, the Landlord
+served a Notice of Termination effective November 5, 2016.
+2.     
+The Tenant
+paid $5,280.00 after the application was filed.
+L2 Application: N5 Substantial
+Interference and Damages
+3.     
+There are
+two units in a semi-detached home.  The Tenant lives on the main floor and
+another tenant rents the basement unit.  The driveway is shared.
+4.     
+On October 27, 2016,
+the Landlord served the Tenant with a first N5 Notice to End your Tenancy for
+Interfering with Others, Damage or Overcrowding (N5 Notice) in accordance with
+section 64(1) of the Residential Tenancies Act, 2006 (the ‘Act’). The N5
+Notice has a termination date of November 17, 2016 and alleges that the conduct
+of the Tenant substantially interfered with the reasonable enjoyment of the
+residential complex and the Tenant has wilfully or negligently damaged the
+rental unit or residential complex.
+5.     
+The N5 Notice sets out
+the dates, times and specific allegations against the Tenant. 
+6.     
+Because this is a first
+N5 Notice, the Tenant has an opportunity to void the notice in accordance with
+section 64(3) of the Act by correcting the identified problems within seven
+days of the date the notice was served. In this case, the seven day period begins
+the day following service of the N5 Notice, from October 28th to
+November 3rd, 2016. The Landlord's Legal Representative confirmed
+that the first N5 Notice was not voided because the conduct has not
+stopped since the notice was served and the Tenant has not paid $500.00
+required to replace or replace the damaged property.
+Window
+screens
+7.     
+The Tenant
+negligently caused undue damage to the rental unit and residential complex by
+damaging the screens on two windows and the patio door. The photos submitted into
+evidence support a finding of negligence because the screens were badly torn
+which did not occur from usual wear and tear. The Landlord is entitled to the cost
+claimed of $300.00 to repair the window screens.  The Landlord provided an
+invoice to support this claim.
+Conduct
+issues
+8.     
+The conduct
+of the Tenant substantially interfered with the reasonable enjoyment of the
+Landlord and other tenant for the following reasons:
+9.     
+The City of
+Mississauga issued a Notice of Contravention in April 2016 regarding debris
+located on the property because of the Tenant’s failure to properly store her
+garbage. A copy of the Notice was submitted;
+10.  
+The City of
+Mississauga also informed the Landlord about a noise complaint because the
+Tenant’s dog was barking for hours while left unattended in the backyard
+disturbing the neighbours. The Landlord submitted a copy of this letter into
+evidence; 
+11.  
+Based on
+the testimony of the Landlord, the Tenant parks in the adjacent neighbour’s
+driveway and the Landlord receives complaints from the neighbour;  
+12.  
+On August
+29th the Tenant left her dog unattended in a common area of the
+residential complex and the Landlord was unable to show the unit to prospective
+renters.  The Tenant fails to respond to the Landlord’s requests to control her
+dog. The Landlord submitted a text message sent to the Tenant regarding this
+issue on October 27th; 
+13.  
+The Tenant
+installed a lock on the gate to the shared backyard and refused to remove the
+lock.  The Landlord submitted a text message sent to the Tenant on August 23rd
+requesting a key to which the Tenant responded with foul language to leave her
+alone. Consequently the Landlord changed the lock and provided the tenants with
+keys;
+14.  
+The Tenant
+changed the lock on the entry door to the basement unit without the Landlord’s
+consent.  Section 35 of the Act specifies that a tenant shall not alter the
+locking system on a door giving entry to a rental unit or residential complex
+without the consent of the Landlord.  The Landlord is entitled to her costs for
+installing a new lock of $200.00 which she supported with an invoice;
+15.  
+The Tenant
+leaves her clothes in the laundry room and leaves kitty litter under the sink
+such that it interferes with the use of the laundry room by the other tenant.
+The Landlord has received numerous complaints from the other tenant regarding
+inability to do laundry and despite the creation of a laundry schedule, the
+issue continues.  Photos of the laundry room and text messages reporting the
+issues were submitted into evidence;
+16.  
+The Tenant
+plays loud music and makes excessive noise at late hours.  These incidents
+occurred on November 21st, 25th and 29th and
+continue on a regular basis.  The Tenant yells and swears at the Landlord and
+the downstairs tenant.  In support of this testimony, the Landlord submitted
+text messages. The downstairs tenant, LD testified about the ongoing issues
+with interference with laundry, loud arguments with the tenant and the tenant’s
+threat to turn her dog loose on him.  LD also played an audio of one of the
+arguments in which the Tenant was heard yelling loudly and aggressively. He
+said the Tenant also forced open the entry door to his unit in November and
+began screaming at him.  LD called the police;  
+17.  
+LD also
+testified that he complained to the City of Mississauga about the noise but the
+Tenant’s behaviour continues.  He said he would move out if the Tenant
+continues to live at the rental unit.
+Illegal
+Act (N6)
+18.  
+On October 27, 2016,
+the Landlord served the Tenant with an N6 Notice to End your Tenancy for Illegal
+Acts in accordance with section 61(1) of the Act. The N6 Notice has a
+termination date of November 17, 2016 and alleges that the Tenant physically
+assaulted the downstairs tenant on October 22, 2016.
+19.  
+The Tenant
+committed an illegal act by placing her fingers on LD’s face and pushing him on
+September 17th, 2016 which constitutes assault.  The police were
+called. While the notice specified that an assault occurred on October 22nd,
+2016 the testimony was that the conduct complained of occurred on September 17th.
+However the notice provided the Tenant with sufficient details to understand
+the allegation. 
+Relief
+from eviction
+20.  
+The
+Landlord seeks eviction as soon as possible.  The other tenant intends to move
+because of the unrelenting issues he experiences on a daily basis because of
+the Tenant’s conduct. 
+21.  
+No
+circumstances were disclosed in accordance with subsection 83(2) of the Act to
+consider relief from eviction pursuant to subsection 83(1) of the Act.
+It
+is ordered that:
+ 
+1.     
+The tenancy
+between the Landlord and the Tenant is terminated.  The Tenant must move out of
+the rental unit on or before January 29, 2017.
+2.     
+The Tenant
+shall pay to the Landlord $1,012.21*, which represents the amount of rent owing
+and compensation up to January 18, 2017, less the rent deposit and interest the
+Landlord owes on the rent deposit.
+3.     
+The Tenant
+shall pay also to the Landlord $500.00, which represents the reasonable costs
+of repairing the damage and replacing the damaged property.
+4.     
+The Tenant
+shall also pay to the Landlord $170.00 for the cost of filing the application.
+5.     
+The Tenant
+shall also pay to the Landlord $57.86 per day for compensation for the use of
+the unit starting January 19, 2017 to the date she moves out of the unit.
+6.     
+If the
+Tenant does not pay the Landlord the full amount owing* on or before January
+29, 2017, the Tenant will start to owe interest.  This will be simple interest
+calculated from January 30, 2017 at 2.00% annually on the balance outstanding.
+7.     
+If the unit
+is not vacated on or before January 29, 2017, then starting January 30, 2017,
+the Landlord may file this order with the Court Enforcement Office (Sheriff) so
+that the eviction may be enforced.
+8.     
+Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to
+give vacant possession of the unit to the Landlord, on or after January 30,
+2017.
+ 
+ 
+January
+18, 2017                                                            _______________________
+Date
+Issued                                                                      Avril
+Cardoso 
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+ 
+Central-RO
+3
+Robert Speck Pkwy, 5th Floor
+Mississauga
+ON L4Z2G5
+ 
+If you
+have any questions about this order, call 416-645-8080 or toll free at
+1-888-332-3234.
+ 
+ 
+In
+accordance with section 81 of the Act, the part of this order relating to the
+eviction expires on July 30, 2017 if the order has not been filed on or before
+this date with the Court Enforcement Office (Sheriff) that has territorial
+jurisdiction where the rental unit is located.
+ 
+*           Refer
+to the attached Summary of Calculations.
+
+
+
+
+ 
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-62600-16
+ 
+ 
+
+
+
+Reasons
+  for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears:
+  (up to the
+  termination date in the Notice of Termination)
+
+
+September
+  1, 2016 to November 5, 2016
+
+
+$3,809.32
+
+
+
+ 
+ 
+
+
+
+Less
+  the amount the Tenant paid to the Landlord
+
+
+ 
+
+
+-$5,280.00
+
+
+
+ 
+
+
+
+Plus
+  compensation: (from
+  the day after the termination date in the Notice to the date of the order)
+
+
+November
+  6, 2016 to January 18, 2017
+
+
+$4,281.64
+
+
+
+ 
+
+
+
+Less
+  the rent deposit:
+
+
+ 
+
+
+-$1,760.00
+
+
+
+ 
+
+
+
+Less
+  the interest owing on the rent deposit:
+
+
+October
+  1, 2015 to November 5, 2016
+
+
+-$38.75
+
+
+
+ 
+ 
+
+
+
+Amount
+  owing to the Landlord on the order date:(total of previous boxes)
+
+
+$1,012.21
+
+
+
+ 
+ 
+
+
+
+Additional
+  costs the Tenant must pay to the Landlord:
+
+
+$170.00
+
+
+
+ 
+ 
+
+
+
+Plus
+  daily compensation owing for each day of occupation starting January 19,
+  2017:
+
+
+$57.86 (per day)
+
+
+
+ 
+ 
+
+
+
+Total
+  the Tenant must pay the Landlord as the tenancy is terminated:
+
+
+$1,182.21, + $57.86 per day starting January 19,
+  2017
+
+
+
+ 
+ 
+
