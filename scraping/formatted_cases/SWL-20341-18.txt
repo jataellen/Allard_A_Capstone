@@ -1,0 +1,372 @@
+Metadata:
+Date:	2018-10-11
+File number:	
+SWL-20341-18
+	SWL-20341-18
+Citation:	SWL-20341-18 (Re), 2018 CanLII 141482 (ON LTB), <https://canlii.ca/t/j0f7k>, retrieved on 2023-05-16	https://canlii.ca/t/j0f7k
+Content:
+
+
+Order
+under Section 69
+Residential
+Tenancies Act, 2006
+ 
+File
+Number: SWL-20341-18
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+HZ (the 'Landlord') applied for an order to
+terminate the tenancy and evict DR (the 'Tenant') because the Tenant did not
+pay the rent that the Tenant owes (the ‘L1 Application’).
+ 
+The Landlord also applied for an order to
+terminate the tenancy and evict the Tenant because the Tenant, another occupant
+of the rental unit or someone the Tenant permitted in the residential complex
+has wilfully or negligently caused undue damage to the premises; used the rental unit or the residential complex in a manner
+that is inconsistent with use as a residential premises and that has caused or
+can be expected to cause significant damage; substantially interfered with the
+reasonable enjoyment or lawful right, privilege or interest of the Landlord or
+another tenant; and seriously impaired the safety of any person.  The
+Landlord has also applied for an order requiring the Tenant to compensate the
+Landlord for the damage and claimed compensation for
+each day the Tenant remained in the unit after the termination date (the ‘L2
+Application’).
+ 
+These applications were heard in Woodstock
+on October 5, 2018.  Only the Landlord’s Agent, FZ,
+attended the hearing.  As of 11:05 a.m., the Tenant was not present or
+represented at the hearing although properly served with notice of this hearing
+by the Board. 
+ 
+Determinations and
+Reasons:
+The L1 Application 
+ 
+1.     The Tenant has not paid the total rent the
+Tenant was required to pay for the period from July 1, 2018 to October 31,
+2018.  Because of the arrears, the Landlord served a Notice of Termination
+effective July 17, 2018.
+2.     The Tenant is in possession of the rental unit. 
+3.     The monthly rent is $500.00.
+4.     The Landlord is not holding a last month’s rent
+deposit. 
+5.     The Tenant has made no payments since the
+application was filed. 
+Wilful or Negligent Damage
+6.     The Tenant, an occupant of the rental unit or
+her invited guest drilled a peephole through the entrance door to the rental
+unit, thereby voiding its fire safety rating.
+7.     The Tenant, an occupant of the rental unit or
+her invited guest also destroyed the metal housing and the plate glass for a
+fire extinguisher in the residential complex.
+8.     As a result, I find that the Tenant, an occupant
+of the rental unit or a person permitted in the residential complex by the
+Tenant has wilfully or negligently caused undue damage to the rental unit and
+the residential complex.
+9.     On July 2, 2018, the Landlord served the Tenant
+with an N5 Notice to terminate the tenancy (the ‘N5 Notice’) pursuant to
+subsections 62(1) and 64(1) of the Residential Tenancies Act, 2006 (the
+‘Act’).
+10.  The Landlord will incur costs of $490.00 to repair the
+damage and replace property that was damaged and cannot be reasonably repaired.
+11.  As the Tenant did not pay any compensation to the Landlord
+for the cost to repair or replace the damage to the premises, I find that the
+Tenant failed to void the N5 Notice pursuant to subsection 62(3) of the Act.
+Alteration to Lock 
+12.  The Landlord also sought compensation for the cost to
+replace the locking system to the rental unit as the Tenant had altered the
+locks without his consent.
+13.  However, the Act specifically addresses unauthorized
+alterations to a locking system of the rented premises under section 35 of the
+Act apart from other provisions.  Subsections 35(2) and (3) of the Act set out
+the procedure and remedies available to the Landlord in relation to a breach of
+subsection 35(1) of the Act:
+35.   
+(2) If
+a tenant alters a locking system, contrary to subsection (1), the landlord may
+apply to the Board for an order determining that the tenant has altered the
+locking system on a door giving entry to the rental unit or the residential
+complex or caused the locking system to be altered during the tenant’s
+occupancy of the rental unit without the consent of the landlord.  
+ 
+(3) If the Board in an application under
+subsection (2) determines that a tenant has altered the locking system or
+caused it to be altered, the Board may order that the tenant provide the
+landlord with keys or pay the landlord the reasonable out-of-pocket expenses
+necessary to change the locking system.  
+ 
+14.  The Landlord did not file the required L8 Application under
+subsection 35(2) of the Act with respect to the Tenant’s alteration of the
+locking system.  As well, termination of the tenancy is not an available remedy
+under subsection 35(2) of the Act.  While the Tenant’s actions may have
+interfered with the Landlord’s right of access to the rental unit, this conduct
+in and of itself does not permit the Landlord to serve a notice of termination.
+15.  I find that had the legislature intended that unauthorized
+alteration of a locking system to fall under the subject matter of section 64
+of the Act, they would not have drafted section 35 to address precisely this
+very situation.
+16.  By including this conduct in the N5 Notice and the L2
+Application, the Landlord has attempted to obtain a remedy that would not
+otherwise be available under the proper L8 Application.  
+17.  As a result, the Landlord may not rely upon the Tenant’s
+alteration of the locking system to the rental unit to terminate the tenancy.
+18.  Similarly, as the alteration of the locking system did not
+result in any damage to the rental unit, the cost of replacement also does not
+qualify as compensable damage pursuant to subsection 89(1) of the Act.  Compensation
+for the cost of changing the lock is only available under an L8 Application.
+Vagueness in N5 and N7 Notices
+19.  As noted above, the N5 Notice also addressed allegations
+that the Tenant, an occupant of the rental unit or someone the Tenant permitted
+into the residential complex substantially interfered with the reasonable
+enjoyment or lawful right, privilege or interest of the Landlord or another
+tenant.  The Landlord also served the Tenant with an N7 Notice of termination
+(the ‘N7 Notice’) on the same day, pursuant to subsections 63(1) and 66(1) of
+the Act.
+20.   However, I find that the N7 Notice and the
+portions of the N5 Notice related to substantial interference are unduly vague as
+they lack necessary references to specific details including dates and times
+for the allegations.  While the Landlord may have intended to lead direct
+evidence of the Tenant’s alleged misconduct at the hearing, the problem lies in
+the actual text of the originating document – the N5 Notice – which is the document
+against which the respondent Tenant must craft her answer.  I find on the
+balance of probabilities that the vague allegations contained in both notices
+frustrated her ability to fully and properly respond to the application.  If
+the Tenant is deprived of the ability to know the precise dates and substance
+of various allegations prior to the hearing, the missing information
+necessarily compromises her defence.
+21.   According to the Ontario
+Divisional Court’s decisions in both Kuzyk
+v. S.K. Properties[1]
+and Ball v. Metro Capital Property and Lockhurst,[2] if a Notice of termination
+issued by a landlord is confusing to the degree that a reasonable person could
+not understand the precise actions or omissions that caused the landlord to
+pursue eviction, a Member would find it defective.  Specifically, the
+Court in Ball stated that “particulars should include dates and times of
+the alleged offensive conduct, together with a detailed description of the
+alleged conduct engaged in by the tenant.”[3] 
+
+22.   In the present case, I find that the entire N7
+Notice and the N5 Notice as it pertains to substantial interference are
+defective as both are excessively vague and devoid of necessary details with respect
+to the allegations that provide the basis for the application.  The Landlord
+may not rely upon the N7 Notice or the portions of the N5 Notice that relate to
+substantial interference to terminate the tenancy.
+23.  I have considered all of the disclosed circumstances in
+accordance with subsection 83(2) of the Act and find that it would be unfair to
+grant relief from eviction pursuant to subsection 83(1) of the Act.
+24.  This order contains all of the reasons in this matter and
+no further reasons will issue.
+It is ordered that:
+The L1 Application 
+ 
+1.     The Tenant shall pay to the Landlord $1,338.29*,
+which represents the amount of rent owing and compensation up to October 11,
+2018.
+2.     The Tenant shall also pay to the Landlord $16.44
+per day for compensation for the use of the unit starting October 12, 2018 to
+the date the Tenant moves out of the unit.
+3.     The Tenant shall also pay to the Landlord
+$190.00 for the cost of filing the application.
+4.     If the Tenant does not pay the Landlord the full
+amount owing* on or before October 22, 2018, the Tenant will start to owe
+interest.  This will be simple interest calculated from October 23, 2018 at
+3.00% annually on the balance outstanding.
+The L2 Application
+5.     The tenancy between the Landlord and the Tenant
+is terminated as of October 22, 2018. The Tenant must move out of the rental
+unit on or before October 22, 2018.
+6.     The Tenant shall pay to the Landlord $490.00,
+which represents the reasonable costs of repairing the damage and replacing the
+damaged property.
+7.     If the Tenant does not pay the Landlord the full
+amount owing on or before October 22, 2018, the Tenant will start to owe
+interest.  This will be simple interest calculated from October 23, 2018 at
+3.00% annually on the balance outstanding.
+8.     If the unit is not vacated on or before October
+22, 2018, then starting October 23, 2018, the Landlord may file this order with
+the Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+9.     Upon receipt of this order, the Court
+Enforcement Office (Sheriff) is directed to give vacant possession of the unit
+to the Landlord on or after October 23, 2018. 
+Service of Order to the Tenant 
+10.  Due to a potential Canada Post strike, the Landlord must
+immediately give a copy of this Order to the Tenant by:
+a.    handing it to the Tenant;
+b.    handing it to an apparently adult person at the
+rental unit;
+c.    leaving it in the Tenant’s mailbox;  
+d.    if there is no mailbox, leaving it at the place
+where mail is ordinarily delivered to the Tenant; 
+e.    placing a copy of the order under the door of
+the rental unit or through a mail slot in the door; or
+f.     
+if there is a fax machine at
+the rental unit or where the Tenant carries on business, by fax.
+11.  The Landlord shall not use regular mail, registered mail,
+Xpresspost or any courier service used by Canada Post to deliver the Order.
+ 
+ 
+ 
+ 
+ 
+October 11, 2018                                                             _______________________
+Date Issued                                                                      Kevin
+Lundy
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+South West-RO
+150 Dufferin Avenue,
+Suite 400, 4th Floor
+London ON N6A5N6
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with
+section 81 of the Act, the part of this order relating to the eviction expires
+on April 23, 2019 if the order has not been filed on or before this date with
+the Court Enforcement Office (Sheriff) that has territorial jurisdiction where
+the rental unit is located.
+ 
+*           Refer to
+section A on the attached Summary of Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: SWL-20341-18
+ 
+A.        Amount the
+Tenant must pay as the tenancy is terminated:
+ 
+
+
+
+Reasons for amount
+  owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+July 1, 2018 to July
+  17, 2018
+
+
+-$75.55
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+July 18, 2018 to
+  October 11, 2018
+
+
+$1,413.84
+
+
+
+ 
+
+
+
+Amount owing to the
+  Landlord on the order date:(total of previous boxes)
+
+
+$1,338.29
+
+
+
+ 
+
+
+
+Additional costs the
+  Tenant must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+
+
+
+Plus daily
+  compensation owing for each day of occupation starting October 12, 2018:
+
+
+$16.44 (per day)
+
+
+
+ 
+
+
+
+Total the Tenant
+  must pay the Landlord as the tenancy is terminated:
+
+
+$1,528.29, + $16.44 per day starting October 12, 2018
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+[1] Toronto Docket No. 106/01, [2001] O.J. No. 5260 (Div. Ct.) Re: TSL-18855.
+
+
+[2] [2002] O.J. No. 5931 (Ont. Div. Ct.) (‘Ball’).
+
+
+[3] Ibid. at para. 7.
+
+

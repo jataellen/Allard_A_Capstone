@@ -1,0 +1,626 @@
+Metadata:
+Date:	2017-03-13
+File number:	
+CEL-63931-17
+	CEL-63931-17
+Citation:	CEL-63931-17 (Re), 2017 CanLII 28582 (ON LTB), <https://canlii.ca/t/h3r34>, retrieved on 2023-05-16	https://canlii.ca/t/h3r34
+Content:
+
+
+Arrears Worksheet
+ 
+File
+Number: CEL-63931-17
+ 
+Time period for
+Arrears Owing From:   December
+1, 2016 to December 16, 2016
+(From the
+commencement of arrears to the termination date in the notice, or the end of
+the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/12/2016 -
+  16/12/2016
+
+
+$526.03
+
+
+ 
+
+
+$526.03
+
+
+$500.00
+
+
+$26.03
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To
+  calculate the Rent for part of a month, use the 
+       following
+  formula for columns (B), (C) and (D):
+ 
+       Monthly
+  Rent X 12 X # Days
+                  
+  365
+
+
+ (F) Total
+  Rent Owing
+
+
+$26.03
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                       $26.03
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $1,670.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                          $26.03
+ 
+(I)         Total
+Amount Owing                                                                                             $26.03
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if
+the tenancy is being terminated)
+ 
+(J) (i)    Lump
+Sum Compensation Start Date                                             December
+17, 2016
+            (Day
+after termination date in notice)
+ 
+    (ii)    Lump
+Sum Compensation End Date                                              March
+8, 2017
+            (Date
+of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                               $32.88
+                      
+                              365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       82 days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $2,696.16
+            [(K) X
+(L)] =
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                          $2,722.19
+ 
+
+
+
+
+Order
+under Section 69
+Residential
+Tenancies Act, 2006
+ 
+File
+Number: CEL-63931-17
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+M S
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+M F
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+M S (the 'Landlord') applied for an order
+to terminate the tenancy and evict M F (the 'Tenant') because the Tenant did
+not pay the rent that the Tenant owes (L1 Application).
+ 
+The Landlord also applied for an order to
+terminate the tenancy and evict the Tenant because the Tenant, another occupant
+of the rental unit or someone the Tenant permitted in the residential complex
+has wilfully or negligently caused undue damage to the premises; because the
+Tenant, another occupant of the rental unit or someone the Tenant permitted in
+the residential complex has substantially interfered with the reasonable
+enjoyment or lawful right, privilege or interest of the Landlord or another
+tenant; and because the Landlord requires possession of the rental unit for the
+purpose of residential occupation. The Landlord has also applied for an order
+requiring the Tenant to compensate the Landlord for the damage. The Landlord
+also claimed compensation for each day the Tenant remained in the unit after
+the termination date (L2 Application).
+ 
+This application was heard in Port Elgin on
+February 28, 2017.
+ 
+The Landlord and the
+Tenant attended the hearing.  The Tenant was assisted by a friend, A. P.
+ 
+Determinations and
+Reasons:
+ 
+Regarding L1
+Application (rent arrears)
+ 
+1.     
+The monthly rent is $1,000.00.
+2.     
+The Tenant has not paid the total rent the
+Tenant was required to pay for the period from December 1, 2016 to February 28,
+2017.  Because of the arrears, the Landlord served a Notice of Termination
+effective December 16, 2016.
+Regarding L2
+Application (N5 Notice)
+ 
+3.     
+On December 2, 2016, the Landlord served the
+Tenant with an N5 Notice in accordance with sub sections 64(1) and 62(1) of the
+Residential Tenancies Act, 2006 (the ‘Act’). The N5 Notice has a
+termination date of December 22, 2016 and alleges that:
+a)    The Tenant is harassing and substantially interfering with the
+reasonable enjoyment of the Landlord through numerous phone calls, voicemails
+and unannounced visits to the Landlord’s home;
+b)    The Tenant damaged the front room ceiling, walls and floor due to
+“brewing kegs of homemade wine” which exploded all over the room. The Landlord
+claimed  $320.00 to repair the alleged property damage.
+4.     
+The N5 Notice sets out the dates, times and
+specific allegations against the Tenant.
+5.     
+Because this is a first N5 Notice, the Tenant
+has an opportunity to void the notice in accordance with sub section 64(3) of
+the Act by correcting the identified problems within seven days of the date the
+notice was served. In this case, the seven day period begins the day following
+service of the N5 Notice, from December 3, 2016 to December 9, 2016. The
+Landlord confirmed that the N5 Notice was not voided and that the Tenant did
+not pay $320.00 for the alleged damages claimed in the N5 notice.
+6.     
+The Landlord testified:
+a)    The Tenant is her biological father;
+b)    The Tenant was brewing wine in the front room of the home and the
+red wine “exploded” and stained the ceiling, walls and floor. The Landlord
+submitted photos of the front room;
+c)    The Landlord gave notice to enter to replace the battery for the
+furnace and the Tenant denied entry and police were called;
+d)    The Tenant is not co-operative and verbally abusive such that the
+Landlord went to the police.  He withheld rent in return for personal favours,
+forced his way in and used the Landlord’s cottage, requested help in paying bills
+and constantly calls the Landlord with unreasonable requests.  He does not
+respect boundaries. He caused a “scene” when the roof was re-shingled and
+damaged the workers’ truck. When he comes to her house, he throws temper
+tantrums.
+7.     
+The Tenant admitted responsibility for the red
+wine stains on the ceiling of the front room. He testified that the container
+of red wine was corked and the cork popped causing wine to spray on the
+ceiling.  He said he paid his grandson to clean the stains.
+Wilful or
+negligent damage – front room
+ 
+8.     
+Section 62(1) of the Act states that a landlord
+may give a tenant notice of termination if the tenant wilfully or negligently
+causes undue damage to the rental unit.
+9.     
+I am not satisfied that the conduct of the
+Tenant was negligent or that the wine stains on the ceiling is representative
+of undue damage.  
+10.  
+“Conduct is negligent if there is a risk of
+damage which a reasonable person would take reasonable precautions against” (Bolton
+v. Stone [1951] A.C. 850).  Further, “If a person reasonably, albeit
+mistakenly, believes that there is no risk then the conduct is not negligent” (Beutler
+v. Beutler [1983] O.J. No. 505 at para. 148).
+11.  
+Wilful conduct means with intent or deliberate.
+12.  
+The Tenant placed a cork in the container of
+wine which shows that he took reasonable precautions against spillage.  The
+fact that the cork popped and caused the wine to spray the ceiling and spill
+onto the floor was not reasonably foreseeable.  As a consequence, the Tenant’s
+conduct was not negligent.  The facts do not demonstrate any intent by the
+Tenant to spray wine on the ceiling and floor.
+13.  
+I am not satisfied that the stains on the
+ceiling and the faint spot on the floor are representative of undue damage. 
+Undue suggests some damage is acceptable.  The stains on the ceiling and floor
+are akin to normal wear and tear.  
+14.  
+As the Landlord has not met the test under
+section 62(1), this claim is dismissed. In any event, the Landlord did not
+substantiate the remedy claimed of $320.00 with a quote or other similar evidence. 
+ 
+15.  
+The Landlord’s claim regarding damage caused by
+hooks on a ceiling beam is dismissed because the Landlord did not explain how the
+hooks caused undue damage.
+Substantial
+interference 
+ 
+16.  
+Asking someone to read your mail to them, show
+them how to pay bills, smoke fish for them and not respecting boundaries indicates
+that the Landlord’s allegations are representative of personal issues between
+members of a family rather than those between a Landlord and Tenant.  This does
+not represent substantial interference of reasonable enjoyment of the residential
+complex by the Landlord or harassment and this claim is dismissed.
+17.  
+The issues claimed by the Landlord that occurred
+at her home did not occur at the residential complex and therefore do not
+substantially interfere with her reasonable enjoyment of the residential
+complex. This claim is dismissed.
+18.  
+The Landlord’s claim that the Tenant damaged the
+roofing worker’s truck is dismissed. The Landlord did not provide sufficient
+details regarding this claim or any supporting evidence regarding this alleged
+damage.
+19.  
+The Landlord did not provide sufficient details
+such as dates and times, to support a finding of harassment or substantial
+interference regarding her complaints that the Tenant demanded she come over to
+change a light bulb, wanted a new kitchen tap and made numerous calls regarding
+the thermostat “flashing”.  These claims are dismissed.
+20.  
+The Landlord failed to substantiate her claim
+regarding denial of entry to the rental unit to replace the battery for the
+furnace on December 1, 2016.  A notice to enter was not provided and no details
+regarding police involvement were submitted.  In any event, a single event is
+not indicative of substantial interference. This claim is dismissed.  
+21.  
+The Landlord led evidence that the Tenant failed
+to maintain the unit in a state of ordinary cleanliness.  However, these issues
+were not raised in the N5 Notices which formed the basis of the L2 Application
+and are not relevant to a finding of a substantial interference or wilful or
+negligent damage. 
+Regarding L2 Application (N12 Notice –
+Landlord own use)
+ 
+22.  
+The Landlord served the Tenant with an N12
+notice of termination effective January 31, 2017 claiming the Landlord intended
+to move into the rental unit.
+23.  
+The Landlord testified that she intends to move
+into the rental unit to use the unit for her home based business and for other
+business purposes.
+24.  
+Subsection 48(1) of the Act states:
+A landlord may, by notice, terminate a
+tenancy if the landlord in good faith requires possession of the rental unit
+for the purpose of residential occupation by,
+(a) the
+landlord;
+(b) the
+landlord’s spouse;
+(c) a child or
+parent of the landlord or the landlord’s spouse; or
+(d) a person who
+provides or will provide care services to the landlord, the landlord’s spouse,
+or a child or parent of the landlord or the landlord’s spouse, if the person
+receiving the care services resides or will reside in the building, related
+group of buildings, mobile home park or land lease community in which the
+rental unit is located.  
+ 
+25.  
+The term “residential occupation” is not defined
+in the Act. However, the Court has stated in various decisions that residential
+occupation is generally understood to mean the property will be used as the
+person’s main residence and requires more than occasional or temporary use of
+the unit.
+26.  
+Based on the Landlord’s evidence, the test of
+residential occupation has not been met. It is clear from the Landlord’s own
+evidence that the property will not be the main residence of the Landlord and
+she intends to use the unit for business purposes, not residential occupation. 
+This claim is dismissed.
+Relief from eviction (L1 Application)
+27.  
+The Tenant testified that his source of income
+is retirement benefits of about $1,800 per month.  He has a hearing impairment
+and relies on oxygen for breathing purposes.  If evicted, he requested until
+April to find another home.
+28.  
+The Landlord said that she will lose her house
+if the arrears are not paid because she is using credit to pay bills and the
+mortgage.
+29.  
+I have considered all of the disclosed
+circumstances in accordance with subsection 83(2) of the Act, and find that it
+would not be unfair to grant relief from eviction subject to  the conditions
+set out in this order pursuant to subsection 83(1)(a) and 204(1) of the Act. 
+30.  
+In granting relief, I am
+taking into account the submissions of the Landlord and her financial obligations,
+and balancing that against the Tenant’s disclosed circumstances. Therefore the
+relief from eviction is subject to conditions set out in this order which, if
+not met, would allow the Landlord to apply to the Board, without further notice
+to the Tenant, for an order terminating the tenancy and evicting the Tenant
+pursuant to section 78 of the Act.
+
+It is ordered that:
+ 
+L2 Application
+ 
+1.     
+The Landlord’s L2 application is dismissed.
+L1 Application (rent
+owing)
+ 
+2.      The Tenant shall pay the Landlord $3,500.00
+which represents the amount of rent arrears owing up to March 31, 2017.
+3.      The Tenant shall also pay the Landlord $190.00
+for the cost of filing the application.
+4.      The Tenant shall pay the Landlord the full
+amount owing of $3,690.00, and the additional rent that comes due, as follows:
+a.    On or before April 1, 2017                   April
+rent
+b.    On or before April 30, 2017                 $3,690.00
+(arrears and filing fee)
+5.      If the Tenant fails to make any one of the payments
+ordered in paragraph 4, in full and on time, the Landlord may apply under
+section 78 of the Act, without notice to the Tenant for an order terminating
+the tenancy and evicting the Tenant. The Landlord must make this application no
+later than 30 days after the Tenant’s failure to make a payment. 
+ 
+March 13, 2017                                                                _______________________
+Date Issued                                                                      Avril
+Cardoso
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy,
+5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+ 
+
