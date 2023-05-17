@@ -1,0 +1,561 @@
+Metadata:
+Date:	2017-07-19
+File number:	
+HOL-01514-17
+	HOL-01514-17
+Citation:	HOL-01514-17 (Re), 2017 CanLII 60249 (ON LTB), <https://canlii.ca/t/h5xzh>, retrieved on 2023-05-16	https://canlii.ca/t/h5xzh
+Content:
+
+
+Arrears Worksheet
+ 
+File
+Number: HOL-01514-17
+ 
+Time period for
+Arrears Owing            From:    May
+1, 2017 to May 21, 2017
+(From the
+commencement of arrears to the termination date in the notice, or the end of
+the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/05/2017 -
+  21/05/2017
+
+
+$1,018.36
+
+
+ 
+
+
+$1,018.36
+
+
+ 
+
+
+$1,018.36
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To
+  calculate the Rent for part of a month, use the 
+       following
+  formula for columns (B), (C) and (D):
+ 
+       Monthly
+  Rent X 12 X # Days
+                  
+  365
+
+
+ (F) Total
+  Rent Owing
+
+
+$1,018.36
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                  $1,018.36
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $3,125.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                   $1,018.36
+ 
+(H1)      Payment
+to Landlord                                                                                       $1,475.00
+ 
+(I)         Total
+Amount Owing                                                                                          -$456.64
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if
+the tenancy is being terminated)
+ 
+(J) (i)    Lump
+Sum Compensation Start Date                                            May
+22, 2017
+            (Day
+after termination date in notice)
+ 
+    (ii)    Lump
+Sum Compensation End Date                                              July
+18, 2017
+            (Date
+of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                                $48.49
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                      58 days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                      $2,812.42
+            [(K) X
+(L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if
+you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                    $1,475.00
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For period
+from: 16/03/2017 to 21/05/2017
+       (i)  Annual
+Amount (S) X 1.5%       =                                                          $22.13
+       (ii) Daily
+Amount (i) / 365               =                                                             0.0606
+       (iii) Interest
+Owing (ii) X 67 (# of days) =                                                                           $4.06
+ 
+ 
+ 
+ 
+(O2)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)]                                                                                                   $4.06
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N) +
+(O2)] =                                                                                                     $1,479.06
+ 
+ 
+ 
+Part IV - Amounts owing to Tenant under s.82
+(Use this part if
+you are including amounts owing by the Landlord to the Tenant pursuant to s.
+82)
+ 
+(Q)       Amount
+owing under s.82                                                                                $1,475.00
+ 
+Part V - Total Amount Owing
+ 
+(R)        Terminating the tenancy [I+M-(P+Q)]                                                                     -$598.28
+ 
+
+
+
+
+Order
+under Section 69
+Residential
+Tenancies Act, 2006
+ 
+File
+Number: HOL-01514-17
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+P P R I.
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+J S
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+P P R I. (the 'Landlord') applied for an
+order to terminate the tenancy and evict J S (the 'Tenant') because the Tenant
+did not pay the rent that the Tenant owes.
+ 
+This application was heard in Barrie on
+July 7, 2017.
+ 
+The Landlord's Legal
+Representative, D. C and the Tenant attended the hearing.
+ 
+At the hearing the
+Tenant raised an issue regarding mould in the rental unit pursuant to section
+82 of the Residential Tenancies Act, 2006 (the 'Act').
+ 
+Determinations and
+Reasons:
+ 
+1.     
+The monthly rent is
+$1,475.00.
+2.     
+The Tenant has not paid the
+total rent the Tenant was required to pay for the period from May 1, 2017 to
+July 31, 2017.  Because of the arrears, the Landlord served a Notice of
+Termination effective May 21, 2017.
+3.     
+The Tenant paid $1,475.00
+after the application was filed.
+4.     
+The Landlord collected a
+rent deposit of $1,475.00 from the Tenant and this deposit is still being held
+by the Landlord.
+5.     
+Interest on the rent deposit
+is owing to the Tenant for the period from March 16, 2017 to May 21, 2017.
+            Mould
+6.     
+The Tenant testified that
+there is mould in the basement ceiling and he believes the mould may also be in
+the ductwork of the unit.  The rental unit is a 3 level townhouse.  The Tenant
+submitted photos of the unfinished basement ceiling to support his testimony. 
+The Tenant also submitted a Mould Inspection report from Air Detectives dated
+July 4, 2017.
+7.     
+The Tenant reported the
+issue to the Landlord by telephone about 3 months ago. He also sent an email to
+the Landlord on June 20, 2017 stating that he is arranging a mould inspection
+because he did not hear back from the Landlord when he previously reported the
+issue.  He sent a follow up email to the Landlord on June 21, 2017.  The Tenant
+submitted copies of these emails into evidence.
+8.     
+The Landlord conducted an
+inspection regarding mould and sent the Tenant an email stating that there was
+no issue regarding mould found.  This undated email was submitted into evidence
+by the Tenant.
+9.     
+The Landlord's Legal
+Representative submitted that the Landlord is willing to re-inspect the unit
+however the Landlord believes there is no mould and only mildew present.
+10.   The Landlord breached its obligation pursuant to
+section 20 of the Act by failing to inspect and remediate mould in the basement
+of the rental unit. The best evidence presented is the mould inspection
+report.  Much of the report addresses mould in general however the inspector
+states that mould was visible on the underside of the flooring (basement
+ceiling). The recommended treatment is cleaning with mould remediation
+chemicals.  There is no mention in the mould inspection report of mould
+suspected in the ductwork.  The Landlord failed to provide any reports
+regarding the inspection done in the unit and the inspector did not attend the
+hearing to provide any evidence.
+11.   Based on the evidence, the presence of any mould
+on the basement ceiling presents a minimal impact to the Tenant.  There was
+insufficient evidence to conclude that there is any mould in the ductwork of
+the unit.  Therefore it is not appropriate to award a rent abatement of one
+month as requested by the Tenant.  However, the Tenant is entitled to an
+inspection and remediation of any mould in the basement of the unit.
+Relief from
+eviction
+12.   The Tenant requests a payment plan to repay the
+arrears within 4 months.  
+13.   The Landlord's Legal Representative submitted
+that the Landlord requests that arrears are repaid with 3 payments.
+14.   I have considered all of the disclosed
+circumstances in accordance with subsection 83(2) of the Act, and find that it
+would not be unfair to grant relief from eviction subject to  the conditions
+set out in this order pursuant to subsection 83(1)(a) and 204(1) of the Act. To reduce the prejudice to the Landlord, the relief from eviction is
+subject to conditions set out in this order which, if not met, would allow the
+Landlord to apply to the Board, without further notice to the Tenant, for an
+order terminating the tenancy and evicting the Tenant pursuant to section 78 of
+the Act.
+ 
+ 
+It is ordered that:
+ 
+1.     
+The Landlord shall inspect
+and remediate any mould in the basement of the rental unit on or before August
+18, 2017.
+2.     
+The Tenant shall pay the
+Landlord $2,950.00 which represents the amount of rent arrears owing up to July
+31, 2017.
+3.     
+The Tenant shall also pay
+the Landlord $175.00 for the cost of filing the application.
+4.     
+The Tenant shall pay the
+Landlord the full amount owing of $3,125.00, and the additional rent that comes
+due, as follows
+a.    On or before July 28, 2017                   $781.25
+(arrears and filing fee)
+b.    On or before  August 1, 2017               August
+rent
+c.    On or before  August 15, 2017 $781.25 (arrears)
+d.    On or before  September 1, 2017        September
+rent
+e.    On or before  September 15, 2017     $781.25
+(arrears)
+f.      On or before  October 1, 2017 October rent
+g.    On or before  October 15, 2017           $781.25
+(balance of arrears)
+5.     
+If the Tenant fails to make
+any one of the payments in paragraph 4 of this order, in full and on time, the
+Landlord may apply under section 78 of the Act, without notice to the Tenant
+for an order terminating the tenancy and evicting the Tenant. The Landlord must
+make this application no later than 30 days after the Tenant’s failure to make
+a payment. As part of the application, the Landlord can also request an order
+for rent that became owing after the date of this order and NSF cheque fees and
+related administration charges.
+ 
+July 19, 2017                                                                    _______________________
+Date Issued                                                                      Avril
+Cardoso
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy,
+5th Floor
+Mississauga ON L4Z2G5
+ 
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+It is brought to the
+parties’ attention that, pursuant to subsection 234(y) of the Residential
+Tenancies Act, 2006, it is an
+offence for the Landlord to fail to comply with an order of the Board requiring
+repairs to be completed by a specified date.
+ 
+

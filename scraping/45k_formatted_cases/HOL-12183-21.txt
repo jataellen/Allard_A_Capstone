@@ -1,0 +1,279 @@
+Metadata:
+Date:	2022-02-18
+File number:	
+HOL-12183-21
+
+Citation:	Gingrich v Ngo, 2022 CanLII 106660 (ON LTB), <https://canlii.ca/t/jszw7>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: HOL-12183-21
+ 
+ 
+
+
+
+In the matter
+of:
+
+
+18D, 388
+OLD HURON ROAD KITCHENER ON N2R0J5
+
+
+ 
+
+
+
+
+Between:
+
+
+Mo Lan Gingrich
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+and
+
+
+ 
+
+
+
+
+ 
+
+
+Liem Ngo
+
+
+Tenant
+
+
+
+ 
+ 
+ 
+Mo Lan
+Gingrich (the 'Landlord') applied
+for an order to terminate the tenancy and evict Liem Ngo (the 'Tenant') because the
+Tenant or another occupant of the rental unit has committed an illegal act or
+has carried out, or permitted someone to carry out an illegal trade, business
+or occupation in the rental
+unit or the residential complex
+involving the production of an illegal
+drug, the trafficking in an illegal drug or the
+possession of an illegal drug for the purposes of trafficking. The Landlord
+also applied for compensation because
+the Tenant, another
+occupant of the rental unit or someone the Tenant permitted in the
+residential complex has wilfully or negligently caused undue damage to the
+premises.
+ 
+This application was heard via
+videoconference on January 24, 2022. The Landlord, the Tenant,
+and the Tenant’s legal representative B. Lue Sang attended the hearing.
+ 
+PRELIMINARY ISSUE:
+ 
+1.    
+The initial amount sought by the
+Landlord in the L2 Application was $20,000.00. On January 10, 2022,
+the Landlord amended
+the application to $61,463.65
+(Att#1 Request to Amend L2 Application). The Landlord was informed of the Board’s
+monetary jurisdiction of
+$35,000.00 and her option
+to withdraw and proceed through
+the Ontario Superior
+Court for the full amount. The
+Landlord confirmed her intent to proceed with her claim before the Board.
+ 
+Determinations:
+ 
+2.     The Landlord served an N6 Notice of Termination on the
+Tenant on September 21, 2021. The Tenant vacated the unit on September 27,
+2021. As such, the issue of termination is moot. The only issue remaining is
+damages pursuant to section 89 of the Residential Tenancies Act, 2006 (the
+‘Act’).
+ 
+3.     The damages claim is about cleaning the rental unit
+because of fentanyl contamination. For the reasons
+that follow, I find that the Tenant,
+an occupant or guest wilfully
+or
+
+
+
+
+ 
+negligently caused undue damage
+to the rental unit. I also find that the cost the Landlord will incur to repair
+the damage exceeds $35,000.00.
+ 
+4.     The Landlord submitted that the fentanyl
+within the unit is dangerous
+and must be removed.
+The Landlord testified that on September 15, 2021, she received a call from
+Waterloo Regional Police Service regarding their entry into the rental unit.
+She was told that they confiscated fentanyl and arrested a person or several
+people for possession and/or trafficking illegal drugs. The Landlord
+hired a company by the name of Woodhouse Group Inc. (‘Woodhouse’) to investigate whether fentanyl was found on the property,
+and whether decontamination
+was required.
+ 
+5.     Woodhouse attended the unit on September 30, 2021.
+Submitted into evidence was a report from Woodhouse dated November 3, 2021
+(Att#11 Fentanyl Investigation Report herein
+referred to as ‘Woodhouse Report’). The investigators collected wipe samples which involved wiping down separate
+locations for sample analysis. The fentanyl wipe samples were then analysed at
+Cassen Testing Laboratory in Mississauga, Ontario.
+ 
+6.     The Woodhouse Report found that the fentanyl wipe
+sample results indicate that residual contamination is present on surfaces
+throughout the unit. It also found that fentanyl contamination was likely
+present within ductwork and plumbing due to widespread contamination. It
+further states that cleaning should be undertaken to reduce residual fentanyl
+concentrations to below a laboratory detectible limit, and reduce potential
+exposure risks. A letter to the Landlord dated December 15, 2021 stated that a
+Level 3 decontamination procedure was recommended, including air duct cleaning,
+furnace cleaning, and replacement of p-traps (plumbing) (Att #4 Woodhouse
+Scope of Work). Level
+3 decontamination was explained in the Woodhouse Report.
+ 
+7.     The Landlord also claimed compensation for the front
+door that was broken during the police raid and the mailbox key that the Tenant
+had not returned.
+ 
+8.     The Tenant’s position was that the Landlord did not
+prove there was fentanyl in the unit constituting damage. The Landlord did not
+submit a police report, call a police officer to testify or call a writer of
+the Woodhouse Report to speak to their findings. In addition, the Woodhouse Report was contradictory. Finally, the Landlord
+is not entitled to compensation for damage done by the
+police.
+ 
+Law and
+Analysis
+ 
+9.    
+Subsection 89(1) of the Act says:
+ 
+A landlord
+may apply to the Board for an order requiring a tenant to pay reasonable costs that the landlord
+has incurred or will incur for the repair of or, where repairing is not
+reasonable, the replacement of damaged property, if the tenant,
+another occupant of the
+rental unit or a person whom the tenant permits in the residential complex
+wilfully or negligently causes undue damage to the rental unit or the
+residential complex and the tenant is in possession of the rental unit.
+
+
+
+
+ 
+10.  On a balance of probabilities, I do not find that the
+Tenant, an occupant or guest caused damage to the front door of the unit. It was
+the police, not the Tenant, an
+occupant or a person permitted in the unit by the Tenant who caused the damage
+to the door. Since the police
+were not an occupant or individuals permitted in the complex
+by the Tenant, the Landlord
+did not establish that the Tenant is responsible for the cost of repairing the
+damaged door.
+As such, the Landlord’s claim from the front door is dismissed. The Landlord’s
+claim for the mailbox key is also dismissed because a missing key does not
+constitute damage within the meaning of the Act.
+ 
+11.  On a balance of probabilities, I find that the Tenant,
+an occupant or guest wilfully or negligently caused undue damage to the rental
+unit due to the fentanyl contamination in the unit. The Woodhouse Report is
+clear that fentanyl was found in the unit. The Tenant submitted there are
+contradictions in the Woodhouse Report. However, I find that the Woodhouse
+Report was reliable and consistent. The Tenant could have called counter
+evidence, such as their own fentanyl report or a person specializing in fentanyl cleanup to testify, to persuade me that the Woodhouse Report
+was unreliable. However, he did not.
+ 
+12.  On a balance of probabilities, I am satisfied that it
+was he, an occupant or a guest that caused the fentanyl contamination. The Tenant
+did not produce any evidence to the contrary. Further, it was the Landlord’s
+evidence, supported by the Woodhouse Report, that the fentanyl within
+the unit is dangerous and must be removed. As such, I find that this
+constitutes damage within the meaning of subsection 89(1) of the Act.
+ 
+Compensation for Damages
+ 
+13.  The remaining issue is whether the amount sought
+by the Landlord was reasonable. I find that $35,000.00 is reasonable in the circumstances.
+Submitted into evidence was a breakdown of costs incurred by the Landlord
+(Att#14 Cost of Damage Repairs). The total amount was $61,463.65 for the initial
+inspection, level 3 decontamination, final inspection,
+front door replacement and mailbox key. Submitted into evidence was an email
+from C. Silva, a Project Manager for Woodhouse Restorations, which provided an
+updated quote for remediation (Decontamination Cost as of Jan 13). It stated
+that the updated balance was roughly $45,000.00 for the remediation, air ducts
+and furnace cleaning and final clearance testing by the independent consultant.
+ 
+14.  The Tenant submitted that the Landlord’s quote was
+vague, this was not a level 3 decontamination
+and thus the amount for cleaning is excessive. The Tenant relied on TSL- 08688-19 for the proposition that I should not rely on the quote for fentanyl
+remediation as it is unduly
+vague.
+ 
+15.  While I have found that the Tenant is not responsible
+for the damages to the front door, and the missing mailbox key is not damages,
+I am satisfied that the Level 3 restoration is required and this alone will
+cost $45,000.00. The Tenant failed to submit evidence that Level 3 restoration is not required. Further, I
+find the quote is not unduly vague.
+The facts before me are distinguishable from TSL-08688-19, as the quote
+before the Member
+did not indicate any
+determination or description of work that was required and what area of the
+rental unit remediation was required. The Woodhouse Report,
+read together with the scope of
+work letter and the email from C. Silva, is very clear
+what kind of work was required and
+
+
+
+
+ 
+where in the unit. The Tenant also did not produce
+counter evidence that the amount claimed is excessive. As such, I
+find that this amount is reasonable in the circumstances.
+ 
+It is ordered that:
+ 
+1.     The Tenant shall pay to the Landlord $35,000.00, which
+represents the reasonable costs of repairing the damage.
+ 
+2.     If the Tenant does not pay the Landlord the full
+amount owing on or before February 28, 2022, the Tenant will start to owe
+interest. This will be simple interest
+calculated from March 1, 2022 at 2.00% annually on the balance outstanding.
+ 
+ 
+February 18, 2022
+Date Issued                                                                      Camille Tancioco
+Member, Landlord and Tenant Board
+ 
+Head Office
+777 Bay Street, 12th Floor
+Toronto Ontario M5G2E5
+ 
+ 
+If you have any questions about this order,
+call 416-645-8080 or toll free at 1-888-332-3234.
+

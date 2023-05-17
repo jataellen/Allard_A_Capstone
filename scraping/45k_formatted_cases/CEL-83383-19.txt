@@ -1,0 +1,385 @@
+Metadata:
+Date:	2019-04-01
+File number:	
+CEL-83383-19
+	CEL-83383-19
+Citation:	CEL-83383-19 (Re), 2019 CanLII 87613 (ON LTB), <https://canlii.ca/t/j2hfb>, retrieved on 2023-05-16	https://canlii.ca/t/j2hfb
+Content:
+
+
+File Number: CEL-83383-19
+ 
+Order under Section 69
+Residential Tenancies Act, 2006
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+AR
+or the 'Landlord' applied for an order to terminate the tenancy and evict MM or
+the 'Tenant' because the Tenant did not pay the rent that the Tenant owes.  (L1
+Application)
+ 
+The
+Landlord also applied for an order to terminate the tenancy and evict the
+Tenant because the Tenant, another occupant of the rental unit or someone the
+Tenant permitted in the residential complex has substantially interfered with
+the reasonable enjoyment or lawful right, privilege or interest of the Landlord
+or another tenant; and because the Tenant has been persistently late in paying
+the Tenant's rent. The Landlord has also applied for an order requiring the
+Tenant to compensate the Landlord for the undue damage caused to the rental
+unit
+(L2 Application)
+ 
+These
+applications were heard in Mississauga on March 12, 2019.   Only the Landlord and the Landlord’s Agent, IG, attended the hearing.
+ 
+Determinations:
+ 
+L1 Application
+ 
+1.      The
+Tenant has not paid the total rent the Tenant was required to pay for the
+period from December 1, 2018 to March 31, 2019.  Because of the arrears, the
+Landlord served a Notice of Termination effective February 1, 2019.
+2.      The
+Landlord collected a rent deposit of $1,395.00 from the Tenant and this deposit
+is still being held by the Landlord.
+3.      Interest
+on the rent deposit is owing to the Tenant for the period from November 1, 2016
+to February 1, 2019.
+L2
+Application
+4.     
+The first N5 notice of termination underlying the application was
+served on December 27, 2018, and clearly identifies, inter alia, that
+the Tenant altered the rental unit locking system, and not giving the Landlord
+new keys to access the unit.  The second N5 notice was served on the tenants on
+January 13, 2019, stating that Tenant had not corrected the locking system
+problem, and then included a new claim that the Tenant had installed a security
+camera on the rental unit without consent of the Landlord.  The Landlord
+requires the Tenant in the second N5 to remove the camera and repair/restore
+the building to as it was.   Under the L2 application itself, the Landlord
+requests an order under section 89 of the Residential Tenancies Act, 2006
+(the ‘Act’), for the Tenant to pay the Landlord $500.00 for the
+repair/restoration of the building after having to remove the camera.  
+5.      The
+Tenant was also served an N8 notice on December 27, 2018, claiming persistent
+lateness in paying rents.
+The N5
+notices
+6.      The
+Landlord testified that when responding to an issue the Tenant had raised on December
+21, 2018, he noticed the lock on the rental unit had been changed, and his keys
+no longer were able to turn the new lock.  The Tenant was not at the rental
+unit when the Landlord had arrived.
+7.      Subsequently,
+the Landlord requested the Tenant to resolve the problem and when this failed,
+the Landlord testified he served the first N5 notice on the Tenant.  The
+Landlord also contacted the Rental Housing Enforcement unit, which then
+contacted the Tenant (as far as the Landlord is aware).  
+8.      The
+Landlord believes that because the Rental Housing Enforcement’s involvement,
+the Tenant changed the locking system back to the original lock on or about
+January 6, 2019, just outside the 7-day voiding period under the N5 notice. 
+9.      Based
+on the technicality that the N5 notice was not voided on time – that is, under
+subsection 64(3) of the Act --  the Landlord served a second N5 notice on the
+Tenant, but then added a new rental unit claim respecting an unauthorized
+installation of a security camera.
+10.   The
+Landlord testified on or about December 20, 2018, he found the Tenant had
+installed a security camera to the outside wall of the rental unit building and
+hardwired the camera to the interior of the building. (reference exhibit LL#1)
+11.   The
+Landlord testified that subsequently, the tenants in the basement apartment
+complained about the installed camera, as they were worried that their privacy
+would be compromised.  The Landlord was equally concerned and consequently
+served the second N5 notice on the Tenant.
+12.   As
+of the date of this hearing, the Landlord testified the Tenant has not removed
+the security camera and has not repaired/restored the rental unit building to
+its original condition.
+13.   Based
+on the uncontested submissions, and relying upon section 204 of the Act, I find
+that the first N5 notice was adequately voided.  Under the first N5 notice, the
+Tenant was given until January 3, 2019 to resolve the locking system issue, and
+this was essentially resolved on January 6, 2019.    The second N5 notice was
+served on January 13, 2019 and claimed the locking system problem was still an
+issue, but it was not.  While the Tenant technically missed the 7-day window to
+void by a few days, the lock problem was resolved well before the second N5
+notice was issued.
+14.   Based
+on my finding, therefore, the second N5 notice becomes invalid.  The reason for
+that is:  with the first N5 notice being voided as I have determined above, the
+second N5 notice now becomes a new, first N5 notice, which requires a 20-day
+period between its service and the termination date thereupon.  That new notice
+was served on January 13, 2019 and set out a termination date of January 28,
+2019 which is only 15 days in length.  The new N5 notice therefore fails to
+comply with subsection 64(2)(a) of the Act.
+15.   Consequently,
+the claim in that new N5 notice (served on January 13, 2019) relating to the
+unauthorized security camera falls away.  The only claim remaining, as a
+result, is under section 89 of the Act respecting the undue damage claim for having
+to remove the camera and repairing/restoring the rental unit building. 
+16.   The
+Landlord submitted exhibit LL#2, which is a copy of an estimate by an
+arms-length contractor to remove the camera, fill/repair the holes to the
+outside wall and to repair the drywall inside the rental unit.  I find the
+quotation of $500.00 plus taxes to be a reasonable estimation of costs to
+repair/restore the rental unit building due.  I find in favour of the Landlord
+in respect of this section 89 claim for undue damage and will order $565.00
+(includes HST) to be paid by the Tenant.
+The N8
+notice
+17.   The
+Landlord confirmed from the N8 notice that had been served on the Tenant that
+the Tenant was late with e-transfer rent payments for five of the seven months
+of December 2017 to June 2018.  
+18.   As
+well, the Landlord submitted that since the filing of the application, the
+Tenant has made no rent payments since December 2018, so that the Tenant has
+been late for paying rents for all four months between December 2018 and March
+2019.
+19.   Based
+on the uncontested submissions taken all together, I find that the Tenant has
+been persistently failed to pay the rent on the date it was due.
+20.   The
+Landlord confirmed the requested remedy of a final, non-remedial eviction order
+based on the finding of persistent lateness.  If a final termination is
+granted, the Landlord requested that the L1 application be amended to only
+order the arrears under the application.
+Section
+83
+21.   I
+have considered all of the Act, and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act.   I am granting
+the non-remedial termination the Landlord has requested.  With respect to the
+L1 application, therefore, the order below only sets out the arrears,
+compensation and costs owing under the L1 application.
+It is ordered that:
+ 
+1.      The
+tenancy between the Landlord and the Tenant is terminated in a final
+(non-remedial) way.  
+2.      The
+Tenant must move out of the rental unit on or before April 12, 2019.
+3.      The
+Tenant shall pay to the Landlord $4,064.18*, which represents the amount of
+rent owing and compensation up to April 1, 2019, less the rent deposit and
+interest the Landlord owes on the rent deposit.
+4.      The
+Tenant shall also pay to the Landlord $45.86 per day for compensation for the
+use of the unit starting April 2, 2019 to the date the Tenant moves out of the
+unit.
+5.      The
+Tenant shall also pay to the Landlord $190.00 for the cost of filing the
+application.
+6.      The
+Tenant shall also pay to the Landlord $565.00, which represents the reasonable costs of repairing the undue damage
+caused by the Tenant in respect of the security camera installation.
+7.      If
+the Tenant does not pay the Landlord the full amount owing* on or before April
+12, 2019, the Tenant will start to owe interest.  This will be simple interest
+calculated from April 13, 2019 at 3.00% annually on the balance outstanding.
+8.      If
+the unit is not vacated on or before April 12, 2019, then starting April 13,
+2019, the Landlord may file this order with the Court Enforcement Office
+(Sheriff) so that the eviction may be enforced.
+9.      Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to
+give vacant possession of the unit to the Landlord, on or after April 13, 2019.
+April 1, 2019                                                                     ________
+Date Issued                                                                      Alex
+Brkic
+                                                                                                                           Member,
+Landlord and Tenant Board
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the Act, the part of this order
+relating to the eviction expires on October 13, 2019 if the order has not been
+filed on or before this date with the Court Enforcement Office (Sheriff) that
+has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-83383-19
+ 
+A.        Amount the Tenant must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+December 1, 2018 to February 1, 2019
+
+
+$2,805.86
+
+
+
+ 
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+February 2, 2019 to April 1, 2019
+
+
+$2,705.74
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,395.00
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+November 1, 2016 to February 1, 2019
+
+
+-$52.42
+
+
+
+ 
+ 
+
+
+
+Arrears Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$4,064.18
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord (filing
+  fee):
+
+
+$190.00
+
+
+
+ 
+ 
+
+
+
+Plus daily compensation owing for each day of occupation starting
+  April 2, 2019:
+
+
+$45.86 (per
+  day)
+
+
+
+ 
+ 
+
+
+
+Total Arrears and filing fee the Tenant must pay the Landlord because
+  the tenancy is terminated:
+
+
+$4,254.18, + $45.86 per day starting April 2, 2019
+
+
+
+ 
+
+
+
+Damage Amount the Tenant
+  must pay to the Landlord:
+
+
+ 
+
+
+$565.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay
+  to the Landlord:
+
+
+$4,819.18, + $45.86 per
+  day starting April 2, 2019
+
+
+
+ 
+ 
+

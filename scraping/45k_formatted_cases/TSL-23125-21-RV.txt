@@ -1,0 +1,455 @@
+Metadata:
+Date:	2022-01-12
+File number:	
+TSL-23125-21-RV
+
+Citation:	Family FM Inc. v Rodney, 2022 CanLII 57868 (ON LTB), <https://canlii.ca/t/jq30f>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+Order under Section
+21.2 of the
+Statutory Powers Procedure Act
+and the Residential Tenancies Act, 2006
+ 
+File Number: TSL-23125-21-RV
+ 
+ 
+
+
+
+In the matter
+of:
+
+
+B, 1143 O'CONNOR DR EAST YORK ON M4B2T5
+
+
+ 
+
+
+
+
+Between:
+
+
+Family FM Inc.
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+And
+
+
+ 
+
+
+
+
+ 
+
+
+Junior
+Rodney
+
+
+Tenant
+
+
+
+ 
+ 
+Review Order
+ 
+Family FM Inc.
+(the 'Landlord') applied for an order to terminate the tenancy and evict Junior
+Rodney (the 'Tenant') because the Tenant, another
+occupant of the rental unit or a person the Tenant permitted in the residential
+complex has seriously impaired the safety of any person.
+ 
+This application was resolved by order TSL-23125-21 issued on December 8, 2021.
+On January 5, 2022 the Landlord requested a review of the order.
+A preliminary review of the review request
+was completed without
+a hearing.
+ 
+Reasons:
+ 
+1.    
+The Landlord’s request for review
+asserts both that the Landlord
+was not reasonably able to participate in the hearing and that the order contains a
+serious error.
+ 
+2.    
+The request
+particularizes four issues,
+although the last two are similar in nature and will
+be considered together:
+ 
+(1)  
+the Member
+restricted my cross-examination of the Tenant;
+ 
+(2)  
+the Member erred in what he considered hearsay
+evidence when the statement
+was written by the person who experienced same;
+ 
+(3)  
+the Member
+did not take into consideration any of the written emails,
+texts or letters from others
+which spoke to their fear of the Tenant; and,
+
+
+
+
+ 
+(4)  
+the Member
+did not take into consideration the Landlord’s evidence,
+which backed up the written
+statements of workers and other tenants as well as the Social Worker.
+ 
+3.    
+I have reviewed the
+Member’s order, the record, the hearing recording and the submissions made in the request. These
+reasons explain why I am not satisfied that there is a serious error in the order or that a serious
+error occurred in the proceedings.
+ 
+Not Reasonably Able to Participate
+ 
+4.    
+Subsection 209(2)
+of the Act provides:
+ 
+Without limiting
+the generality of section 21.2 of the Statutory Powers Procedure Act,
+the Board’s power to review a decision or order under that section may be
+exercised if a party to a proceeding was not reasonably able to participate in the proceeding.
+ 
+5.    
+This ground
+for review applies
+to situations where
+the party did not attend
+the hearing: Board
+Interpretation Guideline 8, Review of an Order at “Grounds for Review:
+Not Reasonably Able to Participate”.
+ 
+6.    
+The Landlord’s agent
+Mr. Frederick and the Landlord’s legal representative Mr. Mitchell attended the hearing. Mr. Frederick provided
+evidence on behalf
+of the Landlord and both Mr. Frederick and Mr. Mitchell
+cross-examined the Tenant.
+ 
+7.    
+The Landlord
+participated in the hearing and there is no basis
+for the Landlord’s assertion that the Landlord
+was not reasonably able to participate in the proceeding. This ground of review will therefore be dismissed.
+ 
+Serious Error
+ 
+8.    
+According to Board Interpretation Guideline 8, above,
+serious error includes
+but is not limited to the following:
+ 
+•        
+An error
+of jurisdiction. For example the order relies
+on the wrong section of the RTA or exceeds the LTB's powers. This
+issue need not have been raised in the original hearing;
+ 
+•        
+A procedural error which raises issues of natural justice;
+ 
+•        
+An unreasonable finding of fact on a material issue which would
+potentially change the result
+of the order;
+ 
+•        
+New evidence
+which was unavailable at the time of the hearing and which
+is potentially determinative of one or more central issues in dispute;
+
+
+
+
+ 
+•        
+An error
+in law. The LTB will not exercise
+its discretion to review an order interpreting the RTA unless the
+interpretation conflicts with a binding decision of the Courts or is clearly
+wrong and unreasonable; and,
+ 
+•        
+An unreasonable
+exercise of discretion which results in an order outside
+the usual range of remedies or results and where there are no reasons explaining the result.
+ 
+Alleged Restriction of Cross-Examination
+ 
+9.    
+The Landlord
+asserts that the Member restricted his cross-examination of the Tenant.
+Interestingly, the Landlord’s cross-examination of the Tenant was split between
+questions asked by the Landlord’s agent Mr. Frederick and questions
+asked by the Landlord’s legal representative Mr. Mitchell.
+ 
+10.  The right to adduce evidence by
+cross-examination is not unlimited. Section 183 of the Act directs the Board to
+adopt the most expeditious method of determining the questions arising in a
+proceeding that affords to all persons directly affected by the proceeding an
+adequate opportunity to know the issues and to be heard on the matter.
+Subsection 15(1) of the Statutory
+Powers Procedure Act, R.S.O. 1990, c. S.22 (the ‘SPPA’) provides the Board
+with broad powers to admit relevant evidence, but also authorizes the Board to
+exclude anything unduly repetitious. Section 23 of the SPPA provides the Board
+with the authority to make such orders and give such directions in proceedings
+before it as it considers proper to prevent abuse of its process. In this
+regard, subsection 23(2) of the SPPA provided the Member with the authority to
+reasonably limit further examination or cross-examination of a witness where it
+is satisfied that the examination or cross- examination has been sufficient to
+disclose fully and fairly all matters relevant to the issues in the proceeding.
+ 
+11.  With respect to the cross-examination of
+the Tenant by Mr. Frederick, some of the questions asked were not relevant to the allegations particularized on the N7 notice
+of termination. The issue on application was whether the Tenant’s
+conduct satisfied the legal test found at subsection 66(1) of the Act:
+ 
+66 (1) A landlord
+may give a tenant notice of termination of the tenancy
+if,
+ 
+(a)    
+an act or omission of
+the tenant, another occupant of the rental unit or a person permitted
+in the residential complex by the tenant
+seriously impairs or has seriously impaired the safety of
+any person; and
+ 
+(b)    
+the act or omission
+occurs in the residential complex.
+ 
+12.  By way of an example,
+Mr. Frederick queried
+the Tenant about
+his knowledge of the
+lawful rent. This question was not relevant to the issue on application.
+ 
+13.  Having reviewed the recording, I find that
+at no point in time did the Member restrict Mr. Frederick from asking relevant
+questions. Instead, any interventions by the Member were
+to direct Mr. Frederick to rephrase questions in a way that addressed the relevant
+issue. Furthermore, before the cross-examination of the Tenant concluded, the Member queried
+
+
+
+
+ 
+whether Mr. Frederick had any more questions for the Tenant.
+Mr. Frederick replied
+that he thought that would be all for now.
+ 
+14.  With respect to the cross-examination of
+the Tenant by Mr. Mitchell, it is also the case that some of the questions
+asked were not relevant to the allegations particularized on the N7 notice of
+termination. One example is a question about whether the Tenant previously
+received notices of termination respecting the tenancy. At no point in time did
+the Member restrict Mr. Mitchell from asking relevant questions. Instead, any
+interventions by the Member were directions to focus on the allegations
+relevant to the proceeding before the Board. Furthermore, before the Landlord’s
+cross-examination of the Tenant concluded, the Member queried
+whether Mr. Mitchell
+had any more questions
+for the Tenant. Mr. Mitchell
+replied that Mr. Frederick was telling
+him not to ask any more
+questions and that Mr. Frederick was the boss.
+ 
+15.  My view is that any interventions by the
+Member were proper. At the most, the Member directed the Landlord to
+cross-examine the Tenant on relevant issues. There were no instances where the
+Member refused to allow questions on relevant issues and the Member in fact
+took steps to ensure that Mr. Frederick and Mr. Mitchell had a final
+opportunity to ask questions before the cross-examination of the Tenant
+concluded. Neither Mr. Frederick nor Mr. Mitchell availed themselves of this
+opportunity and ultimately it was the Landlord’s decision to cease asking
+questions. In these circumstances, there is no basis for the assertion that any
+directions given by the Member during the cross-examination of the Tenant
+restricted or prevented the Landlord from
+fully and fairly disclosing all matters relevant to the issues in the
+proceeding or denied the Landlord procedural fairness or natural justice. This
+ground of review will therefore be dismissed.
+ 
+Alleged Mischaracterization of Evidence as Hearsay
+ 
+16.  The Landlord asserts
+that the Board
+erred in the characterization of certain evidence
+as hearsay.
+ 
+17.  The Court of Appeal in R. v. Badgerow, 2014 ONCA 272 (CanLII) explains
+that although a universal
+definition of hearsay evidence is elusive, hearsay is often identified by its
+characteristics: (a) it is adduced
+for the truth of its contents; and (b) there
+is an absence of a contemporaneous opportunity to cross-examine the declarant.
+ 
+18.  The Landlord introduced written statements authored
+by several persons
+who did not attend the hearing to provide direct
+evidence. The Member expressly addressed the issue of hearsay evidence at
+paragraphs 7-9 of the Board’s order:
+ 
+The Landlord
+submitted an email written by a tenant
+outlining the impact
+that the Tenant’s smoking has
+had on her family. While the Board may admit hearsay, it
+must be mindful of the inherent
+dangers in doing
+so, particularly given
+that hearsay evidence can be
+extremely unreliable. I have decided to admit the Landlord’s hearsay evidence
+and deal with any indicia of unreliability as a matter of what weight to be
+accorded to that evidence. As I will explain, I give it little weight because I
+accept the Tenant’s oral evidence to the contrary.
+
+
+
+
+ 
+The Tenant
+denied smoking in the residential complex. The Tenant’s denial was unequivocal,
+and I found him to be believable on this issue. Moreover, even if the Landlord had established that the Tenant smoked tobacco
+and cannabis in his unit, there was insufficient evidence led
+at the hearing to establish that the smoking seriously impaired the safety of
+another person in the residential complex. This portion of the Landlord’s
+application is also dismissed.
+ 
+19.  The Landlord’s only witness, Mr. Frederick,
+did not directly observe any of the incidents that were sufficiently
+particularized on the N7 to meet the requirements of Ball v. Metro Capital
+Property and Lockhurst (December 19, 2002), Toronto Docket No. 48/02 (Div.
+Ct.) (‘Ball’). The written statements proffered by the Landlord,
+including the written statement respecting the smoking issue, were adduced
+for the truth of their contents. The authors of these statements were not
+present at the hearing and there was therefore no contemporaneous opportunity
+to cross-examine the authors of any of these statements. All of the written
+statements the Landlord sought to rely upon meet the definition of hearsay
+evidence and the Member did not err in so finding.
+ 
+Alleged Failure to Consider Evidence
+ 
+20.  As noted above,
+the Landlord asserts
+that the Member
+did not take into consideration:
+ 
+(1)  
+any of the written
+emails, texts or letters from others which spoke to their fear of
+the Tenant; and,
+ 
+(2)  
+the Landlord’s evidence, which backed
+up the written statements of workers and other tenants as well as the Social
+Worker.
+ 
+21. 
+In Pavone v. Sniedzins, 2013 ONSC 2964 (CanLII) the Divisional Court held, at para. 5:
+ 
+The Member’s
+reasons are adequate
+to allow appellate review and to demonstrate
+that the Member considered the evidence and applied the appropriate test. The Member is not required to recite each
+and every piece of evidence nor to draw credibility findings that are unnecessary. The problem was causation. On the facts, the Member found this had not been
+proven.
+ 
+22.  In this case, my conclusion is that the Member’s reasons
+are adequate to allow review and to demonstrate that the Member
+considered the evidence and applied the appropriate legal test.
+ 
+23.  The Member correctly identified the legal
+test and that it was the Landlord’s burden to prove the allegations
+sufficiently particularized on the N7 notice of termination on the balance of
+probabilities. The order itself clearly explains why the Member found that the
+Landlord did not discharge this onus. The Landlord’s agent and witness
+Mr. Frederick did not have direct knowledge of the
+incidents particularized on the N7 for which there were sufficient particulars
+to meet the requirements of to meet the requirements of Ball. The
+Landlord sought to prove the allegations on the basis of hearsay evidence. The
+Member cited the inherent dangers of hearsay evidence, found the Tenant
+believable and accepted the Tenant’s testimony denying the Landlord’s
+allegations.
+
+
+
+
+ 
+24.  In my view, it is clear from the order that the Member in effect
+gave more weight to the Tenant’s testimony which was subject
+to cross-examination than Mr. Frederick’s evidence, which was based
+on hearsay evidence, or the Landlord’s hearsay evidence,
+which could not be subject to
+cross-examination. Given the Board’s acceptance of the Tenant’s
+evidence, it was not necessary for the Member to recite Mr. Frederick’s
+testimony or the hearsay statements to allow meaningful review.
+ 
+25.  The real substance of the Landlord’s
+concern is the Member’s weighing of the evidence. However, as noted in Board
+Interpretation Guideline 8, the Member’s findings of fact, including the
+Member’s finding that the Tenant’s denials of the Landlord’s allegations were
+credible, are entitled to significant deference. The Landlord’s review
+submission does not articulate any reason for why I should find that the Member’s findings
+of fact are unreasonable or that there is no rational connection between
+the finings of fact and the evidence adduced at the hearing. This ground of
+review will therefore be dismissed.
+ 
+It is ordered that:
+ 
+1.    The request
+to review order TSL-23125-21 issued on
+December 8, 2021 is denied. The order is confirmed and remains
+unchanged.
+ 
+ 
+ 
+
+
+
+
+January 12, 2022 Date Issued
+Toronto South-RO
+15 Grosvenor Street, 1st Floor Toronto ON M7A 2G6
+
+
+
+ 
+ 
+Member, Landlord and Tenant Board
+
+
+
+
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+

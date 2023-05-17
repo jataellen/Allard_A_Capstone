@@ -1,0 +1,701 @@
+Metadata:
+Date:	2018-04-09
+File number:	
+SWL-12693-18
+	SWL-12693-18
+Citation:	SWL-12693-18 (Re), 2018 CanLII 88654 (ON LTB), <https://canlii.ca/t/hv7np>, retrieved on 2023-05-16	https://canlii.ca/t/hv7np
+Content:
+
+
+Arrears Worksheet
+ 
+File
+Number: SWL-12693-18
+ 
+Time period for
+Arrears Owing            From:    November
+1, 2017 to December 2, 2017
+(From the
+commencement of arrears to the termination date in the notice, or the end of
+the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/11/2017 -
+  30/11/2017
+
+
+$1,200.00
+
+
+ 
+
+
+$1,200.00
+
+
+$200.00
+
+
+$1,000.00
+
+
+
+
+01/12/2017 -
+  02/12/2017
+
+
+$78.90
+
+
+ 
+
+
+$78.90
+
+
+$1,800.00
+
+
+-$1,721.10
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To
+  calculate the Rent for part of a month, use the 
+       following
+  formula for columns (B), (C) and (D):
+ 
+       Monthly
+  Rent X 12 X # Days
+                  
+  365
+
+
+ (F) Total
+  Rent Owing
+
+
+-$721.10
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                   -$721.10
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $1,265.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                     -$721.10
+ 
+(H1)      Payment
+to Landlord                                                                                          $525.00
+ 
+(I)         Total
+Amount Owing                                                                                       -$1,246.10
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if
+the tenancy is being terminated)
+ 
+(J) (i)    Lump
+Sum Compensation Start Date                                            December
+3, 2017
+            (Day
+after termination date in notice)
+ 
+    (ii)    Lump
+Sum Compensation End Date                                              April
+9, 2018
+            (Date
+of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                                $39.45
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                     128 days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                      $5,049.60
+            [(K) X
+(L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if
+you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                    $1,050.00
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For period
+from: 01/06/2017 to 02/12/2017
+       (i)  Annual
+Amount (S) X 1.5%       =                                                          $15.75
+       (ii) Daily
+Amount (i) / 365               =                                                             0.0432
+       (iii) Interest
+Owing (ii) X 185 (# of days) =                                                                         $7.99
+ 
+ 
+ 
+ 
+(O2)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)]                                                                                                   $7.99
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N) +
+(O2)] =                                                                                                     $1,057.99
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                          $2,745.51
+ 
+
+
+
+
+Order
+under Section 69
+Residential
+Tenancies Act, 2006
+ 
+File
+Number: SWL-12693-18
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+2, 290 VISTA PLACE
+WINDSOR ON N9B1H9
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+Andy Coletti
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+John Axford
+Naomi Bosse
+ 
+
+
+Tenants
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+Andy Coletti (the 'Landlord') applied for
+an order to terminate the tenancy and evict Naomi Bosse and John Axford (the
+'Tenants') because the Tenants did not pay the rent that the Tenants owe.(L1)
+ 
+The Landlord also applied for an order to
+terminate the tenancy and evict the Tenants because they, another occupant of
+the rental unit or someone they permitted in the residential complex have
+substantially interfered with the reasonable enjoyment or lawful right,
+privilege or interest of the Landlord or another tenant; and because they,
+another occupant of the rental unit or a person the Tenants permitted in the
+residential complex have seriously impaired the safety of any person. The
+Landlord also claimed compensation for each day the Tenants remained in the
+unit after the termination date. (L2)
+ 
+This application was heard in Windsor on
+April 4, 2018.
+ 
+The Landlord attended the hearing.  As of
+11:00 a.m., the Tenants were not present or represented at the hearing although
+properly served with notice of this hearing by the Board.
+ 
+Determinations:
+Application to
+Terminate a Tenancy and Evict a Tenant (L2)
+ 
+1.     
+The Tenants have engaged in
+loud domestic disputes involving yelling, screaming, breaking glass, banging
+and intervention of police.  The activities were repeated on a number of
+occasions including November 16, 21, and 28, 2017, December 4, 12, 2017 and
+January 19, 2018.
+ 
+2.     
+This conduct has
+substantially interfered with the other tenants' reasonable enjoyment of the
+residential complex.
+ 
+Application to Evict a Tenant for Non-payment of Rent and
+to Collect the Rent the Tenant Owes (L1)
+3.     
+The Notice to End a Tenancy
+Early for Non-payment of Rent (N4) served on the Tenants provided a termination
+date that was less than 14 days after the date of service.  The Landlord chose
+to convert the Application to Evict a Tenant for Non-payment of Rent and to
+Collect the Rent the Tenant Owes (L1) to an Application to Collect Rent the
+Tenant owes (L9) rather than withdraw the application.
+ 
+4.     
+The Tenants have not paid
+the total rent they were required to pay for the period from November 1, 2017
+to April 30, 2018.  Because of the arrears, the Landlord served a Notice of
+Termination effective December 2, 2017.
+ 
+5.     
+The Landlord collected a
+rent deposit of $1,050.00 from the Tenants and this deposit is still being held
+by the Landlord.
+ 
+6.     
+Interest on the rent deposit
+is owing to the Tenants for the period from June 1, 2017 to December 2, 2017.
+ 
+7.     
+The Tenants paid $525.00
+after the application was filed.
+ 
+8.     
+I have considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act.
+It is ordered that:
+ 
+1.     
+The tenancy between the
+Landlord and the Tenants is terminated.  The Tenants must move out of the
+rental unit on or before April 20, 2018.
+ 
+2.     
+The Tenants shall pay to the
+Landlord $2,745.51*, which represents the amount of rent owing and compensation
+up to April 9, 2018, less the rent deposit and interest the Landlord owes on
+the rent deposit.
+ 
+3.     
+The Tenants shall also pay to
+the Landlord $39.45 per day for compensation for the use of the unit starting
+April 10, 2018 to the date they move out of the unit.
+ 
+4.     
+The Tenants shall also pay
+to the Landlord $190.00 for the cost of filing the application.
+ 
+5.     
+If the Tenants do not pay
+the Landlord the full amount owing* on or before April 20, 2018, the Tenants
+will start to owe interest.  This will be simple interest calculated from April
+21, 2018 at 3.00% annually on the balance outstanding.
+ 
+6.     
+If the unit is not vacated
+on or before April 20, 2018, then starting April 21, 2018, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+ 
+ 
+7.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after April 21, 2018.
+ 
+8.     
+If, on or before April 20,
+2018, the Tenants pay the amount of $4,340.00** to the Landlord or to the Board
+in trust, this order for eviction will be void.  This means that the tenancy
+would not be terminated and the Tenants could remain in the unit.  If this
+payment is not made in full and on time, the Landlord may file this order with
+the Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+ 
+9.     
+The Tenants may make a motion to the Board under
+subsection 74(11) of the Act to set aside this order if they pay the amount
+required under that subsection on or after April 21, 2018 but before the
+Sheriff gives vacant possession to the Landlord. The Tenants are only entitled
+to make this motion once during the period of the tenancy agreement with the
+Landlord.
+ 
+April 9, 2018                                                                     _______________________
+Date Issued                                                                      Carol
+McDermott
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+South West-RO
+150 Dufferin Avenue,
+Suite 400, 4th Floor
+London ON N6A5N6
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with
+section 81 of the Act, the part of this order relating to the eviction expires
+on October 21, 2018 if the order has not been filed on or before this date with
+the Court Enforcement Office (Sheriff) that has territorial jurisdiction where
+the rental unit is located.
+ 
+*           Refer to
+section A on the attached Summary of Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: SWL-12693-18
+ 
+A.        Amount the
+Tenants must pay as the tenancy is terminated:
+ 
+
+
+
+Reasons for amount
+  owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+November 1, 2017 to
+  December 2, 2017
+
+
+-$721.10
+
+
+
+ 
+
+
+
+Less the amount the
+  Tenants paid to the Landlord
+
+
+ 
+
+
+-$525.00
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+December 3, 2017 to
+  April 9, 2018
+
+
+$5,049.60
+
+
+
+ 
+
+
+
+Less the rent
+  deposit:
+
+
+ 
+
+
+-$1,050.00
+
+
+
+ 
+
+
+
+Less the interest
+  owing on the rent deposit:
+
+
+June 1, 2017 to
+  December 2, 2017
+
+
+-$7.99
+
+
+
+ 
+
+
+
+Amount owing to the
+  Landlord on the order date:(total of previous boxes)
+
+
+$2,745.51
+
+
+
+ 
+
+
+
+Additional costs the
+  Tenants must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+
+
+
+Plus daily
+  compensation owing for each day of occupation starting April 10, 2018:
+
+
+$39.45 (per day)
+
+
+
+ 
+
+
+
+Total the Tenants
+  must pay the Landlord as the tenancy is terminated:
+
+
+$2,935.51, + $39.45 per day starting April 10, 2018
+
+
+
+ 
+ 
+ 
+ 
+

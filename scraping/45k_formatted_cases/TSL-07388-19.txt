@@ -1,0 +1,566 @@
+Metadata:
+Date:	2021-09-15
+File number:	
+TSL-07388-19-RV; 
+ TSL-75068-16/ TST-73374-16)
+	TSL-07388-19-RV; 	 TSL-75068-16/ TST-73374-16)
+Citation:	Bonakdarian v Kang, 2021 CanLII 129898 (ON LTB), <https://canlii.ca/t/jlbh9>, retrieved on 2023-05-16	https://canlii.ca/t/jlbh9
+Content:
+
+
+
+ 
+Order under Section
+21.2 of the
+Statutory Powers Procedure
+Act
+and the Residential Tenancies Act, 2006
+ 
+File Number: TSL-07388-19-RV
+ 
+ 
+
+
+
+In the
+  matter of:
+
+
+906, 30 HAYDEN STREET TORONTO ON M4Y3B8
+
+
+ 
+
+
+
+
+Between:
+
+
+Nasser Bonakdarian
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+and
+
+
+ 
+
+
+
+
+ 
+
+
+Deepu
+Kang
+
+
+Tenant
+
+
+
+ 
+ 
+Review Order
+ 
+Nasser Bonakdarian (the 'Landlord') applied
+for an order to terminate the tenancy and evict Deepu
+Kang (the 'Tenant')
+because the Tenant did not pay the rent that the Tenant owes.
+ 
+This application was resolved by order TSL-07388-19 issued on
+February 13, 2020. On February 20, 2020, the Tenant requested a review
+of the order.
+The request
+was heard by teleconference on May 10, 2021.
+ 
+The Landlord,
+the Landlord’s legal representative M. Yarmus, and the Tenant attended the hearing.
+ 
+Determinations:
+ 
+Review
+ 
+1.    
+The Tenant’s
+request for a review is based on the ground
+of serious error.
+ 
+2.    
+The Tenant alleged that the Member made the following errors in the order:
+ 
+(a)  
+failed to properly
+consider previous orders granting rent reductions for the Landlord’s failure to maintain the air
+conditioning and the Landlord’s failure to provide
+rent receipts;
+ 
+(b)  
+failed to consider
+evidence provided by the Tenant about the rent receipt issue; and
+ 
+(c)  
+made errors in calculating the amount of rent owed by the Tenant.
+
+
+
+
+ 
+ 
+ 
+ 
+Rent receipts
+ 
+3.    
+By order
+TSL-75068-16/TST-73374-16 issued May 11, 2017, the Landlord was required to provide the Tenant with rent receipts
+for any rent the Tenant paid for January 2008 to the date of the order. The Landlord was required to provide
+these receipts no later than May 31,
+2017, otherwise, starting June 1, 2017, the Tenant could deduct $25.00 from the monthly
+rent.
+ 
+4.    
+It is uncontested that
+the Tenant raised this issue at the hearing that gave rise to the order under review, which took place on
+December 10, 2019. The order under review does not consider this issue at all. I find that it
+was a serious error to do so.
+ 
+5.    
+At the review hearing I
+heard submissions from both parties about this issue and it became clear that I did not have all of
+the relevant evidence, so I directed the parties to give me post-hearing submissions. In particular, I directed the
+Landlord’s representative to file a
+copy of all rent receipts that had been provided to the Tenant for the relevant months
+(as stated in order
+TSL-75068-16/ TST-73374-16).
+ 
+6.    
+The Landlord’s
+representative filed post-hearing submissions on May 17, 2021 including rent receipts from 2009 to 2015. The following relevant
+rent receipts were not provided:
+ 
+a)    
+Any receipts
+from 2008;
+b)    
+January and March 2010;
+c)     
+July, October,
+and December 2011;
+d)     June and November
+2012;
+e)     January,
+February, and December
+2013;
+f)      
+December 2015;
+g)    
+Any receipts
+from 2016;
+h)    
+January, February,
+March, April, or May 2017.
+ 
+7.    
+The Landlord’s
+representative also filed some correspondence about receipts being sent to the Tenant but none of this
+correspondence states what receipts are sent for what dates and so I cannot conclude from this correspondence that any
+receipts were sent to the Tenant
+other than those sent in the post-hearing submissions.
+ 
+8.    
+Even assuming that the
+receipts filed as post-hearing submissions were all sent to the Tenant, based on the lack of many of the
+receipts that were ordered to be provided, I find, on a balance of probabilities, that the Landlord failed to
+comply with the requirement in order
+TSL-75068-16/TST-73374-16 to provide rent receipts for January 2008 to May 2017.
+ 
+9.    
+I therefore find that
+the Tenant was entitled to a reduction in rent of $25.00 from June 1, 2017 to
+the end of her tenancy on September 30, 2020.
+ 
+Air conditioning
+
+
+
+
+ 
+ 
+ 
+10.  By order TSL-75068-16/TST-73374-16 issued
+May 11, 2017, the Landlord was required to
+repair the air conditioning unit in the rental unit no later than May 31, 2019.
+The order further directed that if
+the Landlord failed to comply with this term of the order, the Tenant could deduct
+$100.00 per month from her rent commencing June 1,
+2017.
+ 
+11.  In October 2018 the Tenant filed multiple
+applications against the Landlord, including a
+T6 application in which she complained that the air conditioning unit in
+the rental unit was still not
+working properly. That application was resolved by order TST-00448-18, issued March 25, 2019, mostly on consent. One of
+the consent terms of the order was as follows:
+ 
+The Tenant shall provide the Landlord with names and contact information
+for three electricians and three HVAC technicians who would be qualified to assess the need for repairs for the issues listed at
+paragraphs 6 and 7 of TSL-75068-16/TST-73374-
+16
+ 
+12.  The order under review does consider some
+of the evidence submitted by the parties but
+does not consider all of the relevant evidence. I find this to be an
+error. However, after considering all
+of the evidence I have come to the same conclusion as was reached in the order under
+review.
+ 
+13.  The Landlord submitted a receipt from an
+HVAC contractor dated June 27, 2017 indicating
+that the air conditioning unit was inspected as was the thermostat and other associated equipment and that all
+(including air flow) was found to be in “good work condition.” This alone could have resolved the issue at the
+hearing on January 22, 2019 (which
+gave rise to the order issued on March 25, 2019) if the parties had not
+consented to resolve the issue by the
+Tenant providing information for technicians to examine the air conditioning unit.
+ 
+14.  By email sent to the Tenant on April 29,
+2019, the Landlord requested that the Tenant
+provide the information required by order TST-00448-18 no later than May
+6, 2019, otherwise the Landlord
+would consider the issue resolved.
+ 
+15.  The Tenant provided the information
+required by order TST-00448-18 to the Landlord on October 10, 2019.
+ 
+16.  On November 1, 2019 the Landlord had the
+air conditioning unit inspected by one of the
+HVAC technicians whose information was provided by the Tenant. The
+invoice from the HVAC technician
+indicates that the heat was working normally and that the cooling could not be assessed because the “building
+chillers” had been turned off. The invoice states that the air conditioning could not be inspected until the air
+conditioning in the building is turned on.
+ 
+17.  Based on the receipt from the HVAC
+contractor dated June 27, 2017, I find, on a balance of probabilities, that the air conditioning unit was found to
+be in good working order at that time. There is
+no reason to believe that the air
+conditioning problem alleged by the Tenant had spontaneously resolved
+with no intervention and so I find that the Landlord
+
+
+
+
+ 
+had complied
+with the requirement in order TSL-75068-16/TST-73374-16 issued May 11, 2017 to
+repair the air conditioner by May
+31, 2017.
+ 
+18.  Alternatively, even if the finding above is
+incorrect, I would still find that the Landlord complied with order TSL-75068-16/TST-73374-16. I say this
+because when the parties had
+difficulty agreeing on the state of the air conditioner, their point of
+contention was who had done the
+inspecting. They resolved that issue by agreeing that the Landlord would have the air conditioner inspected
+by someone the Tenant suggests. The Tenant took
+more than six months to provide this information. I note that three of these
+months (June, July, and August) are
+the hottest months in the summer. Once the Tenant finally provided the information, it was autumn
+and so it was cooler outside and the building air conditioning was not in operation. The Tenant’s delay in
+providing this information resulted
+in making it impossible for the
+Landlord to comply.
+ 
+19.  I also note that there was no evidence that
+the Tenant complained about the air conditioning
+between March 25, 2019 and October 10, 2019 or after the failed inspection in November 2019. From the Tenant’s
+apparent lack of interest in providing the names and contact information for HVAC inspectors and her lack of
+complaints about the air conditioning
+in 2019, I draw an inference that there was no issue with the air conditioning during this time. There was no evidence
+given by either party that any technician repaired or even examined the air conditioner between May 11, 2017 and
+November 2019 other than the one who
+found it to be in good working order in June 2017 and the one who could not examine its operation in
+November 2019. The air conditioner would not have fixed itself spontaneously and so the most logical
+conclusion is that it was not in disrepair.
+ 
+ 
+Disposition on review
+ 
+20.  Based on my finding of serious error
+respecting the rent receipt issue, the order issued February 13, 2020 shall be cancelled. This error resulted in an
+error in the amount owed by the
+Tenant and the most reasonable remedy is to revisit the amount owed by the Tenant.
+ 
+L1 application
+ 
+21.  The Landlord’s L1 application was heard de novo at the review hearing.
+ 
+22.  The Tenant vacated
+the rental unit on September 30, 2020.
+ 
+23.  It is uncontested that if the Tenant was
+not entitled to any deductions from order TSL-
+75068-16/TST-73374-16, she would be in arrears. The arrears arise from
+her deductions of these amounts from
+her rent. There is also a small calculation error in the Landlord’s records, which will be addressed below.
+ 
+24.  From June 2017 to the end of the tenancy,
+the Tenant’s monthly rent was $1,600.00. During this time (except
+for the month of May 2019, discussed
+below) the Tenant
+paid
+$1,410.00 per
+month, which is $190.00 short. Based on my findings above, during this time she was entitled to deduct $25.00 per month, and so
+she is in arrears of rent
+of
+
+
+
+
+ 
+$165.00 for each
+of these months (except May 2019, for which the arrears amount is slightly
+different, as explained
+below).
+ 
+25.  For the month of May 2019 the Tenant was
+also entitled to deduct the following amounts,
+as directed by order TST-00448-18, issued March 25, 2019:
+ 
+(a)  
+$600.00 rent abatement for harassment;
+(b)  
+$44.96 for interest on the rent deposit;
+(c)  
+$100.00 for a key deposit;
+and
+(d)  
+$50.00 for the cost of filing
+the application.
+ 
+26.  The order also provided that if these
+amounts were not paid by the Landlord by April 8, 2019, interest would start to accrue at 3.00% annually on the
+outstanding balance. The Landlord did
+not pay these amounts to the Tenant and she deducted them from her rent in May 2019, which means interest accrued
+from April 9, 2019 to April 30, 2019. The total of these amounts
+is $794.96 and I have
+calculated the interest
+on this amount to be
+$1.44.
+ 
+27.  For the month of May 2019, as for all of
+the material months, the Tenant was also entitled to deduct $25.00 for the rent receipt issue. After deducting
+$794.96, $1.44, and $25.00 from the
+monthly rent, the amount payable by the Tenant for May 2019 was $778.60. The Tenant paid $613.39 that month, leaving arrears of $165.21.
+ 
+28.  Based on the above, the total arrears
+owed by the Tenant is $6,600.21.
+ 
+29.  At the review hearing the Tenant submitted
+that it was improper for the Landlord to include
+June 2017 as a month that she was in arrears. The Tenant provided no reasonable or cogent explanation for this
+submission. The application claims arrears starting
+June 1, 2017 and the parties agree that the arrears started on that date. There
+is no reason to conclude that the
+Landlord’s claim for arrears ought to have started a month earlier.
+ 
+30.  The Landlord collected
+a rent deposit of $1,600.00
+from the Tenant and this deposit is still being held by the Landlord.
+ 
+31. 
+Interest on the rent deposit is owing to the Tenant
+for the period
+from February 1, 2019 to August
+31, 2020 (the rent deposit is applied to September 2020 and so no interest is
+due for that month). I have calculated
+this interest to be $49.88.
+ 
+32.  By order TST-14739-20, issued September 15,
+2021, the Landlord is ordered to pay the Tenant
+$3,550.00. This amount shall be set off against the full amount owed by the Tenant pursuant to this order.
+ 
+It is ordered that:
+ 
+1.    
+Order TSL-07388-19,
+issued on February 13, 2020, is cancelled and is replaced by the following order:
+
+
+
+
+ 
+2.    
+The tenancy is
+terminated as of September 30, 2020, the date the Tenant gave vacant possession of the rental unit to the Landlord.
+ 
+3.    
+The Tenant shall pay to
+the Landlord $1,400.12.*, which represents the amount of rent owing and compensation up to September 30,
+2020, less the amount owed to the Tenant pursuant
+to order TST-14739-20, the rent deposit, and interest the Landlord owes on the rent deposit.
+ 
+4.    
+The Tenant shall also pay to the Landlord
+$175.00 for the cost of filing the application.
+ 
+5.    
+If the Tenant does not
+pay the Landlord the full amount owing by October 31, 2021, the Tenant will owe interest. This will be
+simple interest calculated from November 1, 2021 at 2.00% annually on the balance
+outstanding.
+
+
+
+
+
+
+
+
+
+
+
+
+September 15, 2021
+Date Issued                                                                      Renée Lang
+Member, Landlord and Tenant Board
+ 
+Toronto South-RO
+15 Grosvenor
+Street, 1st Floor Toronto ON M7A 2G6
+ 
+This order contains all reasons for the determinations and order made. No further
+reasons will be issued.
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at
+1-888-332-3234.
+ 
+ 
+*           Refer to the attached
+Summary of Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: TSL-07388-19
+ 
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+
+Arrears:
+
+
+June 1, 2017
+to September
+30, 2020
+
+
+$6,600.21
+
+
+
+ 
+
+
+
+Less the amount set off from order
+TST-14739-20
+
+
+ 
+
+
+-$3,550.00
+
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,600.00
+
+
+
+
+Less the interest owing on the rent
+deposit:
+
+
+February 1, 2019
+to August
+31, 2020
+
+
+-$49.88
+
+
+
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$1,400.12
+
+
+
+ 
+
+
+
+Additional costs the Tenant
+must pay to the Landlord:
+
+
+$175.00
+
+
+
+ 
+ 
+ 
+
+
+
+Total the Tenant must pay the Landlord if
+  the tenancy is terminated:
+
+
+$1,575.12
+
+
+
+ 
+

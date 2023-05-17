@@ -1,0 +1,483 @@
+Metadata:
+Date:	2017-01-09
+File number:	
+CEL-62852-16
+	CEL-62852-16
+Citation:	CEL-62852-16 (Re), 2017 CanLII 9535 (ON LTB), <https://canlii.ca/t/gxq6r>, retrieved on 2023-05-16	https://canlii.ca/t/gxq6r
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-62852-16
+ 
+Time
+period for Arrears Owing From:   June 1, 2015 to November 17, 2016
+(From
+the commencement of arrears to the termination date in the notice, or the end
+of the rental period if the tenancy is not being terminated.)
+ 
+Part
+1
+- Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/06/2015
+  - 31/07/2016
+
+
+$17,660.60
+
+
+ 
+
+
+$17,660.60
+
+
+$14,199.43
+
+
+$3,461.17
+
+
+
+
+01/08/2016
+  - 31/10/2016
+
+
+$3,868.50
+
+
+ 
+
+
+$3,868.50
+
+
+$2,817.18
+
+
+$1,051.32
+
+
+
+
+01/11/2016
+  - 17/11/2016
+
+
+$720.71
+
+
+ 
+
+
+$720.71
+
+
+$939.06
+
+
+-$218.35
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part
+  Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**   
+  To calculate the Rent for part of a month, use the 
+      
+  following formula for columns (B), (C) and (D):
+ 
+      
+  Monthly Rent X 12 X # Days
+                  
+  365
+
+
+ (F)
+  Total Rent Owing
+
+
+$4,294.14
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                  $4,294.14
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $5,032.93
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                     $4,294.14
+ 
+(H1)      Payment
+to Landlord                                                                                           $939.06
+ 
+(I)         Total
+Amount Owing                                                                                        $3,355.08
+ 
+ 
+Part
+II
+- Calculation of Compensation
+(Use
+this part if the tenancy is being terminated)
+ 
+(J)
+(i)    Lump Sum Compensation Start Date                                             November
+18, 2016
+            (Day
+after termination date in notice)
+ 
+   
+(ii)    Lump Sum Compensation End Date                                              January
+9, 2017
+            (Date
+of order)
+ 
+(K)
+       Daily Compensation (Monthly Rent X 12)                                                               $42.39
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       53
+days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $2,246.67
+            [(K)
+X (L)] =
+ 
+ 
+Part
+IV
+- Total Amount Owing
+ 
+(Q)       Terminating
+the tenancy [I+M-P]                                                                          $5,601.75
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: CEL-62852-16
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In
+  the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+C
+  PH (1982) L
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+S
+  T
+ 
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+C
+P H (1982) L (the 'Landlord') applied for an order to terminate the tenancy and
+evict S T (the 'Tenant') because the Tenant did not pay the rent that the
+Tenant owes.
+ 
+This
+application was heard in Mississauga on December 14, 2016.
+ 
+The Landlord's Legal Representative, B R and the Tenant attended
+the hearing.
+ 
+Determinations:
+ 
+1.      The
+monthly rent is $1,289.50.
+2.      The
+Tenant has not paid the total rent he was required to pay for the period from
+June 1, 2015 to December 31, 2016.  Because of the arrears, the Landlord served
+a Notice of Termination effective November 17, 2016.
+3.      The
+Tenant paid $939.06 after the application was filed.
+4.      The
+Tenant receives a rent subsidy of $939.06 and her portion of the rent is $350.44.
+5.      The
+Tenants testified that she has two children and their father stopped supporting
+the family about a year ago.  She cannot not work full time because she does not
+have child care and works just 3 shifts a month and only during the day. She
+realised after getting advice from Tenant Duty Counsel that she can apply to
+Ontario Works while working. The Tenant receives the Child tax benefit that
+helps with food and rent.
+6.      The
+Tenant has lived at the unit for 6 years and her children go to the French
+immersion school in the area. She would like to maintain her tenancy and
+proposed to make payments of $1000.00 of the 20th of each month to
+clear the arrears and pay her portion of the rent amounting to $350.44 on the
+first of the month. The Landlord objected to a payment plan.
+7.      I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Residential Tenancies Act, 2006 (the 'Act'), and
+find that it would not be unfair to grant relief from eviction subject to  the
+condition(s) set out in this order pursuant to subsection 83(1)(a) and 204(1)
+of the Act. I am allowing the payment plan suggested by the Tenant and the
+prejudice to the Landlord is minimized by the provisions of section 78. of the
+Act.
+It is ordered that:
+ 
+1.      The
+Tenant shall pay the Landlord $6,672.87which
+represents the amount of rent arrears owing up January 31, 2017 and includes
+the $170.00 cost of filing the application.     
+2.      The
+Tenant shall pay the Landlord the full amount owing and the additional rent
+that comes due, as follows:
+a.    On
+or before January 20, 2017          ($1,000.00 arrears and filing fee)
+b.    On
+or before February 1, 2017        February 2017 rent
+c.    On
+or before February 20, 2017      ($1,000.00 arrears)
+d.    On
+or before March 1, 2017             March 2017 rent
+e.    On
+or before March 20, 2017           ($1,000.00 arrears)
+f.     On
+or before April 1, 2017                April 2017 rent
+g.    On
+or before April 20, 2017             ($1,000.00 arrears)
+h.    On
+or before May 1, 2017                 May 2017 rent
+i.      On
+or before May 20, 2017               ($1,000.00 arrears)
+j.      On
+or before June 1, 2017               June 2017 rent
+k.    On
+or before June 20, 2017             ($1,000.00 arrears)
+l.      On
+or before July 1, 2017                 July 2017 rent
+m.   On
+or before July 20, 2016               ($672.87 balance of arrears)             
+3.      If
+the Tenant fails to make any one of the payments in paragraph 2 of this order,
+in full and on time, the Landlord may apply under section 78 of the Residential
+Tenancies Act, 2006, without notice to the Tenant for an order terminating
+the tenancy and evicting the Tenants. The Landlord must make this application
+no later than 30 days after the Tenant’s failure to make a payment. As part of
+the application, the Landlord can also request an order for rent that became
+owing after the date of this order and NSF cheque fees and related administration
+charges.
+4.      This
+does not include charges related to lack of sufficient funds for pre-authorized
+debits as this would be considered a penalty that is not allowed under
+Subsection 134(1) of the Act.  Subsection 85(5).only allows
+NSF cheque charges to be claimed by the Landlord on an arrears application.
+ 
+January 9, 2017                                                               _______________________
+Date Issued                                                                      Tiisetso
+Russell
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+ 
+

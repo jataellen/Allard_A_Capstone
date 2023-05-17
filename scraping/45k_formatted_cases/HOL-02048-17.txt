@@ -1,0 +1,422 @@
+Metadata:
+Date:	2018-02-16
+File number:	
+HOL-02048-17
+	HOL-02048-17
+Citation:	HOL-02048-17 (Re), 2018 CanLII 41854 (ON LTB), <https://canlii.ca/t/hs06n>, retrieved on 2023-05-16	https://canlii.ca/t/hs06n
+Content:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: HOL-02048-17
+ 
+ 
+ 
+ 
+S.E
+(the 'Landlord') applied, to the Landlord and Tenant Board (the “Board”), for
+an order to terminate the tenancy and evict L.R and W.R (the 'Tenants') because
+the Tenants did not pay the rent that the Tenants owe.
+ 
+This
+application was heard in Toronto on January 2, 2018 and February 14, 2018.
+ 
+The
+Landlord was represented by L.I, licensed paralegal. The Tenant, W.R (the
+“Tenant”), attended the hearing on behalf of both Tenants and was
+self-represented.
+ 
+Determinations:
+ 
+Preliminary Matters
+ 
+1.     
+After
+the January 2nd sitting of the hearing, and upon reflection prior to
+writing my decision, I came to realize I did not accord the Tenant an
+opportunity to reply to the submissions of the Landlord’s legal representative
+going to subsection 3(1) of the Residential Tenancies Act, 2006 (the
+“Act”). Further, the parties were not afforded an opportunity to provide
+submissions going to relief from eviction pursuant to section 83 of the Act.
+2.     
+For
+these reasons, I decided reconvene the hearing to address the two issues above.
+In order to accommodate the parties, and in particular, the Tenant, who is
+self-represented, I instructed Board staff to enclose a copy of 1086891
+Ontario Inc. v. Barber, 2007 CanLII 18734 (ON SCDC) (“Barber”), a
+decision of the Divisional Court, going to one of the material issues and I
+requested the parties be prepared to make submissions going to the
+applicability of the Barber decision to the within application.
+3.     
+This
+matter commenced on January 2, 2018 before me and another Member of the Board.
+When this matter reconvened on February 14, 2017, the second Member was
+unavailable and the parties agreed that the hearing would proceed de novo.
+The
+Landlord’s Application
+ 
+4.     
+The
+Tenants are in possession of the rental unit.
+5.     
+The
+Landlord alleges the Tenants have not paid the total rent they were required to
+pay for the period from February 1, 2016 to February 28, 2018.  Because of the
+arrears, the Landlord served a Notice of Termination effective October 26,
+2017.
+6.      On
+October 11, 2017, the Landlord served a Notice to Terminate Early for
+Nonpayment of Rent (the “N4 notice”) claiming, at that time, $360.00 for
+arrears of rent. By the time the matter came before me on January 2, 2018, the
+arrears amount claimed by the Landlord, to January 31, 2018, was $655.00. As at
+the February 14th sitting, the arrears claimed amounted to $695.00;
+however, based on my calculations, the arrears amount as at February 14, 2018
+should be $520.00 (13 months x $40.00). The Landlord also claims the cost of
+filing the application, in the sum of $175.00.
+7.      The
+arrears amount claimed by the Landlord is based on a notice of
+rent increase (“NORI”), served to the Tenants on October 27, 2016, to take
+effect on February 1, 2017 and increasing the monthly rent from $2,000.00 to
+$2,040.00. 
+8.     
+The
+Tenants claim the Landlord did not have the authority to serve the said NORI to
+them because, on or about September 15, 2015, the parties executed a lease for
+a term of five years commencing October 8, 2015, and stipulating, in part, as
+follows:
+“TERM OF
+LEASE: The lease shall be for a term of five years commencing October 8, 2015.
+RENT: The
+Tenant will pay to the said Landlord monthly and every month during the said
+term of the lease the sum of Two Thousand Canadian Dollars (CDN) $2,000.00
+payable in advance on the first day of each month during the currency of the
+said term…” [Emphasis added]
+9.     
+On
+February 14th, the Tenant submitted, essentially, the Tenants’ lease
+with the Landlord, which was negotiated by the Tenants with an experienced real
+estate agent representing the Landlord, is a contract and all terms of the
+lease must be honoured. The Tenant added the Tenants are seniors and entered
+into the lease based on a monthly rent they could afford and understanding said
+monthly rent would not be raised for a period of five years. If the Tenants are
+successful in their argument, then the N4 notice served to them on October 11,
+2017 is invalid, claiming as it does an unlawful monthly rent, and the Landlord’s
+application must be dismissed.
+10.  
+The
+Landlord’s legal representative submitted the Landlord is simply exercising his
+statutory rights and the Landlord relies on subsection 3(1) of the Act, which
+says: “This Act applies with respect to rental units in residential complexes,
+despite any other Act and despite any agreement or waiver to the contrary.”
+11.  
+In
+particular, the Landlord’s legal representative submitted the Landlord served
+the NORI in accordance with section 116 of the Act and it was not disputed the
+Landlord complied with this provision, which states:
+116.  (1) 
+A landlord shall not increase the rent charged to a tenant for a rental unit
+without first giving the tenant at least 90 days written notice of the
+landlord’s intention to do so.
+(2) 
+Subsection (1) applies even if the rent charged is increased in accordance with
+an order under section 126. 
+(3)  The
+notice shall be in a form approved by the Board and shall set out the
+landlord’s intention to increase the rent and the amount of the new rent. 
+(4)  An
+increase in rent is void if the landlord has not given the notice required by
+this section, and the landlord must give a new notice before the landlord can
+take the increase.  
+12.  
+The
+Landlord’s legal representative further submitted the Landlord is relying on
+subsection 119(1) of the Act, which reads as follows:
+119.  (1) 
+A landlord who is lawfully entitled to increase the rent charged to a tenant
+for a rental unit may do so only if at least 12 months have elapsed,
+(a) since
+the day of the last rent increase for that tenant in that rental unit, if there
+has been a previous increase; or
+(b) since
+the day the rental unit was first rented to that tenant, if clause (a) does not
+apply.
+13.  
+Subsection
+194(2) of the Act states:
+Despite
+subsection 3(1) and subject to subsection (3), a settlement mediated under this
+section may contain provisions that contravene any provision under this Act.
+14.  
+For
+the reasons that follow the Landlord is, in my view, permitted to increase the
+Tenants’ monthly rent in accordance with the NORI served to the Tenants on
+October 27, 2016.
+15.  
+In
+Crown Trust Co. v. Rosenberg, [1986] O.J. No. 2683 (“Crown
+Trust”), Galligan J., in considering subsection 2(1) of the Tenant
+Protection Act, a provision identical to subsection 3(1) of the Act,
+prohibited contracting out even if it is for the benefit of the tenant. At
+paragraph 11 Galligan J. states as follows: 
+In attractive and sophisticated
+arguments, counsel for the landlord contended that the words ‘to the contrary’
+in these sections referred to the mischief which the legislation was intended
+to redress.  They contended that the mischief intended to be redressed by
+both pieces of legislation was the perceived inequality of bargaining power
+between tenants and landlords.  Thus they contended that the parties could
+effectively agree to terms, which, so long as they increased tenants’ rights,
+or at least did not impinge upon tenants’ rights, would not be an agreement or
+waiver to the contrary, as contemplated by s. 82(1).
+16.  
+ And,
+further, at paragraphs 14, 15, 16 and 19, as follows:
+It is my opinion however, that there
+is no ambiguity in the provisions of ss. 82(1) and 2(1) of the Acts which would
+entitle me to engage in the exercise of searching out the mischief addressed by
+the Legislature when it enacted the two pieces of legislation.  Indeed the
+proposition advanced on the landlord’s behalf, when followed to its logical
+conclusion, proposes that I should rewrite the sections so that they read that
+the legislative provisions are to apply notwithstanding any agreement or waiver
+to the contrary, entered into by the tenant.  In my opinion, I can do no
+such thing.
+I am unable to find anything in either
+Act that would lead me to think that a landlord can bargain away his statutory
+rights, but that a tenant cannot.  It is interesting to compare ss. 126 and 127 of
+the Residential Tenancies Act, because very similar language is found in
+both of them.  Section 126 says that where a landlord desires to increase
+the rent permitted under the statute he may make an application for certain
+relief.  Section 127 says that a tenant who desires to dispute any
+intended rent increase, may make an application for relief.  I don’t
+think that anyone would suggest that an agreement by a tenant to forgo [sic]
+his s. 127 rights for a given period of time would be enforceable in the light
+of s. 2(1) of the Act.  I am quite unable to conceive how the rights
+given to the landlord in the preceding section in very similar language could
+be treated differently.
+I have come to the conclusion that the
+words ‘to the contrary’, when used in the two sections, do not refer to the
+mischief sought to be redressed by the Legislature, but refer to the
+application of the legislation.  Thus an agreement to the contrary
+cannot affect the application of Pt. IV of the Landlord and Tenant Act or
+the application of the Residential Tenancies Act.
+…While a failure to abide by the terms
+of the proposed agreements might well be regarded with disfavour, I am of the
+opinion that to the extent that they conflict with, restrict, waive or modify
+the provisions of the Residential Tenancies Act, they are legally
+unenforceable.
+[Emphasis added]
+17.  
+ I
+also find the following comments of Killeen J., in Pinheiro v. Bowes, [1994] O.J. No. 115 (“Pinheiro”), helpful: 
+[13]      Judges
+must accept statutes as they find them if they are clear and unambiguous and
+catch the factual situation under consideration.
+[14]      In my
+view, while s. 99 was largely created to protect tenants, it cannot be said to
+be contrary to public policy to enforce it in favour of a landlord. 
+Section 99 provides a broadly-gauged protective rule for landlord-tenant
+relationships and must be enforced as it plainly reads and provides. 
+On its face, it invalidates the lease proviso in issue and makes the tenant
+liable for one month’s additional rent. [Emphasis added]
+18.  
+Again,
+considering subsection 2(1) of the Tenant Protection Act, in Barber the majority of the Divisional Court cited Crown
+Trust and Pinheiro, with approval, and concluded:
+[17]    In the
+present case, the effect of the so-called agreement on which the tenant seeks
+to rely would be to forever prohibit the landlord from exercising his right to
+a rent increase as long as the tenant remained in possession.  Because the
+so-called agreement would amount to a contracting out of the landlord’s right
+to increase rent in accordance with the TPA, it runs afoul of ss. 2(1)
+of the statute.  While there is provision in the TPA permitting
+landlords and tenants to negotiate increases and decreases in specific
+circumstances, none of those circumstances apply here and indeed no provision
+of the TPA permits a “rent free” agreement.
+[18]      The policy rationale behind ss.
+2(1) is to treat tenants and landlords equally.  The subsection is
+designed to prevent parties from bargaining away or waiving their statutory
+rights no matter what the circumstances.  Both Crown Trust Co. v.
+Rosenberg and Pinheiro v. Bowes found that the provision was meant
+to operate as a blanket prohibition.  To permit a departure would create a
+significant loophole which could dramatically impair the entire scheme of the Act.
+[19]      The appellant submitted the
+landlord was estopped from resiling from its bargain.  Estoppel cannot
+override statute (see Harzuz Holdings Ltd. v. Peel (Regional Municipality),
+[2006] O.J. No. 1830).  There is no need for the subsection to make
+specific reference to the doctrine of estoppel.  In any event, it would be
+illogical to conclude that, although the TPA prohibits in very clear
+terms any agreement to the contrary or waiver of rights, it leaves open to the
+parties to accomplish the same thing through the doctrine of estoppel.  In
+any event, the Tribunal does not have the jurisdiction to apply the principle
+of estoppel in the absence of specific statutory authority (see Klymko v.
+Lem, [2001] O.J. No. 156). [Emphasis added]
+19.  
+Subsection
+194(2) of the Act illustrates that the Legislature turned its mind to
+circumstances where it is permissible to oust the provisions of subsection 3(1)
+of the Act—that is, where the parties enter into an agreement, which is the
+product of mediation at the Board, on consent. Here, clearly the facts do not
+give rise to the application of subsection 194(2).
+20.  
+Section
+17 of Ontario Regulation 516/06 further illustrates where the Legislature saw
+fit to exempt parties from the application of the Act. Section 17 outlines
+payments made by a tenant to a landlord that will not be considered to be
+illegal fees under s.134 of the Act. Clearly, none of those circumstances apply here.
+21.  
+In
+my view, had
+the Legislature intended that other circumstances exist, where landlords and
+tenants could further abrogate their respective statutory rights, such as when negotiating
+the terms in a lease as is the case here, the Legislature could have, with relative
+ease, so specified as it did in other provisions of the Act. In this case, the Landlord’s
+rights impinged upon, and in fact annulled, by the lease are those accorded to him
+by subsection 119(2) of the Act and, as such, the above-noted term in the parties’
+lease alters the law
+by taking away from the Landlord that which the Act grants. 
+22.  
+As Killeen J. says, Pinheiro v. Bowes, above, triers of
+fact must accept statutes as they find them. Moreover, where the provision of a
+statute is clear and unambiguous, as is the case here with subsection 3(1) of
+the Act, it should
+be interpreted according to its ordinary meaning within the broader context of
+legislative intention, the object of the Act and the scheme of the
+legislation.
+23.  
+The
+Tenant stated he spoke with some of his friends and clients, who are lawyers,
+and submitted Barber should be distinguished because that case involved
+a month-to-month tenancy, which is not the case here. However, there is nothing
+substantive
+to distinguish the case at bar from Barber. In Barber, the
+landlord had given the tenant a letter indicating that the tenant’s rent would
+be frozen until the tenant decided to vacate the unit. However, the following
+year the landlord served the tenant with a notice of guideline rent increase.
+The tenant refused to pay the increase and the landlord applied to the Tribunal
+for an order for arrears and termination which was granted. The tenant appealed
+the decision, however it was upheld by Divisional Court. The majority of the
+Divisional Court held that the landlord was not estopped from increasing the
+rent despite the letter stating otherwise.
+24.  
+Section
+1 of the Act states the purposes of the Act include protection from unlawful
+evictions and a balancing of the rights and
+responsibilities of residential landlords and tenants. It seems to me
+entirely inconsistent with one of the stated purposes of the Act, for the
+Legislature to then, concomitantly, contemplate making it lawful for parties to
+contract away a right codified in the legislation. This is especially so
+on a plain reading of subsection 3(1) and in light of the Divisional
+Court’s pronouncement in Barber, as already noted above,
+where the majority of the Court stated, in connection with the section in the
+predecessor legislation identical to subsection 3(1) of the Act, in part:
+The
+subsection is designed to prevent parties from bargaining away or waiving their
+statutory rights no matter what the circumstances. 
+25.  
+The
+Court in Barber goes on to find that the provision was meant to operate
+as a blanket prohibition and, “To permit a departure would create a significant
+loophole which could dramatically impair the entire scheme of the Act.”
+26.  
+And
+I agree. To uphold the term(s) at issue in the lease would deny the Landlord,
+for a period of five years, his statutory right to raise the monthly rent in
+accordance subsection 119(1) of the Act while, simultaneously, amount to a
+licence for breaches of the Act by the Tenants, when Landlord chooses to
+exercise his statutory right to lawfully raise the rent. Again, this could not
+have been the intent of the Legislature.
+27.  
+Accordingly,
+the Landlord was entitled to increase the monthly rent as stipulated in the
+NORI, served to the Tenants on October 27, 2016, to take effect on February 1,
+2017 and increasing the monthly rent from $2,000.00 to $2,040.00. 
+28.  
+The
+Tenants have not paid $520.00 of the total rent the Tenants were required to
+pay for the period from February 1, 2016 to February 28, 2017. The Tenants also
+owe the Landlord $175.00 for the cost of filing the application.
+29.  
+The
+total amount owing is $695.00 ($520.00 + $175.00).
+30.  
+The
+Landlord requested a standard order, according the Tenants eleven days to pay
+the total amount outstanding and continue the tenancy.
+31.  
+The
+Tenant requested a payment plan, whereby the Tenants would satisfy their
+arrears debt to the Landlord over a period of six months as the Tenants are on
+a fixed income. The Tenant explained he works part-time and his spouse does not
+work. The Tenant stated the Tenants’ gross monthly income is approximately
+$5,000.00.
+32.  
+I
+asked the Landlord’s legal representative for submissions going to section 83
+relief and he stated he did not have anything further to add. No evidence was
+presented the parties have, in the past come before the Board on any issues
+arising out of the tenancy. Indeed, the Tenants’ uncontradicted evidence is the
+monthly rent, in the amount they believed to be the lawful rent, that is
+$2,000.00, was invariably paid in full and on time since the outset of the
+tenancy.   
+33.  
+Having
+considered all of the disclosed circumstances in accordance with subsection
+83(2) of the Residential Tenancies Act, 2006 (the 'Act'), I find that it would
+not be unfair to grant relief from eviction subject to the conditions set out
+in this order pursuant to subsection 83(1)(a) and 204(1) of the Act. 
+It is ordered that:
+ 
+1.     
+The
+Tenants shall pay the Landlord $695.00 as follows:                                                      
+a)
+$120.00 on March 1, 2018 and $120.00 on the first day of each and every month
+thereafter until the outstanding arrears amount owing to the Landlord is
+reduced to zero.
+2.     
+Commencing
+in March, 2018, and each and every month thereafter until August, 2018,
+inclusive, the Tenants shall pay the lawful rent, in the sum of $2,040.00, to
+the Landlord no later than the first day of the month.
+3.     
+If
+the Tenants fails to make any one of the payments in accordance with this
+order, the outstanding balance of any arrears of rent and costs to be paid by
+the Tenants to the Landlord pursuant to paragraphs 1 or 2 of this order shall
+become immediately due and owing and the Landlord may, without notice to the
+Tenants apply to the Board pursuant to section 78 of the Act for an order
+terminating the tenancy and evicting the Tenants and requiring that the Tenants
+pay any new arrears, NSF fees and related charges that became owing after February
+28, 2018.
+ 
+ 
+ 
+ 
+ 
+ 
+February 16, 2018                                                           _______________________
+Date Issued                                                                      Roger
+Rodrigues
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Head Office
+777 Bay Street, 12th Floor
+Toronto Ontario M5G2E5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+

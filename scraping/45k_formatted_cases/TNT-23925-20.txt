@@ -1,0 +1,279 @@
+Metadata:
+Date:	2022-02-07
+File number:	
+TNT-23925-20
+
+Citation:	Sardo v Haji-Abutorab, 2022 CanLII 122547 (ON LTB), <https://canlii.ca/t/jtp4p>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+Order under Section 135
+Residential Tenancies
+Act, 2006
+ 
+File Number: TNT-23925-20
+ 
+ 
+
+
+
+In the
+  matter of:
+
+
+2007, 28 HARRISON GARDEN
+BOULEVARD TORONTO ON M2N7B5
+
+
+
+
+Between:
+
+
+Angela Sardo
+  Danny Tieu
+
+
+
+
+ 
+
+
+ 
+and
+
+
+
+
+ 
+
+
+Zahra Haji-abutorab
+
+
+
+ 
+ 
+Angela Sardo and Danny Tieu (the 'Tenants') applied
+for an order determining that Zahra Haji- abutorab (the 'Landlord') has
+collected or retained money illegally.
+ 
+This application was heard by way of videoconference on December 9, 2021. The Tenant Danny Tieu and his legal representative
+Daniel McIntyre attended the hearing. Along with the Landlord and her spouse,
+Kaveh Zahedi.
+ 
+It is determined that:
+ 
+1.   
+The Tenants
+withdrew the claim
+related to an illegal charge
+as it was outside the one
+year limitation period set out in subsection
+135(4) of the Residential
+Tenancies
+Act, 2006 (the ‘Act’)
+ 
+Uncontested Facts
+ 
+2.   
+The Landlord
+and Tenants entered
+into a fixed term lease which expired
+on February 28, 2019.
+ 
+3.   
+In November 2018 the Tenants
+agreed to a rent increase from $1,650.00 to $1,800.00 effective February
+1, 2019, not knowing that this was an increase
+in excess of the amount allowed by the Act. The Landlord did not serve the Tenant with a Notice of Rent Increase
+before increasing the rent.
+ 
+4.    The Landlord collected
+$1,800.00 in rent each month from February
+1, 2019 until March 1, 2020.
+ 
+5.    The Landlord did not contest
+this increase occurred,
+nor that that this money
+was collected in excess of
+the amount permitted by the Act.
+
+
+
+
+ 
+ 
+ 
+6.    The Tenants moved out at the end of March 2020, and the last month’s rent deposit was applied to the rent due for March
+2020.
+ 
+Rent increases – Law and
+analysis
+ 
+7.    The relevant provisions of the Act are:
+ 
+110 No landlord shall increase the rent charged
+to a tenant for a rental unit, except
+in accordance with this Part.
+ 
+111 (1) No landlord
+shall charge rent for a rental unit in an amount that is greater than the lawful rent permitted
+under this Part.
+ 
+116 (1) A landlord
+shall not increase
+the rent charged
+to a tenant for a rental unit without first giving the tenant at
+least 90 days written notice of the landlord’s intention to do so.
+ 
+(2) 
+Subsection (1) applies even if the rent charged
+is increased in accordance with an order under section 126.
+ 
+(3) 
+The notice shall be in a form approved
+by the Board and shall set out the
+landlord’s intention to increase the rent and the amount of the new rent.
+ 
+(4) 
+An increase in rent is void if the landlord has not given the notice required by this
+section, and the landlord must give a new notice before the landlord can take
+the increase.
+ 
+119  (1) A landlord who is lawfully
+entitled to increase
+the rent charged
+to a tenant for a rental unit may do so only if at least 12 months
+have elapsed,
+ 
+(a)  
+since the day of the last rent increase
+for that tenant
+in that rental unit, if there
+has been a previous increase; or
+ 
+(b)  
+since the day the rental unit was first rented to that tenant,
+if clause (a) does not apply.
+ 
+Exception
+ 
+(2) An increase in rent under
+section 123 shall be deemed not to be an increase
+in rent for the purposes of this section
+ 
+120  (1) No landlord may increase the rent charged
+to a tenant, or to an assignee under section 95, during the term of their tenancy by more than the
+guideline, except in accordance with section 126 or 127 or an agreement under section 121 or 123.
+
+
+
+
+ 
+135.  (1) A tenant or former tenant of a rental
+unit may apply to the Board for an order that the landlord, superintendent or agent of the landlord
+pay to the tenant any money the person collected or
+retained in contravention of this Act or the Tenant Protection
+Act, 1997.
+Time limitation
+ 
+(4) No order
+shall be made under this section with respect to an application filed more than one year after the person collected
+or retained money in contravention of this Act or the Tenant Protection Act, 1997.
+135.1 
+(1) An increase
+in rent that would otherwise be void under subsection 116
+(4) is deemed not to be void if the tenant has paid the increased
+rent in respect of each rental
+period for at least 12 consecutive months.
+136 (1) Rent charged
+one or more years earlier
+shall be deemed
+to be lawful rent unless an
+application has been made within one year after the date that amount was first
+charged and the lawfulness of the rent charged is in issue in the application.
+8.    The annual guideline rent increase for 2018 was
+1.8%.
+ 
+9.    The increase in the rent from $1,650.00 to $1,800.00
+effective February 1, 2019 was contrary to sections
+110 and 111 of the Act because
+the Landlord failed
+to serve a notice
+of rent increase at least 90 days in advance
+as required by section 116, and because
+the rent increase of $150.00 was greater than the 2018 rent increase
+guideline of 1.8% (s.120).
+ 
+10. The increase in rent was not made in accordance with section 126 or 127 or an agreement under section 121 or 123 of the Act.
+ 
+11. Although the Landlord did not provide notice of
+increased rent in a form approved by the Board, but rather advised the Tenant
+of the increased rent via e-mail, in contravention of section 116 of the Act,
+section 135.1 (1) provides that an increase in rent that would otherwise be void under subsection 116 (4) is deemed not to be void if the tenant
+has paid the increased rent
+in respect of each rental period for at least 12 consecutive months.
+ 
+12. However, the Tenants
+filed this application challenging the lawfulness of the rent increase
+on January 29, 2020, which is within the one year period of the illegal rent
+first being charged and the lawfulness of the rent charged is in issue in this
+application.
+ 
+13. Therefore, the rent increase was illegal at the time it was imposed, and sections 135.1 and
+section 136 do not apply here to cause the increase to be deemed not void.
+ 
+14. Accordingly, a total of $1,950.00 in illegal rent was collected between from February
+1, 2019 until February 1, 2020.
+
+
+
+
+ 
+ 
+ 
+It is ordered that:
+ 
+15. The Landlord shall pay to the Tenants
+the sum of $1,950.00. This amount represents
+$1,950.00 in excess rent due for the period
+of February 1, 2019 to February 1, 2020.
+ 
+16. The Landlord shall also pay to the Tenant $53.00
+for the cost of filing
+the application
+ 
+17. The total amount
+the Landlord owes to the Tenant is
+$2,003.00.
+ 
+18. If the Landlord does not pay the Tenants the full
+amount owing by February 21, 2022, the Landlord will owe interest.
+This will be simple interest
+calculated from February
+22, 2022 at 2.00% annually on the outstanding
+balance.
+ 
+19. The Tenants have the right, at any time, to collect the full amount
+owing or any balance
+outstanding under this order.
+ 
+ 
+ 
+ 
+February 7, 2022
+
+Date Issued                                                                      Anita Lovrich
+Member, Landlord
+and Tenant Board
+ 
+Toronto North-RO
+47 Sheppard Avenue East, Suite 700, 7th Floor Toronto ON M2N5X5
+ 
+ 
+If you have any questions about this order,
+call 416-645-8080 or toll free at 1-888-332-3234.
+

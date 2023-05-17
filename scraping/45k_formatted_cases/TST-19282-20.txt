@@ -1,0 +1,531 @@
+Metadata:
+Date:	2022-01-26
+File number:	
+TST-19282-20
+
+Citation:	Kara-Bibar v Al-Dulaimi, 2022 CanLII 86555 (ON LTB), <https://canlii.ca/t/js1jj>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+
+
+
+ 
+
+
+Order under
+Section 57
+Residential Tenancies Act,
+2006
+
+
+ 
+
+
+
+
+ 
+
+
+File Number: TST-19282-20
+
+
+
+
+ 
+In the matter
+  of:
+
+
+ 
+2107, 1 VALHALLA INN ROAD TORONTO ON
+  M9B1S9
+
+
+ 
+
+
+
+
+Between:
+
+
+Makram Kara-Bibar
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+and
+
+
+ 
+
+
+
+
+ 
+
+
+Amar Al-Dulaimi
+
+
+Landlord
+
+
+
+ 
+ 
+Makram Kara-Bibar (the 'Tenant') applied for an order determining that Amar Al-Dulaimi (the 'Landlord'), gave a notice of termination in bad faith.
+ 
+This application was heard via videoconference on January 11, 2022.
+ 
+The Tenant, the Tenant’s
+legal representative, Michael
+Pilieci, and the Landlord attended
+the hearing.
+ 
+ 
+Determinations:
+ 
+Preliminary Issue
+ 
+1.     
+At the hearing, the Landlord
+requested an adjournment because he did not have legal representation. Although
+he says he had a legal representative in the past, he could
+not explain why he failed to retain a representative in a timely manner
+for this matter. He received the Tenant’s application and evidence in September
+of 2020.
+ 
+2.      An individual’s right to representation is not absolute.
+As the Landlord has had almost 16 months to obtain legal counsel, the
+Landlord’s request for an adjournment is denied as unreasonable.
+ 
+3.     
+In order to alleviate any possible
+prejudice to the Landlord arising from the denial of the adjournment, the
+hearing was stood down for 30 minutes so the Landlord could gather, submit and serve any evidence he intended to rely on. The Tenant
+did not object
+and the Landlord used this
+time to submit some documentary evidence.
+ 
+The Tenant’s Application
+ 
+4.     
+This application is brought
+pursuant to s. 57(1)(a) of the Residential Tenancies Act, 2006
+(the 'Act') which states:
+
+
+
+
+ 
+57 (1) The Board may make an
+order described in subsection (3) if, on application by a former tenant of a rental
+unit, the Board
+determines that,
+ 
+(a)             
+the landlord gave a notice of
+termination under section 48 in bad faith, the former tenant vacated the rental unit as a result of the notice
+or as a result of an
+application to or order made by the Board based on the notice, and no person
+referred to in clause 48 (1) (a), (b), (c) or (d) occupied the rental unit
+within a reasonable time after the former tenant vacated the rental unit;
+ 
+5.     
+What this provision means
+is that in order to succeed on this application the Tenant must lead sufficient evidence to
+establish it is more likely than not that:
+ 
+(a)    
+The Tenant got a notice of termination under
+s. 48;
+ 
+(b)    
+He moved out of the rental
+unit as a result of the Landlord’s notice;
+ 
+(c)     
+The notice was given in bad faith meaning
+the Landlord had no intention of moving into the
+rental unit; and
+ 
+(d)    
+The Landlord did not in fact move into the rental
+unit within a reasonable time after
+the Tenant vacated.
+ 
+6.     
+There is no dispute between the
+parties about the first, second and fourth elements of this test. The Tenant
+was served a notice pursuant to section 48 of the Act on January 14, 2020, he moved out as a result
+of the Landlord’s notice and the Landlord
+did not move into
+the rental unit. The central factual dispute is whether the Landlord genuinely
+intended to move into the rental unit when he served the Tenant with the notice
+of termination.
+ 
+7.     
+The Tenant moved out of the rental
+unit on February 23, 2020. The Landlord listed the rental unit for lease in
+March 2020 and it was re-rented sometime in July of 2020. The Tenant was paying $2,036.00 monthly before he moved out and the unit was re-rented for
+$2,500.00.
+ 
+8.     
+The timing of the Landlord’s listing
+and re-renting of the unit means the reverse onus provision in subsection 57(5) of the
+Act applies. It says in part:
+ 
+For the purposes of an application under clause (1) (a), it is presumed,
+unless the contrary is proven on a balance of probabilities, that a
+landlord gave a notice of termination under section 48 in bad faith, if at any
+time during the period described in subsection (6) the landlord,
+ 
+(a)    
+advertises the rental unit for rent; [or]
+ 
+(b)    
+enters into a tenancy
+agreement in respect
+of the rental unit with someone other than the former tenant;
+…
+ 
+…
+
+
+
+
+ 
+9.     
+The period referred to in s. 57(5) runs for one year starting
+the day the notice is served.
+ 
+10. As the Landlord advertised the unit for rent and
+entered into a tenancy agreement with another
+tenant within the one year period, the Landlord bears the burden
+of proving that it
+is more likely than not that the notice of termination was served in good faith. The Tenant is relieved of the evidentiary burden of proving bad
+faith.
+ 
+11. We find that the Landlord
+has not met his burden.
+ 
+12. The Landlord says he failed to move into the rental
+unit because “I was paying the mortgage; I couldn’t make enough; I barely made
+enough to cover the mortgage and support my parents
+and my mother is not working, my father is between
+jobs. I support my parents
+and I was in financial difficulty.”
+ 
+13. The problem with this assertion
+is that it is not supported by the Landlord’s testimony.
+ 
+14. Within minutes of describing his alleged financial
+difficulties, the Landlord
+described doing
+$4,000.00 worth of repairs and
+renovations in the weeks after the Tenant moved out. When he was asked how he was able to conduct
+these expensive repairs
+even though he was allegedly experiencing financial
+difficulty, the Landlord hesitated in his testimony and his answers became
+halting and uncertain. Eventually he stated he had some “savings” set aside and
+he did not pay all of the repairs up front.
+ 
+15. While we have turned our mind to the Landlord’s
+testimony regarding his loss of employment at one point, we are not persuaded that this temporary job loss was the
+reason he served the notice of termination.
+ 
+16. The Landlord provided
+a letter of employment confirming he was laid off by his employer. It also confirms that he received a wage
+subsidy immediately after being laid off and he admitted at the hearing that he
+applied for and received Employment Insurance benefits after his layoff. The Landlord then admitted that he obtained another
+job shortly afterwards and is
+currently employed in a third job.
+ 
+17. The Landlord’s ability
+to find employment, coupled with his admission that he had several
+thousands of dollars in savings suggests to us that the Landlord was not
+experiencing severe financial difficulty when he served the notice of
+termination on the Tenant.
+ 
+18. In addition, there is evidence
+before the Board supportive of the proposition the Landlord never
+intended to move into the rental unit.
+ 
+19. At the time the notice was served the Landlord was
+living with his parents. He admits that he had no furniture or personal
+belongings because he had recently moved from a different province. He acknowledges he was not ready to move in
+because he would have to purchase furniture and housewares before
+doing so, and he did not in fact do that at any
+time up until the rental unit was re-rented.
+ 
+20. The evidence also suggests the Landlord wanted
+to evict the Tenant for other reasons.
+
+
+
+
+ 
+21. For example, he had been trying to evict the Tenant for some time. On
+March 27, 2019 he served an N12 for own use for his father which was not followed
+up on. He says his father intended to move into the rental
+unit, but it did not happen because
+his parents moved into
+a house instead.
+ 
+22. After serving the first notice and prior to serving
+the subsequent one, the Landlord attempted to convince the Tenant to pay an
+illegal rent increase. The Tenant refused to pay the rent increase
+suggested by the Landlord and instead insisted
+the Landlord follow the guideline and serve proper
+Notice of Rent Increase (‘NORI’) which the Landlord did. That NORI took effect
+on July 21, 2019.
+ 
+23. The Landlord also freely admits that he prefers to rent to people with no or few children because children “tend to break
+things” and he believes the Tenant and his children caused undue damage to the
+rental unit.
+ 
+24. Finally, the Landlord describes
+the Tenant’s maintenance requests
+as bothersome. During his testimony, the Landlord
+frequently described how the Tenant would “bother” him with maintenance requests; he says the Tenant likely “didn’t care about the rental unit”; and the Tenant forced him to “spend a lot of
+money” on the rental unit during the duration of the tenancy.
+ 
+25. The inconsistencies in the Landlord’s evidence as to
+his financial situation, the acknowledgment that the Landlord did not have or obtain the
+furnishings necessary to live on his own in the unit, coupled with the
+suggestions that the Landlord was motivated to evict the Tenant for reasons
+other than a genuine intention to move in, lead us to the conclusion that the
+Landlord has not met his burden of proof. We are not satisfied it is more likely
+than not that when the notice of termination
+was served the Landlord genuinely intended to move into the
+rental unit.
+ 
+26. As a result, the presumption in s. 57(3) holds and we are satisfied the notice of termination
+was served in bad faith.
+ 
+The Remedies
+ 
+27.
+The remedies sought
+in the application are: an
+administrative fine; rent differential for one year; out of
+pocket expenses for moving and
+storage; general compensation for pain and suffering; and an amount
+to compensate the Tenant for an increase
+in utility costs and car insurance resulting from the move.
+ 
+a)     Administrative Fine
+ 
+28. The Tenant is requesting that the Landlord
+be ordered to pay an administrative fine. Pursuant to the Board’s non-binding
+Interpretation Guideline 16:
+ 
+An administrative fine is a
+remedy to be used by the Board to encourage compliance with the Residential
+Tenancies Act, 2006 (the "RTA"), and to deter landlords from
+engaging in similar activity in the future. This remedy is not normally
+imposed unless a landlord has shown a blatant disregard
+for the
+
+
+
+
+ 
+RTA and other remedies will not
+provide adequate deterrence and compliance. Administrative fines and rent
+abatements serve different purposes. Unlike a fine, a rent abatement is intended to compensate a tenant
+for a contravention of a tenant's rights or a breach of the landlord's obligations.
+ 
+29. We do not find that this is an appropriate case for an
+administrative fine as the remedies awarded below should
+provide sufficient deterrence to the Landlord.
+The Tenant’s request for an administrative fine is
+denied.
+ 
+b)     Rent Differential
+ 
+30. With respect to rent differential the Tenant is now
+paying $314.00 more per month than he was for the rental unit. The Tenant’s
+current home (which has 3 bedrooms and 2 ½ bathrooms) is bigger than the rental
+unit (which has 2 bedrooms and 1 bathroom). As the Tenant’s current
+home is larger than the rental unit, any difference in rent must be
+adjusted accordingly. As the Tenant has almost doubled the number of rooms in
+his new home, we find that the requested abatement should be divided in half to
+reflect the betterment the Tenant has gained. We find that it is reasonable to
+grant the Tenant an abatement of
+$1,884.00 and an order will issue accordingly.
+ 
+d)  
+Moving and Storage
+ 
+31. The Tenant is also seeking out of
+pocket expenses for moving and storage in the
+amount of $200.00. We find
+this amount to be reasonable and we see no reason not to award the
+Tenant the costs of moving and storage. An order will issue for $200.00.
+ 
+e)  Other Remedies
+ 
+32. The Tenant is seeking reimbursement for increase
+utility costs at his new home. In particular, the Tenant is seeking $600.00 for
+increased heating costs, $480.00 for increased water costs and $1,800.00 for
+increased car insurance costs. We are not satisfied that the Tenant’s
+claim for increased
+utility costs or car insurance
+costs are warranted.
+ 
+33. The Tenant was responsible for paying the costs of utilities at the rental
+unit as these costs
+were not included in the monthly rent. However, as the Tenant went from a 2
+bedroom 1 bathroom unit to a 3 bedroom 2 ½ bathroom unit, this would naturally
+result in higher utilities costs. For these reasons,
+we find that there is insufficient evidence
+to establish that the Tenant is paying increased
+utility costs due to the Landlord’s behaviour.
+ 
+34. Likewise, although the Tenant says he had to change
+postal codes when he moved and his insurance rates were increased accordingly,
+the Tenant led no evidence that he attempted
+to find a better rate with a different insurance
+carrier or mitigate
+these increased costs in any
+way. For these reasons, we do not find the Tenant’s claim for increase car
+insurance costs to be warranted and this portion of the Tenant’s application is
+dismissed.
+
+
+
+
+ 
+a) General Damages
+ 
+35. The application requests
+$5,000.00 for compensation for general damages.
+Evidence was led by the Tenant
+that because he and his children were forced to move, his children experienced
+ongoing and severe mental distress. Based on all of the evidence before us, we
+have no doubt that the Tenant and his children suffered emotional distress and
+inconvenience as a result of the Landlord’s actions. As a result, we are of the view that an order for general damages for pain and suffering is
+appropriate.
+ 
+36. The Tenant provided extensive detail regarding the
+difficulties he and his children experienced.
+The Tenant explained that his children, who were elementary school
+age at the time, were forced to move away from
+the only school they had ever attended
+and the only home they had ever lived in. This meant that they left their friends
+and their teachers and were forced to go to a new
+school. The Tenant also explained that he had built a community of friends in
+the building and in the neighbourhood and he and his children were forced to leave this support
+system. The Tenant described in detail how his children would hold their class pictures
+at night and cry as they went to sleep. This distressed behaviour continued for
+weeks after the Tenant moved out of the rental unit.
+ 
+37. The Tenant’s testimony on this point
+was detailed and consistent and we have no reason to disbelieve him. We are persuaded
+by the Tenant’s testimony that he and his children experienced significant emotional distress as a result
+of the Landlord’s actions. Based
+on the evidence before
+us, and our knowledge of like similar
+cases, we find that an award of
+$2,000.00 is
+sufficient to recognize the emotional stress
+the Tenant and his family
+suffered as a result of the Landlord’s bad faith termination of tenancy.
+An order will issue accordingly.
+ 
+38. The Tenant incurred
+costs of $53.00 for filing
+the application and is entitled
+to an order for those costs.
+ 
+39. This order contains
+all of the reasons within
+it and no further reasons
+will be issued.
+ 
+It is ordered that:
+ 
+1.       
+The Landlord shall pay to the Tenant $53.00
+for the cost of filing
+the application.
+ 
+2.       
+The Landlord shall also pay to the Tenant
+$1,884.00. This amount
+represents half of the
+increased rent that the Tenant incurred for the period March 1, 2020 to
+February 28, 2021.
+ 
+3.       
+The Landlord shall also pay to the Tenant
+$200.00, for the reasonable out-of-pocket expenses that the Tenant has
+incurred for the rental of a moving truck.
+ 
+4.       
+The Landlord shall also pay to the Tenant
+$2,000.00 for general
+damages in the nature of pin and suffering.
+ 
+5.       
+The total amount the Landlord owes the Tenant
+is $4,137.00.
+
+
+
+
+ 
+6.       
+The Landlord shall pay the Tenant
+the full amount owing by February 6, 2022.
+ 
+7.       
+If the Landlord does not pay the
+Tenant the full amount owing by February 6, 2022, the Landlord will owe interest.
+This will be simple interest
+calculated from February
+7, 2022, at 2.00% annually on
+the outstanding balance.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+January 26, 2022
+
+Date Issued                                                                      Daniel Berube
+
+Member, Landlord and Tenant
+Board
+ 
+ 
+ 
+ 
+Toronto South-RO
+15 Grosvenor Street, 1st Floor
+Toronto ON M7A 2G6
+ 
+ 
+If you have any questions about this order,
+call 416-645-8080 or toll free at 1-888-332-3234.
+
