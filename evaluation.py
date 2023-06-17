@@ -41,7 +41,7 @@ def evaluate(preds_df, gold_df, col_name: str, return_inaccurate: bool = False, 
     elif metric == "jaro_winkler":
         total_above_threshold = 0
         for silver, gold in zip(preds, golds):
-            if jellyfish.jaro_winkler(str(silver), str(gold)) > 0.7: # values could be something other than a string
+            if jellyfish.jaro_winkler(str(silver), str(gold)) > 0.6: # values could be something other than a string
                 total_above_threshold += 1
         evaluation_score = total_above_threshold / len(preds)
     # elif metric == "f1":
