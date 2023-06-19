@@ -1,0 +1,7 @@
+Before running the .py file, please make sure you have downloaded the model checkpoints using the following quick urls:
+
+Longformer-Encoder-Decoder (LED) (3 epochs): https://huggingface.co/GraceQ/ltb_decision_led/tree/main
+Please download the `led_3epoch_law_allqs.pt`
+
+LongT5 (3 epochs): https://huggingface.co/GraceQ/ltb_decision_longt5/tree/main
+Please download the `longT5_3epoch_law_allqs.pt`
