@@ -13,6 +13,7 @@
     "core-js": "^3.29.0",
     "papaparse": "^5.4.1",
     "roboto-fontface": "*",
+    "axios": "^0.24.0",
     "vue": "^3.2.0",
     "vue-router": "^4.0.0",
     "vuetify": "^3.3.2",
