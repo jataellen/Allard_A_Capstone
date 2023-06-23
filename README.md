@@ -9,22 +9,29 @@ The codes were tested under Python 3.10.6
 Please use the following codes to install the packages in ternimal or command line before running the `.py` file.
 
 `pip install pandas`
+
 `pip install os`
+
 `pip install bs4`
+
 `pip install warnings` 
+
 `pip install re`
 
 `pip install langdetect`
 
 `pip install python-dateutil`
+
 `pip install spacy`
 
 `pip install itertools` 
 
 `pip install numpy`
+
 `pip install gc`
 
 `pip install transformers`
+
 `pip install torch`
 
 ## Models Downloading
@@ -43,4 +50,4 @@ Please download the `longT5_3epoch_law_allqs.pt`
 
 In the function `get_pred_dataloader`, the `batch_size` is set to 64. It was tested on GPU with 48G memory. GPU with no less than 48G memory is recommended to run the `.py` file.
 
-If the GPU memory is smaller than 48G, an runtime error `CUDA out of memory` can occur. If such an error occures, please use the smaller `batch_size` based on the GPU memory.
+If the GPU memory is smaller than 48G, a runtime error `CUDA out of memory` can occur. If such an error occures, please use the smaller `batch_size` based on the GPU memory.
