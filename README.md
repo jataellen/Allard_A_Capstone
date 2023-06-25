@@ -30,4 +30,4 @@ If the GPU memory is smaller than 48GB, a runtime error `CUDA out of memory` can
 
 The contents of this directory code was initally used to gather data for to develop the extractions methods used within the project. This code should not need to be run again, but was included in this repository to have a record of case files were collected, and for it to be possible should the database need to be created from scratch once again, however this is not recommended (it is a time-intensive process and may require some manual intervention).
 
-The contents of the `Scraping.zip` file is the result of this code, containing all cases scraped from CanLII, with each case in both an HTML format and a .txt format. See the `full_pipeline` directory for more information on how to use these files to extract information from them.
+The contents of the `Scraping.zip` file is the result of this code, containing all cases scraped from CanLII, with each case in both an HTML format and a `.txt` format. See the `full_pipeline` directory for more information on how to use these files to extract information from them.
