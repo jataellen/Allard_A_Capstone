@@ -1,0 +1,23 @@
+# Base image
+FROM node:14-alpine
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy package.json and yarn.lock to the working directory
+COPY package*.json yarn.lock ./
+
+# Install project dependencies
+RUN yarn install
+
+# Copy the entire project to the working directory
+COPY . .
+
+# Build the Vue project
+RUN yarn build
+
+# Expose the desired port
+EXPOSE 3000
+
+# Serve the built static files using a lightweight server
+CMD ["yarn", "dev"]
