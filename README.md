@@ -1,8 +1,14 @@
-Allard_A
+# Allard_A
 
-# Full Pipeline
+## Web App
 
-## Environment and Installation
+See directory WebApp for the full pipeline.he back-end and front-end codes.
+
+## Full Pipeline
+
+See directory full_pipeline for the full pipeline of prediction on future cases.
+
+### Environment and Installation
 
 The codes were tested under Python 3.10.6
 
@@ -34,7 +40,7 @@ Please use the following codes to install the packages in ternimal or command li
 
 `pip install torch`
 
-## Models Downloading
+### Models Downloading
 
 Before running the `.py` file, please make sure you have downloaded the model checkpoints using the following quick urls:
 
@@ -46,8 +52,12 @@ Please download the `led_3epoch_law_allqs.pt`
 
 Please download the `longT5_3epoch_law_allqs.pt`
 
-## Device Recommendation
+### Device Recommendation
 
 In the function `get_pred_dataloader`, the `batch_size` is set to 64. It was tested on GPU with 48G memory. GPU with no less than 48G memory is recommended to run the `.py` file.
 
 If the GPU memory is smaller than 48G, a runtime error `CUDA out of memory` can occur. If such an error occures, please use the smaller `batch_size` based on the GPU memory.
+
+## The Model Development 
+
+See `GPT-2`, `longformer_qa`, `longformer_encoder_decoder`, `longT5` in the directory `model_development` for the model developing files of GPT-2, Longformer for Question Answering, LED and LongT5.
