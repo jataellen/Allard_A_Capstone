@@ -1,0 +1,13 @@
+pandas
+os
+bs4
+warnings
+re
+langdetect
+python-dateutil
+spacy
+itertools
+numpy
+gc
+transformers
+torch
