@@ -1,0 +1,581 @@
+Metadata:
+Date:	2022-02-09
+File number:	
+SOL-22454-21
+
+Citation:	Executive Property Management v Gil, 2022 CanLII 94711 (ON LTB), <https://canlii.ca/t/jsd1m>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: SOL-22454-21
+ 
+ 
+
+
+
+In the matter
+of:
+
+
+1, 83 KENILWORTH AVENUE
+S HAMILTON ON L8K2T1
+
+
+ 
+
+
+
+
+Between:
+
+
+Executive Property Management
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+and
+
+
+ 
+
+
+
+
+ 
+
+
+Monica Gil
+
+
+Tenant
+
+
+
+ 
+ 
+Executive Property Management (the 'Landlord') applied
+for an order to terminate the tenancy and evict
+Monica Gil (the 'Tenant') because the Landlord intends to demolish the rental
+unit.
+ 
+This application was heard by
+videoconference on September 29, 2021.
+ 
+The Landlord’s legal
+representative Curtis Begg and the Tenant attended the hearing. The Landlord’s witness
+and property manager
+Kaleb Antonides also attended
+and gave testimony.
+ 
+Reasons:
+ 
+1.     In this case, the Landlord’s N13 Notice of Termination
+was given to the Tenant by mail on
+May 20, 2021.
+ 
+2.     The N13 itself
+asserts that the Landlord intends
+to demolish the rental unit.
+ 
+3.     The planned work consists of lowering the basement
+floor and “deconverting” the residential complex from four
+to two dwelling units to comply with an Order to Comply issued by the City of Hamilton.
+ 
+4.    
+These reasons explain why the Landlord’s application must be
+dismissed.
+ 
+Preliminary Issue
+– N13 Notice of Termination
+ 
+5.    
+The Landlord’s N13 Notice
+of Termination names
+only one tenant,
+the Tenant. However, the Tenant argued that there is a problem with the N13 in that it does not
+name and was not given to all of the tenant parties to the tenancy
+agreement.
+ 
+6.     The tenant parties to the initial joint tenancy
+agreement are the Tenant and Madeline Ruud. However, there was some effort to
+replace Ms. Ruud with Mr. Damion Cook. An amended tenancy agreement was prepared that would remove Ms. Ruud and replace
+her with Mr. Cook.
+
+
+
+
+ 
+7.    
+In a contract with multiple
+parties, all parties must agree to an amendment before that amendment takes
+effect. In this case, Ms. Ruud did not sign the amended agreement. As a result, the tenancy agreement was not amended
+and the result is that the tenant parties to the agreement remain Ms. Gil
+and Ms. Ruud. The Landlord’s agent, Ms. Denise Saulnier confirmed this to be
+the Landlord’s understanding in a November 30, 2020 e- mail to the Tenant and
+Mr. Cook.
+ 
+8.    
+This raises the questions of whether the N13 is valid
+and whether it was properly
+given to all of the requisite
+tenants. On this issue, Mr. Begg argued that the Landlord was not required to
+name Ms. Ruud as a tenant on the N13 or serve Ms. Ruud with a copy of the N13
+because Ms. Ruud was not in possession of the rental unit.
+ 
+9.    
+Board Interpretation Guideline 10,
+Procedural Issues Regarding Eviction Applications, states, in part, that
+the Board will not terminate a
+tenancy and order eviction of the tenant unless the tenant has received a valid
+notice of termination from the landlord. If the document given to the tenant or
+the method or time of service are defective, in most cases this will result
+in dismissal of the application. With respect to service of the notice of
+termination, where there are multiple tenants, Guideline 10 states:
+ 
+If the landlord has entered
+into a tenancy agreement with more than one tenant, the Notice of Termination should name and be given to all tenants. This may be done in one Notice naming all the tenants.
+Although a Notice to a tenant may be served by giving it to any apparently
+adult person in the unit, if one of the tenants lives at another address, they
+must be served separately in accordance with the RTA and Rules of Practice.
+ 
+It is notable that Guideline 10
+expressly contemplates the situation where one of several tenants is not in
+possession of the rental unit because they live elsewhere. In such a case, Guideline 10 directs that notices of termination should
+still be given to a tenant who lives elsewhere. Although Guideline
+10 is not binding, my view is that the above-quoted text is the correct
+interpretation of the law for the following reasons.
+ 
+10.  The Residential Tenancies Act, 2006 (the ‘Act’)
+provides mandatory requirements for notices of termination. Section 43 of the
+Act, which applies to all notices of termination, does not expressly state
+who should be named on the
+notice of termination. However, as
+subsection 43(2) of the Act requires the landlord giving such a notice and to
+set out the reasons and details
+respecting the termination and inform the tenant receiving the notice of
+certain information, it is implied that the landlord giving the notice of
+termination must name the tenant of the rental unit. Where there is more than
+one tenant, the notice of termination must name all of the tenants of the
+rental unit.
+ 
+11.  For N13 notices of termination, subsection 50(1)
+authorizes the landlord to give notice, subsection 50(2) requires the date for
+termination specified in the notice to be at least 120 days after the notice is
+given and to be the day a period of the tenancy ends or, where the tenancy is for a fixed term, the
+end of the term, and subsection 50(4) of the Act
+provides early termination rights to a tenant who receives
+such a notice. Read together,
+it is clear that the landlord is required to give a copy of the notice
+to each of the tenants of the rental unit.
+
+
+
+
+ 
+12.  The Landlord was required to give the N13 notice of
+termination to all tenants of the rental unit. Since it was uncontested that the Landlord
+only gave the notice of termination
+to Ms. Gil but not Ms. Ruud, or even Mr. Cook, it follows that service of the
+notice of termination was defective. This means that the Board does not have
+jurisdiction to terminate the tenancy and that I must dismiss the Landlord’s
+application.
+ 
+Alternatively
+ 
+13.  Even if I am wrong in reaching this conclusion, I must
+still dismiss the Landlord’s application because the Landlord’s proposed
+work does not constitute a demolition.
+ 
+Evidence
+ 
+14.  In the present
+case, the following
+facts were not in dispute.
+ 
+15.  The Tenant resides
+on the main floor of the residential complex in “Unit 1”. Although the residential complex is
+permitted to have 2-units, when the Tenant first viewed the residential complex
+there were 3-units:
+the unit she currently occupies
+on the main floor, a
+second-floor unit and a third-floor loft. No one occupied the basement.
+ 
+16.  By the time of the hearing, there were two sets of
+tenants living in the rental unit: the Tenant
+on the main floor and a new tenant in a new unit that combined the second floor and third floor loft into one unit.
+The basement remained unoccupied.
+ 
+17.  The Landlord intention was to create a fourth unit in
+the basement, but this intention was frustrated when the landlord
+received an Order
+to Comply from the City of
+Hamilton dated January 5,
+2021. This Order finds that the Landlord commenced construction at the
+residential complex without the required permit and requires the Landlord to
+obtain the necessary permit.
+ 
+18.  The Landlord applied to the City of Hamilton for a
+permit to construct or demolish on March 21, 2021. The application is not for demolition but for an alteration or repair. The description of the proposed work is to
+“lower the basement floor and deconvert from 4 dwelling units to two dwelling
+units”. The permit application includes a document prepared by King Homes Inc. entitled “De-conversion Permit” to the permit application. No one from
+King Homes Inc. attended the hearing to provide evidence respecting this document.
+ 
+19.  The City of Hamilton issued a building permit to the
+Landlord on April 13, 2021, for the following work: “To deconvert the illegal 4
+family dwelling to a 2 family dwelling. Construction shall include new stair
+from second floor to attic as well as complete basement underpinning.” There
+are no proposed changes to the envelope of the residential complex and the
+document prepared by King Homes Inc. confirms that the Landlord proposes no
+changes to the floor plan of the Tenant’s unit. According to this document, the
+illegal basement unit was composed of a kitchen/dining/living room, a master
+bedroom, laundry and a bathroom. Under the Landlord’s proposal, the
+kitchen/dining/living room area of the basement will become a rec room and the kitchen appliances will be removed.
+
+
+
+
+ 
+20.  Mr. Atonides introduced the permit application as well as the document
+prepared by King Homes Inc. He explained that the
+permit envisions adding depth to the basement, combining the second-floor and
+third-floor units into a single unit and combining the basement and the
+Tenant’s main-floor unit into a single basement/main-floor unit. Mr. Antonides
+testified that the basement is currently uninhabitable but that once the work
+is completed the basement will be habitable and the combined square footage of
+the new basement/main-floor unit will be greater than the square footage of the
+Tenant’s unit.
+ 
+21.  On cross-examination,
+Mr. Antonides testified that when the Tenant moved
+in there were 4 separate hydro
+meters, that the basement unit was empty and unlivable
+and that it was
+the Landlord’s hope that a new tenant would move into the basement. Mr.
+Antonides agreed with the Tenant that the basement remained unlivable, and
+described the basement as unlivable because not all of the appliances and fixtures are ready to go.
+Mr. Antonides also admitted
+that page 13 of the Landlord’s book of documents
+notes that the basement dwelling unit will be
+converted to storage space. Mr. Antonides denied any knowledge of whether the
+Landlord’s intention was to convert the residential complex back to a 4-unit
+building and denied
+any knowledge of whether the Landlord’s permit had
+an expiry date of October 1, 2021.
+ 
+22.  The Tenant testified
+that she viewed
+the unit prior to moving
+in and moved into the unit
+on August 1, 2020. She testified that upon viewing she asked about the
+basement, which was completely unfinished in that there were concrete floors
+and no drywall. The Tenant testified that she was told that the basement was
+going to be a separate apartment and that someone new would move in. She
+testified that after moving into the unit the Landlord commenced construction
+of a basement unit and that this construction
+continued until the Landlord was ordered to stop. The Tenant’s belief
+was that the Landlord wanted to construct 4-units illegally, that the Landlord
+was caught and had to stop and that the purpose of the Landlord’s application
+was to evict the Tenant and re- rent the combined unit for a greater amount.
+ 
+23.  In support of her testimony the Tenant introduced an
+Order to Comply issued by the City of Hamilton on September 27, 2021 based on
+an inspection of the same date as well as an e-mail written by Mr. Bill
+Brouwer, a Building Inspector and Plans Examiner for the City of Hamilton. Ms. Brouwer’s e-mail details his observations
+from his September 27, 2021 inspection. In particular, Mr. Brouwer notes that
+there have been no inspections of the residential complex since the April 13,
+2021 permit was issued, that the Landlord has been non-responsive to the City’s
+attempts at contact, that the Landlord’s work in the basement was not in
+compliance with approved stamped permit plans (e.g. the approved stamped permit
+plans depict a foyer closet and adjacent to the closet, in apartment laundry facilities; the proposed laundry
+facility wall was to be a fire resistive rated wall; the laundry facilities were housed within
+the proposed foyer closet; the door to the basement was still in place and
+unrated) and that the Landlord has substantially completed the basement
+apartment prior to city inspection and approval.
+ 
+24.  The September 27, 2021
+Order to Comply indicates that the Landlord
+has concealed the following elements of construction:
+underpinning; backfill, dampproof, stone; structural framing; building drains;
+insulation and vapor barrier; fire separation; engineering certifications. The
+Oder to Comply requires the Landlord to expose the aforementioned
+
+
+
+
+ 
+elements of the residential complex to facilitate an inspection and to cease any further construction until the
+aforementioned stages of construction have been inspected.
+ 
+Analysis
+ 
+25.  As I understood the Tenant’s submissions, the Tenant introduced the stop order and the communications from Mr. Brouer to
+support the argument that the Landlord does not in good faith intend to carry
+out the activity on which the N13 was based, which is a requirement of
+paragraph 73(1)(a) of the Act. I do not accept this argument. If the work
+proposed by the Landlord is properly characterized as a demolition, the
+Landlord’s decision to proceed and to do the work without stopping for the
+necessary inspections tells me that the Landlord is keen to carry out the work.
+In other words, the fact that the Landlord is actually doing the work supports
+rather than undermines a finding that the Landlord in good faith intends to
+carry out the activity on which the N13 was based.
+ 
+26.  I also do not accept that the Landlord has not
+obtained the necessary permits, which is a requirement of paragraph 73(1)(b) of the Act. The
+Tenant did not provide any evidence to support her assertion that the Landlord’s
+permit was expiring. Although the Landlord’s decision to proceed with the work
+without stopping for the necessary inspections caused the City to issue a stop order, there was no evidence that the stop order itself
+affected the validity of the
+already issued permit.
+ 
+27.  Nevertheless, having considered the real substance of
+all transactions and activities related to the residential complex
+and the rental
+unit as I am required to do by subsection
+202(1) of the Act, my conclusion is that the work proposed by the Landlord does
+not constitute a demolition within the meaning of paragraph 50(1)(a)
+of the Act, which states:
+ 
+50 (1) A landlord
+may give notice of termination of a tenancy
+if the landlord requires
+possession of the rental unit in order to, (a) demolish it [.]
+ 
+28.  When interpreting the meaning of the word “demolish”, I am required
+to apply the modern
+principal of statutory interpretation, which is that the words of the Act are
+to be read in their entire context and in their grammatical and ordinary sense
+harmoniously with the scheme of the Act, the object of the Act, and the
+intention of the Legislature. I am also required to apply any binding legal
+precedents.
+ 
+29.  Beginning with the grammatical and ordinary sense of
+the word “demolish”, this word is variously defined as “pull down, completely destroy
+or break” and “destroy, pull down, or do away with something”: Ma v Sedor,
+2021 CanLII 139751 (ON LTB) at para. 13; TEL- 63893-15 (Re), 2016 CanLII 38366 (ON LTB) at para. 11. The grammatical and ordinary sense of the word “demolish” suggests
+that the proposed
+work should be something akin to the irrevocable destruction of the
+rental unit in question.
+ 
+30.  However, as explained by the Divisional Court, the
+context in which the Legislature used the word “demolish” makes clear that the
+destruction or even a significant change to the rental unit is not enough. In Two
+Clarendon Apartments Limited v. Sinclair, 2019 ONSC 3845 (CanLII), the
+issue was whether the work proposed by the landlord constituted a renovation or a demolition for the purposes
+of subsection 50(1) of the Act. The Board had
+
+
+
+
+ 
+found that there was a renovation because the unit would be available
+in the same floor space,
+albeit reconfigured and extensively rebuilt. The Court upheld the following
+interpretation of the word “demolish” as reasonable and consistent with the Act
+and modern principles of statutory interpretation:
+ 
+13.  
+In a situation where the rental
+unit continues to exist, albeit in an extremely altered form, it is possible
+for the tenant to exercise a right of first refusal, because the rental unit is
+still there: the tenant may move back and continue the tenancy. In a situation where the rental
+unit is gone, it is not
+possible for the tenant to exercise a right
+of first refusal:
+the rental unit is no longer there and so the tenant
+cannot move back. The fact that the Act distinguishes
+renovations and demolitions by the
+tenant’s right of first refusal shows
+that the intention of these sections
+of the Act is to preserve tenancies where it is
+possible to do so.
+ 
+14.    
+Accordingly, a project will be
+defined as a renovation under the Act in a case where it is possible for the
+tenant to move back into the unit and a project will be defined as a demolition where it is not possible
+for the tenant to move back
+into the unit.
+ 
+The Divisional Court in Two
+Clarendon Apartments Limited also found that the Board’s decision was
+consistent with the result in Corbett v. Lanterra Developments, 2014
+ONSC 3297 (CanLII) (Div. Ct.), at para. 14, where there was a demolition
+permit, and the construction resulted in different units
+from those demolished, so that the tenant could
+not move back into the rental unit.
+ 
+31.  In the present
+case, the real substance of the work proposed by the Landlord
+is not a demolition for several reasons.
+ 
+32.  First, the Landlord does not propose any work that can
+reasonably be described as irrevocably destroying or even significantly changing the Tenant’s
+rental unit. The building
+permit as well as the testimony of the Landlord’s witness confirm that while
+significant work is being done in the unoccupied basement there are no proposed
+changes to the floorplan of the Tenant’s unit. That the work itself is
+insignificant as it pertains to the Tenant’s unit is demonstrated by the fact
+that it has not been necessary for
+the Tenant to vacate the rental unit while the Landlord brought the work in the
+basement to substantial completion (albeit without the necessary inspections).
+ 
+33.  Second, even if the Landlord was proposing to destroy
+or significantly change the Tenant’s unit, and even if the project required the
+Tenant to vacate the rental unit, there would
+be no impediment to the Tenant moving back into the unit and exercising a right of first refusal. The basement has been
+unoccupied at all material times and there is therefore no tenant in the
+basement who would be competing with the Tenant for the exercise of this right.
+ 
+34.  Third, in his questioning of the Tenant,
+the Landlord’s legal
+representative had the Tenant
+admit that she does not pay rent for floor space in the basement. I understood
+the purpose of eliciting this admission as making the point that the Tenant
+would obtain a windfall if she were permitted to remain in her unit paying the
+same rent while receiving
+
+
+
+
+ 
+the benefit of the increased floor space once the Tenant’s
+unit is connected to the basement.
+ 
+35.  The problem I have with this argument
+is that the Act expressly
+provides a mechanism
+for dealing with situations where a landlord wants to add floor space or
+storage space to an existing unit. I am referring to subsection 123(1) of the
+Act and subsection 16(1) of O. Reg. 516/06, which together provide that a
+landlord may increase the rent charged to a tenant at any time if the landlord
+and the tenant agree to the addition of storage space or floor space. That the
+Act requires such additions to be based on consent suggests that a landlord
+cannot unilaterally impose such a
+change on a tenant. This is in my view the real substance
+of what the Landlord is attempting to do. The fact that the Tenant has not
+consented to the addition of
+storage space or floor space does not change the Landlord’s project into a demolition. If
+it did, landlords could evict their tenants by proposing relatively minor work such as enclosing a porch and
+characterizing the result as a new unit because it is bigger than the original
+unit. This would in my view strike an unfair balance between the rights of
+residential landlords and tenants and defeat the Legislature’s intention to
+preserve tenancies where it is possible to do so.
+ 
+36.  The Landlord sought to rely on the following decisions
+of the Board to support the argument that the Landlord’s proposed
+work constitutes a demolition of the Tenant’s
+unit: TSL-51257-14-RV (Re), 2015 CanLII 22344 (ON LTB) and TSL-04700-19
+(Re), 2019
+CanLII 134413 (ON LTB). I did not find these cases persuasive for the following reasons.
+ 
+37.  In TSL-51257-14-RV (Re), 2015 CanLII 22344 (ON
+LTB), the residential complex was a high-rise building with a former hotel on
+the lower floors and a number of occupied and vacant rental residential units
+on the upper floors. The project undertaken by the landlord involved a 9-story
+addition to the top of the exiting tower effectively increasing the height of
+the residential complex from 32 to 41 storeys and adding to the base an
+8-storey podium building with wings. One of the wings would include a
+purpose-built building which would
+house 78 residential rental units. The scope of the work involved demolition of demising
+walls on each of the existing floors
+and the construction of the super
+structure that would support the additional floors. The Board found that
+the work was in the nature of a demolition because the project would
+effectively cause the rental unit to disappear and change irrevocably.
+ 
+38.  Apart from the fact that the Vice Chair did not have
+the benefit of the Divisional Court’s subsequent decision in Two Clarendon
+Apartments Limited v. Sinclair, and so did not expressly consider whether
+the tenant in question could exercise a right of first refusal, the facts of the case are clearly distinguishable. The landlord in that case had obtained
+a demolition permit, which is not the case here. The proposed work clearly
+required the tenant in question to vacate the rental unit, which is not the
+case here. The scope of the project would effectively cause the unit in
+question to disappear, which is not the case here. As noted above, there are no
+material changes planned for the Tenant’s unit, including no changes to the
+Tenant’s floor plan, and even if the work proposed by the Landlord required the
+Tenant to vacate the rental unit there is no impediment to her exercise of the
+right of first refusal.
+
+
+
+
+ 
+39.  In TSL-04700-19 (Re), 2019 CanLII 134413 (ON
+LTB), the landlord purchased the residential complex in 2018 with the intent to
+maintain its use as a rooming house after performing significant work to the building.
+There were 24 rental units
+over four levels
+and three floors. To obtain the building permits the landlord was
+required to provide an undertaking that the property would be returned to the
+original state of 21 living units, as three of the 24 units were unlawfully added at some point by previous owners. The unit in question was 102, a
+ground floor unit which had
+been illegally carved out of unit 101.
+The landlord proposed to combine units 101 and 102 into a larger unit. The work
+consisted of removing the front door to unit 102 by walling it in, removing the
+demising walls between the two units, shifting internal walls, removing the
+kitchenette and installing an ensuite. The Board found
+that the proposed
+work was a demolition “because
+the work proposed
+is a substantial alternation that will result in the rental unit ceasing
+to exist after the work is completed. It will be impossible for the current
+tenants of the affected units to “walk: back into their units as they will be
+gone.”
+ 
+40.  The facts of this case are also distinguishable. In TSL-04700-19
+(Re), substantial alterations were proposed to unit 102. In the present
+case, there are no substantial alterations proposed to the Tenant’s unit and
+the floor plan will remain the same. In that case, the reason it was impossible
+for the tenant in question to exercise a right of first refusal was because the
+Landlord’s proposed combination of units 101 and 102 affected multiple tenants.
+In other words, it was practically impossible for the tenants of units 101 and
+102 to simultaneously exercise a right of first refusal for the new unit. In
+the present case, the basement is unoccupied and even if the work proposed by
+the Landlord required the Tenant
+to vacate the rental unit there is no impediment to the her exercise of the right of first refusal.
+ 
+41.  The real substance of the Landlord’s proposed work as it pertains
+to the Tenant’s unit is expanding its floor space by connecting
+it to the renovated basement. This is not a demolition and the Landlord’s
+application must be dismissed.
+ 
+It is ordered that:
+ 
+1.     The Landlord’s application is dismissed.
+ 
+ 
+
+
+
+
+February 9, 2022 Date Issued
+Southern-RO
+119 King Street West,
+6th Floor Hamilton ON L8P4Y7
+
+
+
+ 
+Douglas Wilkins
+Member, Landlord
+and Tenant Board
+
+
+
+
+ 
+If you have any questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+

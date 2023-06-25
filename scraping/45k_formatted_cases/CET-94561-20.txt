@@ -1,0 +1,568 @@
+Metadata:
+Date:	2022-02-07
+File number:	
+CET-94561-20
+
+Citation:	Burnett v Aujla, 2022 CanLII 87956 (ON LTB), <https://canlii.ca/t/js3ng>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+Order under Sections 30 and 31
+Residential
+Tenancies Act, 2006
+ 
+File Number: CET-94561-20
+ 
+ 
+
+
+
+In the matter of:
+
+
+63 DAVID STREET,
+RM 3 BRAMPTON ON L6X1J6
+
+
+ 
+
+
+
+
+Between:
+
+
+Chris Burnett
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+and
+
+
+ 
+
+
+
+
+ 
+
+
+Avtar Aujla
+
+
+Landlord
+
+
+
+ 
+ 
+ 
+Chris Burnett (the 'Tenant') applied for an order determining that Avtar Aujla (the 'Landlord') failed to meet the Landlord's maintenance obligations under the Residential
+Tenancies Act, 2006 (the 'Act') or failed to comply with health, safety,
+housing or maintenance standards (the ‘T6 application’).
+ 
+The Tenant also applied for an
+order determining that the Landlord harassed, obstructed, coerced, threatened
+or interfered with the Tenant, entered the rental unit illegally, altered the
+locking system on a door giving entry to the rental unit or residential complex
+without giving the Tenant replacement keys and substantially interfered with the reasonable enjoyment
+of the rental unit or residential complex by the Tenant or by a member
+of the Tenant's household (the ‘T2 application’).
+ 
+This application was heard via video conference on June 10, 2021, and October 28,
+2021.
+ 
+The Tenant, the Tenant’s
+legal representative, Daniel
+Ambrosini, and the Landlord
+attended the hearing.
+ 
+ 
+Determinations:
+ 
+Preliminary Issues:
+ 
+a)    
+The Rental Unit
+ 
+1.    
+The residential complex is a
+rooming house with 6 numbered bedrooms that are each rented by a different tenant. There is no dispute that the Tenant’s
+initially tenancy was for
+a unit in the basement. He then moved our of that unit several months later and
+entered into a new tenancy agreement for unit #3.
+
+
+
+
+ 
+2.    
+The first issue before me is to determine which rental unit should properly
+appear on the Tenant’s applications.
+ 
+3.    
+The Tenant filed the T2 and T6
+applications together on May 21, 2020, pursuant to s. 186(1) of the Residential Tenancies Act, 2006 (the ‘Act’).
+Neither identifies a rental unit. Both applications simply list the
+street address as if the residential complex was the Tenant’s rental unit.
+ 
+4.    
+If the Tenant’s applications and
+allegations only pertained to one single tenancy, then I would simply have
+amended the application to identify the rental unit. But the Tenant makes allegations with respect to both
+tenancies within the same application. This is not permitted
+under the Act.
+ 
+5.    
+The reason this is an issue is
+because applications under the Act are with respect to a single tenancy
+unless otherwise specified. This is because
+covenants run with the land. (See s. 18.)
+ 
+6.    
+There are some exceptions specifically
+set out in the Act. The exceptions involve those situations where
+logic dictates a single application may involve several
+tenants. Because several
+tenants are involved the application necessarily involves multiple tenancies.
+For example, s. 186(2) allows for multi-tenant applications – two or more
+tenants of a residential complex can file a single application provided every
+tenant signs it. Section 126 permits a landlord to apply for an above guideline
+rent increase simultaneously against multiple tenants of a residential complex
+in a single application. But there is
+no provision of the Act that contemplates a tenant filing a single application
+with respect to multiple tenancies.
+ 
+7.    
+This reality is reflected in the
+Board’s fee structure. The application fees payable for applications filed
+pursuant to s. 186(2) and s. 126 depend on the number
+of tenancies involved.
+ 
+8.    
+As a result, on December 13, 2021,
+I issued interim order CET-94561-20-IN in which I put
+this discrepancy to the Tenant and requested written submissions on or before
+January 13, 2022. The Tenant’s legal representative then responded by
+submitting a request to amend each application twice. The Tenant requested the
+consent of the Board to amend the T2 and T6 applications to refer to the
+basement unit and amend an additional copy of the T2 and T6 applications to
+refer to bedroom #3. In short, rather than choose which rental unit the Tenant
+wished to include on the application, he attempted to circumvent the intent of
+the Act and the Board’s fee structure and filing process by “amending” the
+applications to include both rental units.
+ 
+9.    
+As I outlined in my interim order,
+if the Tenant wished to pursue remedies regarding two different rental units
+back in May 2020, he should have initially filed a T2 and T6 application
+referring to the basement unit and an additional T2 and T6 application
+referring to the bedroom unit #3. If the Tenant
+filed the applications properly in May 2020, the
+Board would have requested a second filing fee and would
+have created a second file number for the second rental unit. The Tenant cannot now simply
+request to “amend” the applications to include both tenancies.
+
+
+
+
+ 
+10. 
+Given all of the above, I am
+amending the applications on my own notice to refer to the tenancy of unit #3 alone. The majority of the allegations relate to the time period after the tenancy for unit #3 began and as
+stated below, the allegations that do relate to the basement unit would not
+result in an order in the Tenant’s favour.
+ 
+b)    
+The Basement Unit
+ 
+11.  
+As stated above and for the sake of completeness,
+even if I were to grant the Tenant’s
+request to amend the T2 and T6 applications to include the basement unit, those
+applications would be dismissed anyway.
+ 
+12.  
+With respect to the T6
+I say this because, according
+to the Tenant, he complained to the Landlord in
+January 2019 about a bedbug problem in the basement and, in response to this
+complaint, the Landlord offered the Tenant the option of moving into bedroom
+#3. Although the Tenant
+says this was a temporary solution until the basement
+was properly treated, the Tenant
+provided insufficient evidence at the hearing to establish that the arrangement
+was temporary or that there were any plans for him to move back into the
+basement unit after he left. I am therefore not satisfied that the parties
+intended the Tenant’s move to bedroom #3 to be temporary.
+ 
+13.  
+If it is true that the Landlord
+offered the Tenant a different rental unit in response to his bedbug complaint,
+then I find that the Landlord responded in a timely and effective manner to the Tenant’s
+complaint. As a result, even if the tenancy for the basement
+unit was properly before
+the Board, the allegations
+in the T6 related to that tenancy
+would be dismissed.
+ 
+14.  
+Although the Tenant has additional
+allegations regarding his belongings in the basement unit in the T2, those
+allegations stem from events that occurred after he moved upstairs and began a
+new tenancy with the Landlord. Once the Tenant moved upstairs, the basement
+tenancy ended, a new tenancy began regarding bedroom #3, and the Board’s
+jurisdiction with respect to new events that occurred
+after the move is only with respect
+to bedroom #3.
+ 
+15.  
+For these reasons, even if I consented to the Tenant’s
+request to include
+the basement unit in his
+applications, they would have been dismissed.
+ 
+The T6 Application: Bedbugs
+in Bedroom #3
+ 
+a)    
+August 2019 to January
+2020
+ 
+16.  
+Based on the text messages between
+the parties, I am satisfied that the Tenant obtained possession of bedroom #3
+on August 15, 2019, when the Landlord’s husband provided the Tenant with the
+keys.
+ 
+17.  
+The parties agree that there was a
+bedbug problem throughout the house and the Landlord admits that she was
+notified about the problem sometime in August 2019. The Landlord then says she began to investigate the extent of the problem
+to determine which rooms were infested and what she should do to address
+the issue. By the Landlord’s
+own
+
+
+
+
+ 
+admission, she was unsure what
+steps to take, especially since other residents in the house refused to allow
+her access to their units to investigate the problem. It was not until the Tenant
+contacted a municipal by-law officer in January 2020 that the Landlord
+was able to have a discussion with them and attempt to find a resolution.
+ 
+18.  
+Based on the Landlord’s own admission, I am satisfied
+that the Landlord
+failed to respond to the bedbug problem in a timely
+and effective manner for the time
+period of August 2019 to January 28, 2020. The Landlord admits that she was
+unsure how to proceed but, rather than seek legal advice or call the LTB for
+additional information, she took very few steps to try to treat the problem
+between August 2019 and January
+2020. As the Landlord breached her obligations under
+the Act during this time period, I find that this portion of the Tenant’s
+application should be granted. The quantum of remedies will be discussed below.
+ 
+b)    
+January 2020 to November
+2020
+ 
+19.  
+After meeting the by-law officer
+in January 2020, the Landlord says she began to understand what steps she must take to address
+the bedbug problem in the house.
+While the Tenant says that he fully co-operated with the Landlord’s efforts to
+treat the bedbug problem, the Landlord disagrees. For the following reasons, I
+find that the Landlord took reasonable efforts to address the bedbug problem but the Tenant failed
+to co-operate and this portion of the applications
+should therefore be dismissed.
+ 
+20.  
+The Landlord provided the Board with copies
+of the following documents which confirm that she attempted
+to address the bedbug problem and the Tenant failed
+to co-operate:
+ 
+•       
+January 28, 2020 – Notice to Tenants in the house “I would like to inform that
+bedbug inspection is scheduled on January 29, at 5pm by the pest control technician.”
+•       
+January 30, 2020 – Text message to the Tenant
+“bedbug treatment will be on February 1, from 11am to 9pm”
+•       
+January 30, 2020 – Notice to all Tenants in the house “I would like to inform
+you that pest control treatment (bed bugs) is scheduled on Sunday, February 2
+between 12 to 6pm. Please prepare you (sic) rooms according to the
+attached sheet, as per pest control technician…”
+•       
+February 2, 2020 – Pest Control Technician Report – “Came to do the
+bedbug inspection and treatment. Units no. 1 – 3 – 4 – 5 refused access…No inspection
+and treatment done.” [Emphasis added.]
+•       
+February 18, 2020 – Order
+issued by the City to address
+the bedbug problem by March 9, 2020.
+•       
+February 21, 2020 – Notice to all Tenants in the house “I would like to inform you that pest control treatment (bed bugs)
+is scheduled on Tuesday, February 25, 2020 between 12 to 6pm. The Tenants are
+responsible to prepare their unit according to the preparation sheet attached
+with the notice…”
+•       
+February 25, 2020 – Pest Control Technician Report – “Room no. 2 no access; room no. 4 attic, stairs no
+access; room no 3 have access. Tenant put lot of white powder along the baseboards, not prepared. …as the rooms
+were not prepared, no access,
+unable to do the bed bug treatment.” [Emphasis added]
+
+
+
+
+ 
+•       
+March 14, 2020 – Pest Control Technician Report “…Room no. 3 not prepared;
+lot of white powder along baseboard, clothes not bagged, drawers not empty…As
+the Tenants not prepared and refused access, unable to do the bed bug
+treatment. [Emphasis added]
+ 
+21.  
+Based on these documents, I am
+satisfied that the Landlord attempted on numerous occasions to have pest control technicians treat the rental
+unit and the rest
+of the house. However, the Tenant
+either refused to allow the technician into the unit or treatment
+was not completed because the Tenant failed to properly prepare the
+unit.
+ 
+22.  
+The Landlord says she had an inspector from the city scheduled to visit the rental unit on March 17,
+2020, to address the bedbug issue, but the pandemic started and all
+appointments were cancelled. The Landlord was then unable
+to schedule an inspector or a pest control technician to attend
+the unit for the next several months. During that time, the Landlord filed
+applications with the Board regarding the Tenant and the other residents in the
+building, some of which have yet to be resolved. The Landlord’s L1 application
+against the Tenant went to a hearing and the Board issued an eviction order
+which was executed by the Sheriff on November 4, 2020.
+ 
+23.  
+Based on the evidence before me, I
+am satisfied that the Landlord took all reasonable steps to address the bedbug
+problem in the house between January 28, 2020, and November 4, 2020, but the
+Tenant and the other residents refused to co-operate. The Landlord served
+proper notice to the Tenant regarding the dates and times of treatment and she
+provided written instructions regarding how to prepare his unit. Despite her
+efforts, the Tenant refused to all the technician access to the unit and failed to prepare the unit as instructed. Once the pandemic
+started in mid-March, the Landlord was unable to schedule additional treatment sessions due to the restrictions and lockdowns that were
+in place. As the Landlord attempted to address the bedbug issue in the house, I
+find that she has not breached her obligations under the Act and this portion
+of both the T2 and the T6 applications is dismissed.
+ 
+c)     
+Remedies for August 2019 to January
+2020
+ 
+24.  
+The Tenant is claiming
+the following remedies
+for this time period; abatement of the rent in the amount of $4,400.00, out of
+pocket expenses in the amount of $225.00, repair costs which the Tenant
+completed in the amount of $150.00.
+ 
+25.  
+I
+would also note that
+the Tenant is claiming property
+damage expenses in the amount of
+$3,830.00 but that claim is
+related to alleged damage that the Landlord caused to the belongings the Tenant
+which he left in the basement unit after he moved out. For the reasons already
+stated, any allegations relating to the basement unit the
+Tenant moved into bedroom #3
+in August 2019 are dismissed.
+ 
+26.  
+Regarding the abatement, the Tenant admits
+that he stopped
+paying rent to the Landlord beginning in January 2020 and for
+the remainder of 2020. Although the Tenant paid the outstanding arrears into
+the Board at one point, those arrears were paid out to the Tenant. As the Tenant
+has already essentially received a 100% abatement for the month
+
+
+
+
+ 
+of January, no additional abatement can flow for that month. Instead,
+any abatement that I grant will recognize the period of
+August 15, 2019, to December 31, 2019.
+ 
+27.  
+Based on the evidence before me, I
+am satisfied that the bedbug problem was not an extreme infestation, but it did
+represent some disruption to the Tenant. For example, the Tenant provided three
+videos taken on January 25, 2020, February 18, 2020, and February 19, 2020, that each show one dead bedbug. While I recognize
+that these videos were taken
+outside the time period in question, I find
+that they accurately reflect the extent of the
+bedbug problem for the period of
+August 2019, to December 2019. Also,
+the Tenant submitted pictures of bumps on his skin as well as a medical
+diagnosis which confirms the bumps are bites from bedbugs. Lastly, the Tenant
+testified that he had difficulty sleeping, he was itchy and he often slept at
+his parents’ house because the bedbugs made the rental unit uncomfortable.
+ 
+28.  
+Based on the evidence before me
+and my knowledge of similar cases, I find that an abatement of 25% adequately compensates the Tenant
+for the disruption he experienced for the period of August 15,
+2019, to December 31, 2019. The calculation of the abatement is as follows:
+ 
+($500.00 x 25%) ÷ 31 Days in August
+x 16 days = $64.52
+for August ($500.00 x 25%) x
+4 months = $500.00 for September 1, 2019 to
+December 31, 2019
+$64.52 + $500.00 = $564.52 total abatement
+ 
+29.  
+The Tenant is also claiming out of
+pocket expenses for the bedbug sprays and other home treatments he purchased to
+address the bedbug issue. Although the Tenant failed to provide any receipts to
+confirm these costs, the reports from the pest control technicians do indicate
+that they saw a “white powder” around the baseboards of the rental unit. This
+confirms the Tenant’s testimony that he purchased some bedbug treatments and
+administered them himself. In the absence of any receipts, I do find the total costs of $225.00
+to be unreasonable and instead,
+I find it more likely
+that the Tenant spent no more than $100.00 for
+these treatment for the period of August to December 2019. An order will issue
+accordingly.
+ 
+30.  
+The final remedy the Tenant seeks
+are the costs of repair that relate
+to work he completed in the basement unit and, for the reasons already stated,
+those costs are denied. I would also note that the Tenant claims
+the costs of “bedbug treatments” in these repairs
+costs as well, but as I have already granted a remedy for the Tenant’s out of
+pocket expenses related to bedbug treatment, no further remedy is warranted.
+ 
+31.  
+Finally, the Tenant has claimed
+the same quantum
+of remedies on both applications, but as I find that the remedies granted in the T6 application
+adequately compensate the Tenant, no additional remedy is warranted under the
+T2 application.
+ 
+The T2 Application: Harassment by the Landlord
+ 
+32.  
+The only remaining issue on the T2
+application regarding bedroom #3 is the Tenant’s allegation that the Landlord
+harassed him by constantly serving
+notices of termination.
+
+
+
+
+ 
+33.  
+There is no dispute
+that the Landlord
+served the Tenant notices of termination beginning in approximately January 2020
+because he was withholding his rent. There is also no dispute that the Landlord
+served the Tenant and the other household residents with N5 notices of
+termination for their failure to co-operate with the pest control efforts.
+ 
+34.  
+In addition to these
+notices, the Tenant
+says that the Landlord served him with N5 notices of termination relating to his
+alleged indecent exposure in the bathroom and other “bathroom related” conduct.
+ 
+35.  
+Based on the evidence before me,
+the Tenant has failed to establish that serving these notices of termination constitutes harassment. The Tenant
+admits that he stopped paying rent for all of 2020 and, for this
+reason, I find that the Landlord was within her rights to serve the Tenant with
+N4 notices of termination. The evidence before me suggests that the Tenant
+repeatedly either denied access to the pest control technicians or failed to
+properly prepare his room for treatment. For this reason, I find that the
+Landlord was within her rights to serve notices of termination relating to the
+Tenant’s conduct. Regarding the remaining N5 notices for “indecent exposure”
+and other bathroom related conduct, once again,
+the Landlord was within her rights to serve these
+notices and was in
+fact legally obligated to serve these notices
+if she had reason to believe
+that the Tenant’s conduct was
+interfering with the other residents in the house. In short, based on the
+evidence before me, I find that the Tenant has failed to establish that the
+Landlord’s service of notices of
+termination constitutes harassment
+contrary to section 23 of
+the Act. For this reason, the
+Tenant’s application is dismissed.
+ 
+It is ordered that:
+ 
+1.    
+The Landlord shall pay to the Tenant a rent abatement of $564.52.
+ 
+2.    
+The Landlord shall also pay to the Tenant
+$100.00 which is the reasonable out-of-pocket expenses the Tenant has incurred for bedbug
+treatments.
+ 
+3.    
+The Landlord shall also pay to the Tenant
+$50.00 for the costs of filing the application.
+ 
+4.    
+The total amount the Landlord owes the Tenant is
+$714.52.
+ 
+5.    
+The Landlord shall pay the Tenant
+the full amount
+owing by February
+18, 2022.
+ 
+6.    
+If the Landlord does not pay the Tenant the full
+amount owing by February 18, 2022 the Landlord
+will owe interest. This will be simple interest calculated from February 19, 2022
+at 2.00% annually on the outstanding balance.
+ 
+ 
+ 
+February 7, 2022
+Date Issued                                                                      Laura Hartslief
+Member, Landlord
+and Tenant Board
+
+
+
+
+ 
+Central-RO
+3 Robert Speck Pkwy,
+5th Floor Mississauga ON
+L4Z2G5
+ 
+ 
+If you have any questions about this order,
+call 416-645-8080 or toll free at 1-888-332-3234.
+

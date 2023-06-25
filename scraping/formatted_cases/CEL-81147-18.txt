@@ -1,0 +1,825 @@
+Metadata:
+Date:	2019-03-12
+File number:	
+CEL-81147-18
+	CEL-81147-18
+Citation:	CEL-81147-18 (Re), 2019 CanLII 71319 (ON LTB), <https://canlii.ca/t/j1rgr>, retrieved on 2023-05-16	https://canlii.ca/t/j1rgr
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-81147-18
+ 
+Time period for Arrears
+Owing From:   February
+1, 2014 to November 17, 2018
+(From the commencement of
+arrears to the termination date in the notice, or the end of the rental period
+if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/02/2014 - 31/12/2015
+
+
+$35,640.00
+
+
+ 
+
+
+$35,640.00
+
+
+ 
+
+
+$35,640.00
+
+
+
+
+01/01/2016 - 31/10/2018
+
+
+$50,490.00
+
+
+ 
+
+
+$50,490.00
+
+
+ 
+
+
+$50,490.00
+
+
+
+
+01/11/2018 - 17/11/2018
+
+
+$829.97
+
+
+ 
+
+
+$829.97
+
+
+ 
+
+
+$829.97
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent
+  for part of a month, use the 
+       following formula for
+  columns (B), (C) and (D):
+ 
+       Monthly Rent X 12
+  X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$86,959.97
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                $86,959.97
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                              $84,820.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                    $84,820.00
+ 
+(H2)      Payment to Board
+in trust                                                                                 $5,940.00
+ 
+(I)         Total Amount
+Owing                                                                                       $78,880.00
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy
+is being terminated)
+ 
+(J) (i)    Lump Sum
+Compensation Start Date                                             November
+18, 2018
+            (Day after
+termination date in notice)
+ 
+    (ii)    Lump Sum
+Compensation End Date                                              March
+12, 2019
+            (Date of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                               $48.82
+                                                    
+365
+ 
+(L)        Number of Days
+for Lump Sum Compensation                                                     115
+days
+            (# days between
+start date and order date - inclusive)
+ 
+(M)       Total Lump Sum
+Compensation                                                                       $5,614.30
+            [(K) X (L)] =
+ 
+ 
+ 
+Part IV - Amounts owing to Tenant under s.82
+(Use this part if you are
+including amounts owing by the Landlord to the Tenant pursuant to s. 82)
+ 
+(Q)       Amount owing
+under s.82                                                                                       $0.00
+ 
+Part V - Total Amount Owing
+ 
+(R)        Terminating the tenancy [I+M-(P+Q)]                                                                 $84,494.30
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies
+Act, 2006
+File Number: CEL-81147-18
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+B M
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+A L
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+B M (the 'Landlord') applied for an order to terminate
+the tenancy and evict A L (the 'Tenant') because the Tenant did not pay the
+rent that the Tenant owes.
+ 
+This application was heard in Mississauga on March 8,
+2019.
+ 
+The Landlord, the Landlord’s
+Respresentative, G B, the Tenant and the Tenant’s Representative, M. K attended
+the hearing.
+ 
+The application was amended LB is
+removed as a party as determined by interim order CEL-81147-18 issued on
+January 28, 2019.
+ 
+ At the hearing the Tenant raised the following issues
+pursuant to section 82 of the Residential Tenancies Act, 2006 (the
+'Act'): The Tenant alleges the Landlord failed to meet his maintenance
+obligation with respect to the following issues: roof leak, ceiling in the
+master bedroom, furnace, mold in the basement, 3 toilets air conditioner and
+washing machine; the Tenant is also alleging that substantial non-repairs
+justifies substantial abatement and the doctrine of laches should be applied. 
+ 
+Determinations:
+ 
+1.     
+The Tenant has not paid the
+total rent of $92,070.00 the Tenant was required to pay for the period from
+February 1, 2014 to March 31, 2019.  Because of the arrears, the Landlord
+served a Notice of Termination effective November 17, 2018.
+2.     
+The N4 Notice of Termination
+substantially complies.  
+3.     
+The Tenant has paid
+$5,940.00 to the Board in trust since the application was filed. **.
+4.     
+The Tenant owes the Landlord
+$86,130.00 ($92,070.00-$5,940.001).
+5.     
+The amount the Tenant owes
+the Landlord is greater than the Board’s monetary jurisdiction of $25,000.00 as
+set out in section 207 of the Residential Tenancies Act, 2006 (the
+'Act'). 
+6.     
+The Landlord has chosen not
+to proceed at Superior Court for the full amount and is aware that by
+proceeding at the Board any claim the Landlord may have for arrears in excess
+of $25,000.00 is extinguished.
+7.     
+While the Tenant has made
+payments into the Board in trust under the interim orders issued December 12,
+2018 and January 28, 2019, application of these deposit to the arrears does not
+reduce the amount the Tenant’s owe to less than $25,000.00. 
+8.     
+The Tenant also owes the
+Landlord $190.00 for the cost of the application. 
+9.     
+There is a one year
+statutory limitation for a tenant to make an application. Section 29(1) of the
+Act states, “No application may be made under subsection (1) more than one year
+after the day the alleged conduct giving rise to the application occurred”. In
+this case, the Tenant did not file an application but has the right to raise
+his own issues under section 82 of the Act under the Landlord’s L1 application.
+
+10.  
+I considered, the Tenant’s maintenance
+issues that fall within the one year limitation period related to the roof
+leak, master bedroom ceiling, toilets, furnace, mold in the basement, air conditioner
+and washing machine.
+11.  
+The air-conditioner broke
+down in August 2018 and the Tenant repaired it in August 2018. 
+12.  
+The washing machine that
+requires repair is the Tenant’s property, The Landlord cannot be reasonably
+responsible for the costs of the repairs. 
+13.  
+It’s unclear what the
+problem is with the furnace. It may be old and not energy efficient but that
+does not support a finding that repair and replacement of the furnace is
+required.
+14.  
+Although the Tenant states
+there is roof leak, his own evidence indicates that the shingles on the roof
+were replaced in 2017. The Tenant alleges that there is a leak in the master
+bedroom which requires repair. There was limited evidence presented on this
+issue, but the Landlord, now that he knows about the problem must investigate
+and repair the roof and ceiling in the master bedroom and ensure they are in a
+good state of repair.  
+15.  
+The Tenant also stated there
+is mold in the basement and carpet damage. Again there were no photographs to
+support the Tenant’s allegation. The Landlord, now that he knows about the
+problem, must investigate and do all necessary repairs to ensure the basement
+is in a good state of repair.  
+16.  
+It is noted the Tenant’s
+Representative provided a list of maintenance issues to the Landlord’s
+Representative prior to this hearing. The Landlord has not investigated the
+problems because it was stated the Tenant is refusing entry which he disputed. Without
+making a finding on this issue, the parties agreed at the hearing that the
+Landlord shall inspect the rental unit on March 7, 2019 between 9:00 a.m. and
+12:00 a.m. The Landlord concedes to investigate and conduct the necessary repairs
+related to the Tenant’s maintenance issues and ensure the rental unit is in a
+good state of repair.
+17.  
+The Landlord has been absent
+for over six years. There is no dispute the Tenant was last in contact with the
+Landlord’s Agent in 2012 before he reappeared in October 2018.  The Landlord’s
+obligations under section 20 and 29(1) was not met during this period. The
+Tenant was left to fend for himself to do repairs in the rental unit. It also
+caused the Tenant distress, given he was left in limbo for a quite a few years.
+The Tenant is requesting that the doctrine of laches apply. 
+18.  
+The Landlord has a statutory
+claim to arrears under the Act and there’s no statutory limitation for this
+type of claim that falls under the L1 application. This is not an equity claim
+that is being advanced. The Landlord’s application is based in statute under
+the Act, not equity. 
+19.  
+The Residential Tenancies
+Act, 2006 (the 'Act') imposes limitation periods for tenant application under
+29(1), as stated above. The Act also imposes limitation periods on most landlord
+applications where they have 30 days from the date of the termination date on
+the notice to file their application. For example, L2 application based on N8,
+N12, N5, etc.
+20.  
+The only exception where
+there is no statutory limitation period is an application filed under section
+69 of the Act, or an L1 or L9 applications for arrears. The legislature clearly
+set their minds to this issue and chose not to impose a limitation period. I
+don’t think the doctrine of laches can be applied so as to effectively impose a
+limitation period on rent arrears applications where the legislature has not
+seen fit to include one. 
+21.  
+The Tenant has benefited
+from the Landlord’s lack of due diligence in running his business because the
+rent arrears above $25,000.00 is extinguished. Even if the Tenant persuades me
+that a full abatement should be issued because the Landlord was absent for six
+years, pursuant to section 30(1), the abatement would be capped at $25,000.00.
+This amount still does not reduce the amount the Tenant owes to less than
+$25,000.00. 
+22.  
+I have considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act.
+It is ordered that:
+ 
+1.     
+On March 7, 2019 between
+9:00 a.m. and 12:00 p.m., the Landlord shall investigate the maintenance issues
+related to the roof, ceiling in the master bedroom, mold in the basement and
+toilets and conduct all necessary repairs on or before March 31, 2019.
+2.     
+The Tenant shall not
+interfere with the Landlord’s work or access to the unit.
+3.     
+Unless the Tenant voids the
+order as set out below, the tenancy between the Landlord and the Tenant is
+terminated on March 23, 2019.  The Tenant must move out of the rental unit on
+or before March 23, 2019.
+4.     
+The amount of $5,940.00 plus
+accrued interest shall be paid out to the Landlord.
+5.     
+The Tenant shall pay to the
+Landlord $25,000.00*, which represents the amount of rent owing and
+compensation up to March 12, 2019.
+6.     
+The Tenant shall also pay to
+the Landlord $48.82 per day for compensation for the use of the unit starting
+March 13, 2019 to the date the Tenant moves out of the unit.
+7.     
+The Tenant shall also pay to
+the Landlord $175.00 for the cost of filing the application.
+8.     
+If the Tenant does not pay
+the Landlord the full amount owing* on or before March 23, 2019, the Tenant
+will start to owe interest.  This will be simple interest calculated from March
+24, 2019 at 3.00% annually on the balance outstanding.
+9.     
+If the unit is not vacated
+on or before March 23, 2019, then starting March 24, 2019, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+10.  
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after March 24, 2019.
+11.  
+If, on or before March 23,
+2019, the Tenant pays the amount of $25,000.00** to the Landlord or to the
+Board in trust, this order for eviction will be void.  This means that the
+tenancy would not be terminated and the Tenant could remain in the unit.  If
+this payment is not made in full and on time, the Landlord may file this order
+with the Court Enforcement Office (Sheriff) so that the eviction may be
+enforced.
+12.  
+The Tenant may make a motion
+to the Board under subsection 74(11) of the Act to set aside this order if they
+pay the amount required under that subsection on or after March 24, 2019 but
+before the Sheriff gives vacant possession to the Landlord. The Tenant is only
+entitled to make this motion once during the period of the tenancy agreement
+with the Landlord.
+13.  
+The Board shall pay to the
+Landlord the amount of $5,940.00 together with any accrued interest. **
+
+March 12, 2019                                                                _______________________
+Date Issued                                                                      Sandra
+Macchione
+                                                                                                                           Member,
+Landlord and Tenant Board
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of
+the Act, the part of this order relating to the eviction expires on September
+24, 2019 if the order has not been filed on or before this date with the Court
+Enforcement Office (Sheriff) that has territorial jurisdiction where the rental
+unit is located.
+ 
+*           Refer to section A on
+the attached Summary of Calculations.
+**         Refer to section B on
+the attached Summary of Calculations.
+
+
+
+
+Schedule
+1
+SUMMARY
+OF CALCULATIONS
+ 
+File
+Number: CEL-81147-18
+ 
+A.        Amount the Tenant
+must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+February 1, 2014 to November 17,
+  2018
+
+
+$84,820.00
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid
+  to the Board in trust
+
+
+ 
+
+
+-$5,940.00
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+November 18, 2018 to March 12,
+  2019
+
+
+$5,614.30
+
+ 
+
+
+
+Less amount owing to the Tenant
+  for abatement/rebate:
+
+
+ 
+
+
+$0.00
+
+ 
+
+
+
+Amount owing to the Landlord on
+  the order date:(total
+  of previous boxes)
+
+
+$25,000.00
+
+ 
+
+
+
+Additional costs the Tenant must
+  pay to the Landlord:
+
+
+$175.00
+
+ 
+
+
+
+Plus daily compensation owing
+  for each day of occupation starting March 13, 2019:
+
+
+$48.82 (per day)
+
+ 
+
+
+ 
+
+Total the Tenant must pay the
+  Landlord if the tenancy is terminated:
+
+
+$25,000.00,
+  + $48.82
+  per day starting March 13, 2019
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+B. Amount the Tenant must pay
+to void the eviction order and continue the tenancy:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+February 1, 2014 to March 31,
+  2019
+
+
+$92,
+  070.00
+
+
+
+
+Less the amount the Tenant paid
+  to the Board in trust
+
+
+ 
+
+
+-$5,940.00
+
+
+
+
+Less amount owing to the Tenant
+  for abatement/rebate:
+
+
+ 
+
+
+$0.00
+
+
+
+ 
+
+
+
+Additional costs the Tenant must
+  pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to
+  continue the tenancy:
+
+
+On or before March 23, 2019
+
+
+$25,000.00
+
+
+
+ 
+ 
+

@@ -1,0 +1,483 @@
+Metadata:
+Date:	2018-08-07
+File number:	
+CEL-77001-18
+	CEL-77001-18
+Citation:	CEL-77001-18 (Re), 2018 CanLII 88704 (ON LTB), <https://canlii.ca/t/hv7ks>, retrieved on 2023-05-16	https://canlii.ca/t/hv7ks
+Content:
+
+
+Worksheet - L2 Application                                                                     File
+Number: CEL-77001-18
+ 
+Use this worksheet if you are ordering compensation
+for damages, misrepresentation of income and/or daily/lump sum compensation.
+ 
+Part 1:              Payment of Money
+(Complete this part if you are ordering the tenant to
+pay compensation for damages or misrepresentation of income.)
+ 
+(A)                    Damages                                                          $6,216.90
+ 
+(B)                    Misrepresentation of
+Income                               $0.00
+ 
+(C)                    Total Amount Owing [(A)
++ (B)]                           $6,216.90
+ 
+ 
+Part II:              Calculation of
+Compensation
+(Complete this part if the LL claimed compensation and
+the tenancy is being terminated. If the termination date is after the
+order date, only complete section (E) in this part.)
+ 
+(D)        i)          Lump
+Sum compensation start date                Aug 1, 2018
+                        (Day
+after termination date in notice)
+ 
+            ii)         Lump
+Sum end Date                                        Aug 2, 2018
+                        (Date
+of Order)
+ 
+(E)                    Daily
+Compensation (monthly
+rent x 12)            $52.60
+                                                                        365
+ 
+(F)                    Number
+of days for lump sum compensation  2 days
+                        (# of
+days between start date and order date - inclusive)
+ 
+(G)                    Total
+Lump sum Compensation [(E) x (F)]                    $105.20
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are
+terminating the tenancy)
+ 
+(H)        Rent Deposit                                                                $1,600.00
+ 
+(I1)       Interest Owing
+on Rent Deposit
+             For period from:
+21/01/2016 to 20/01/2017
+            (i)         Annual
+Amount (S) X 1.5%          =         $24.00
+            (ii)         Daily
+Amount (i) / 365      =         0.0658
+            (iii)        Interest
+Owing (ii) X 366 (# of days) =                   $24.08
+ 
+ 
+(I2)       Interest Owing
+on Rent Deposit
+             For period from:
+21/01/2017 to 20/01/2018
+            (i)         Annual
+Amount (S) X 1.8%          =         $28.80
+            (ii)         Daily
+Amount (i) / 365      =         0.0789
+            (iii)        Interest
+Owing (ii) X 365 (# of days) =                   $28.80
+ 
+ 
+(I3)       Interest Owing
+on Rent Deposit
+             For period from:
+21/01/2018 to 31/07/2018
+            (i)         Annual
+Amount (S) X 1.8%          =         $28.80
+            (ii)         Daily
+Amount (i) / 365      =         0.0789
+            (iii)        Interest
+Owing (ii) X 192 (# of days) =                   $15.15
+ 
+ 
+(I4)       Total amount of
+interest owing on rent deposit
+            [(I1) + (I2) +
+(I3)]                                                                         $68.03
+ 
+ 
+(J)        Rent Deposit +
+Interest
+            [(H) + (I4)] =                                                                  $1,668.03
+ 
+ 
+Part IV:            Total Amount Owing
+ 
+(K)        Terminating the
+Tenancy  [C + G - J]                           $4,654.07
+
+
+
+
+Order under Section 69
+and Subsection 87(1)
+Residential Tenancies
+Act, 2006
+ 
+File Number: CEL-77001-18
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+S S P  (‘SSP’)
+A R R  (‘ARR’)
+
+
+Landlords
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+J T  (‘JT’)
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+S S P and A R R (the 'Landlords') applied for an order
+to terminate the tenancy and evict J T (the 'Tenant') because the Tenant,
+another occupant of the rental unit or someone the Tenant permitted in the
+residential complex:   has wilfully or negligently caused undue damage to the
+premises. The Landlords has also applied for an order requiring the Tenant to
+compensate the Landlords for the damage (N5 Notice); and because the
+Landlord requires possession of the rental unit for the purpose of residential
+occupation (N12 Notice). The Landlords also claimed compensation for
+each day the Tenant remained in the unit after the termination date.  (L2
+Application)
+ 
+The Landlords also applied for an order requiring the
+Tenant to pay the rent that the Tenant owes.  (L9 Application)
+ 
+These applications were heard in Mississauga on July
+24, 2018.
+ 
+One of the Landlords, SPP, the
+Landlords’ Legal Representative, W G (‘WG’), the Tenant and the Tenant’s Legal
+Representative, R G (‘RG’), attended the hearing.  D D’C (‘DDC’) and A O R
+(‘AOR’) signed in as witnesses for the Lanldords but only AOR was called
+forward to give witness testimony.   The parties
+attempted mediation before they were called forward to the hearing.
+ 
+Preliminary Matter
+ 
+At the outset of the hearing, the
+Landlords requested to withdraw the claims of wilful and/or negligent damage
+(N5 notice) of the L2 application.  With no objection from the Tenant, I
+consented to the withdrawal.
+ 
+Testimonies and Evidence:
+ 
+L9 Application
+ 
+1.     
+The Tenant was in possession
+of the rental unit on the date the application was filed, which was June 22,
+2018.
+2.     
+The Landlords filed their L9
+application because they claimed the Tenant did not pay the total rent the
+Tenant was required to pay for the period from January 1, 2018 to July 31,
+2018.
+3.     
+The Landlords submitted the
+L9 update sheet which shows that after the filing of the L9 application, the
+Tenant paid $6,400.00 to the Landlord in respect of rent amounts owing. 
+Effectively, the parties agreed that up to July 31, 2018, the Tenant only owes
+the Landlords the rent for July 2018 (i.e. $1,600.00).
+4.     
+Against the rent amount
+owing, the parties agreed that $588.20 is to be paid back to the Tenant, which
+represents an adjustment for the illegally increased rent the Landlords had
+tried to institute and also included interest owing on the last month’s rent
+deposit that the Landlords have been holding.
+5.     
+Before me, the Landlords
+presented a personal cheque to the Tenant in the amount of $588.20.
+6.     
+The Tenant was able to show
+the Landlords had attempted in April 2018 to raise the lawful rent from
+$1,600.00 to $2,250.00 retroactively to February 2018, and from May 1, 2018 had
+indicated the rent would become $2,500.00 (exhibits TT#1 and TT#2).  Further,
+TT#1 evidences that the Landlords’ Agent, DDC, had refused to accept $1,600.00
+in rent money on April 29, 2018 from the Tenant, as DDC told the Tenant the
+rent to be paid was $2,250.00.
+7.     
+As well, the Tenant was able
+to show that as of July 11, 2018, DDC and the Landlords were still not
+depositing the Tenant’s May 2018 rent payment, neither subsequent monthly
+payments due to some cheque issue the Tenant had with DDC (exhibit TT#3 – July
+11/18 exchanged emails).
+8.     
+The Landlords also requested
+the payment of the $190.00 filing fee, but the Tenant contested that request on
+the basis the Landlords refused to accept the lawful rent from May 2018
+onwards, and then turned around on June 27, 2018 and filed their L9
+application.  Only after the filing of the application did the Landlords accept
+three payments (during the July 16-20, 2018 timeframe) from the Tenant
+totalling $6,400.00.
+L2 Application
+9.     
+The affidavit of AOR was
+submitted by the Landlords in accordance with the requirements of subsection
+72(1) of the Residential Tenancies Act, 2006 (the ‘Act’).
+10.  
+AOR is the son of the
+Landlords.  With a letter of offer in support (exhibit LL#2), AOR testified
+that in September 2018, he shall be attending university in Hamilton.  AOR
+testified he intends to live in the rental unit for at least one year, and if
+successful with his engineering studies, will most probably live in the unit
+for the balance of his undergraduate years.
+11.  
+In cross-examination, AOR
+admitted he did not bring evidence of an “acceptance letter” by him, but
+reaffirmed under oath that he has accepted to go to university in Hamilton
+starting in September 2018.
+12.  
+AOR and SSP confirmed by
+their respective testimonies that they moved from Kuwait to Canada in July 2018
+and are currently living in a Mississauga apartment.  SSP stated that her three
+other children are to arrive in late August before the start of the new school
+year.  SSP stated it was important to move into the unit ahead of time, so that
+she can properly set up her family for the new school year in the rental unit.
+13.  
+The Landlords submitted
+exhibit LL#3, which is a December 8, 2017 email to the Tenant, informing the
+Tenant of the Landlords’ intention to move into the unit.  While LL#3 did not
+constitute proper notice, the Landlords indicated the Tenant has known of the
+Landlords’ intentions for a sufficiently long time.
+14.  
+The Tenant claimed there is
+a lack of “good faith” in the Landlords’ application.   First, the Tenant
+argued that due to the Landlords failing to institute an increase in monthly
+rent, the Landlords decided to serve an N12 notice.  Second, the Tenant argued
+the school year period in Kuwait is the same as in Canada, that is from September
+to June, and so the Landlords wanting to move into the unit in the winter of
+2018 (LL#3) flies in the face of the SPP’s testimony that she wants to set up
+for school in September.
+15.  
+The Landlords submitted that
+the academic year in Kuwait begins in April and ends in March, so their initial
+emailed notice (LL#3) is in line with the Kuwaiti academic year.
+16.  
+The Tenant testified that
+his wife went to India on May 30, 2018 for her mother’s medical condition and
+impending surgery and is currently scheduled to return at the end of August. 
+If the Landlords are successful with their L2 application, he requested a
+termination date of mid-September 2018, so that he can coordinate a move-out
+with his wife being present.
+17.  
+The Landlords confirmed that
+the unpaid rent for July 2018 is hereby waived in respect of the compensation
+they are required to pay.  As well if the Landlords are successful with their
+application, they indicated they would apply the last month’s rent deposit to
+the last rental period ordered. 
+Analysis and Determinations:
+18.  
+With regard to the L2
+application, I was sufficiently persuaded by the Landlords that their son, AOR,
+genuinely intends to move into the rental unit for at least one year, along
+with SSP and then his remaining siblings.
+19.  
+I also find that the
+Landlords have paid the Tenant the required compensation pursuant to
+subsections 48.1 and 55.1 of the Act.
+20.  
+The testimonies and
+submissions concerning the failed attempt to raise rent illegally were, on a
+balance of probabilities, a separate set of communications and circumstances. It
+is evident that the December 8, 2017 email well predates any indication of a
+requested rent increase, and this strongly suggests to me that the later failed
+attempt has no real connection to the Landlords’ earlier stated intention to
+move into the unit.  
+21.  
+I gave the aforementioned
+determination to the parties present and having considered all of the disclosed
+circumstances in accordance with subsection 83(2) of the Act, I find that it
+would not be unfair to postpone the eviction until August 31, 2018, pursuant to
+subsection 83(1)(b) of the Act.
+22.  
+With regard to the L9
+application, it is clear that after the waiving of July 2018 rent, the balance
+is zero.  However, the issue of the $190.00 filing fee still needs to be determined.
+23.  
+It is the normal practice of
+the Board to award a landlord its cost of filing an application in any instance
+when the Landlord is successful with its application.  The reason for this is found
+in the relevant statutory provisions combined with the Board’s Rules of
+Practice and Interpretation Guidelines.
+24.  
+Specifically, I refer to
+sub-sections 204(2) and 74(2) of the Act, as well as to Board’s Guideline No. 3
+entitled “Costs”, and Rule 27.1 of the Board’s Rules of Practice.
+25.  
+However, Members do have the
+limited discretion granted under subsections 204(1) and 204(2) of the Act to
+order that the cost of filing an application not be paid.
+26.  
+In this particular case, I
+believe again that the conflicting testimonies about the failed attempt to
+raise rent, and the Landlords’ subsequent refusal to accept the then lawful
+rent, place me into a grey area where the limited discretion that Members have,
+may be exercised for this case.
+27.  
+Given all of the testimonies
+and evidence before me, I can easily find that the Landlords unilaterally refused
+to accept $1,600.00 from the Tenant on April 29, 2018 in respect of rent that became
+due on May 1, 2018.   While the parties provided conflicting testimonies about
+past due rents, TT#3 provides the only documented evidence of two-way
+communication between the parties surrounding the “rent arrears” around the
+time of L9 filing.  In my view, I find it more likely than not that the
+Landlords did not accept the Tenant’s May and June rent payments, which then
+was followed by the Landlords filing their L9 application on June 22, 2018. 
+Simply put, how can the Tenant be considered in arrears if the Landlords
+refused to accept lawful rent payments from the Tenant?
+28.  
+Based on all this, I am
+unable to find that the Tenant was clearly in arrears at the time of L9 filing,
+and therefore I am electing to use my discretion under subsections 204(1) and
+204(2) to deny the cost of the application in favour of the Landlords.
+It is ordered that:
+ 
+1.     
+The tenancy between the
+Landlords and the Tenant is terminated, as of August 31, 2018.
+2.     
+The Tenant must move out of
+the rental unit on or before August 31, 2018.
+3.     
+The last month’s rent
+deposit currently being held by the Landlords shall be applied to the last
+month’s rental period of August 1-31, 2018.
+4.     
+If the unit is not vacated
+on or before August 31, 2018, the Tenant shall pay to the Landlords $52.60 * per
+day for compensation for the use of the unit from September 1, 2018 to the date
+the Tenant moves out of the unit.
+5.     
+If the unit is not vacated
+on or before August 31, 2018, then starting September 1, 2018, the Landlords
+may file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+6.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlords on or after September 1, 2018.
+August 7, 2018                                                                _______
+Date Issued                                                                      Alex
+Brkic
+                                                                                                                           Member,
+Landlord and Tenant Board
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of
+the Act, the part of this order relating to the eviction expires on March 1,
+2019 if the order has not been filed on or before this date with the Court
+Enforcement Office (Sheriff) that has territorial jurisdiction where the rental
+unit is located.
+ 
+ 
+*           Daily
+Compensation (monthly
+rent x 12)  =        $52.60
+                                                            365
+ 
+ 
+

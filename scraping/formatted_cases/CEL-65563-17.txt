@@ -1,0 +1,711 @@
+Metadata:
+Date:	2017-04-24
+File number:	
+CEL-65563-17
+	CEL-65563-17
+Citation:	CEL-65563-17 (Re), 2017 CanLII 28730 (ON LTB), <https://canlii.ca/t/h3r3h>, retrieved on 2023-05-16	https://canlii.ca/t/h3r3h
+Content:
+
+
+Arrears Worksheet
+ 
+File
+Number: CEL-65563-17
+ 
+Time period for
+Arrears Owing From:   October
+1, 2016 to March 31, 2017
+(From the
+commencement of arrears to the termination date in the notice, or the end of
+the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/10/2016 -
+  28/02/2017
+
+
+$6,000.00
+
+
+ 
+
+
+$6,000.00
+
+
+ 
+
+
+$6,000.00
+
+
+
+
+01/03/2017 -
+  31/03/2017
+
+
+$1,200.00
+
+
+ 
+
+
+$1,200.00
+
+
+ 
+
+
+$1,200.00
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To
+  calculate the Rent for part of a month, use the 
+       following
+  formula for columns (B), (C) and (D):
+ 
+       Monthly
+  Rent X 12 X # Days
+                   365
+
+
+ (F) Total
+  Rent Owing
+
+
+$7,200.00
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                  $7,200.00
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $7,200.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                     $7,200.00
+ 
+(H1)      Payment
+to Landlord                                                                                        $3,580.00
+ 
+(I)         Total
+Amount Owing                                                                                        $3,620.00
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if
+the tenancy is being terminated)
+ 
+(J) (i)    Lump
+Sum Compensation Start Date                                             April
+1, 2017
+            (Day
+after termination date in notice)
+ 
+    (ii)    Lump
+Sum Compensation End Date                                              April
+24, 2017
+            (Date
+of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                               $39.45
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       24 days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                          $946.80
+            [(K) X
+(L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if
+you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                     $1,200.00
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For period
+from: 01/03/2015 to 29/02/2016
+       (i)  Annual
+Amount (S) X 2%         =                                                          $24.00
+       (ii) Daily
+Amount (i) / 365              =                                                             0.0658
+       (iii) Interest
+Owing (ii) X 366 (# of days) =                                                                      $24.08
+ 
+ 
+(O2)      Interest
+Owing on Rent Deposit
+        For period
+from: 01/03/2016 to 28/02/2017
+       (i)  Annual
+Amount (S) X 1.5%       =                                                          $18.00
+       (ii) Daily
+Amount (i) / 365              =                                                             0.0493
+       (iii) Interest
+Owing (ii) X 365 (# of days) =                                                                      $17.99
+ 
+ 
+(O3)      Interest
+Owing on Rent Deposit
+        For period
+from: 01/03/2017 to 31/03/2017
+       (i)  Annual
+Amount (S) X 1.5%       =                                                          $18.00
+       (ii) Daily
+Amount (i) / 365              =                                                             0.0493
+       (iii) Interest
+Owing (ii) X 31 (# of days) =                                                                         $1.53
+ 
+ 
+ 
+ 
+(O4)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)
++ (O2) + (O3)]                                                                             $43.60
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N) +
+(O4)] =                                                                                                     $1,243.60
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                          $3,323.20
+ 
+
+
+
+
+Order
+under Section 69
+Residential
+Tenancies Act, 2006
+ 
+File
+Number: CEL-65563-17
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+K M
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+F R
+J F
+M F
+
+
+Tenants
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+K M (the 'Landlord') applied for an order
+to terminate the tenancy and evict J F, M F and F R (the 'Tenants') because the
+Tenants did not pay the rent that the Tenants owe.
+ 
+This application was heard in Bracebridge
+on April 13, 2017.
+ 
+The Landlord,
+Landlord's Legal Representative, K. F and the Tenants J. F, M. F (MF) and F. R
+(FR) attended the hearing. The Tenants were assisted by tenant duty counsel, J.
+S.
+ 
+Determinations:
+ 
+1.     
+The Tenants have not paid
+the total rent they were required to pay for the period from October 1, 2016 to
+April 30, 2017.  Because of the arrears, the Landlord served a Notice of
+Termination effective March 31, 2017.
+2.     
+The Tenants vacated the
+rental unit as of March 31, 2017.
+Rent deposit
+3.     
+The Landlord collected a
+rent deposit of $1,200.00 from the Tenants. 
+4.     
+The Landlord said the rent
+deposit was used for September 2016 arrears.
+5.     
+The Tenants dispute the use
+of the rent deposit.
+6.     
+Subsection 106(10) of the Residential
+Tenancies Act 2006 (the 'Act') provides that a landlord shall apply a rent
+deposit in payment of the rent for the last rent period before the tenancy
+terminates.
+7.     
+Applying the rent deposit to
+September 2016 arrears contravenes subsection 106(10) of the Act because this
+was not the last rent period before the tenancy terminated on March 31, 2017.
+8.     
+Therefore I find that the
+rent deposit is still being held by the Landlord.
+9.     
+Interest on the rent deposit
+is owing to the Tenants for the period from March 1, 2015 to March 31, 2017.
+Amount of
+rent arrears
+10.   The monthly rent is $1,200.00.
+11.   The Tenants dispute the amount of rent arrears
+for rent owed from October 2016 to January 2017.
+12.   It is undisputed that rent is unpaid for
+February and March 2017.
+13.   FR testified that she made a cash payment of
+$1,220.00 sometime in October to the Landlord’s girlfriend who was at his
+home.  In support of her testimony, the Tenants submitted bank statements
+showing withdrawals of $800.00 and $420.00 on October 3rd from two
+different bank accounts.  The Landlord denies receipt of this payment.
+14.   I find it more probable than not that the
+Tenants made the payment of $1,220.00 to the Landlord. I acknowledge that FR
+did not know the exact date she made the payment. However her testimony was
+supported by bank statements and she provided details about counting the money
+with the Landlord’s girlfriend whose name she also provided during cross
+examination.  Her testimony was essentially consistent when cross examined by
+the Landlord's Legal Representative.
+15.   MF testified that he made a cash payment to the
+Landlord for $1,500.00 for November rent. He said he made the payment to the
+Landlord likely on November 3rd or 4th at either his
+house or shop which is located next door. He submitted a bank statement showing
+a withdrawal of $1,500.00 on November 3, 2016.  The Landlord denies receipt of
+this payment.
+16.   I am satisfied on a balance of probabilities that
+MF made the payment of $1,500.00 to the Landlord.  The amount and date of the
+withdrawal on the bank statement corroborated MF’s testimony.
+17.   MF testified that he made a cash payment to the
+Landlord for $860.00 on January 14, 2017.  He submitted a bank statement
+showing two withdrawals on January 3, 2017 for $360.00 and $500.00.  He also
+submitted text messages he sent to the Landlord from January 4th to
+January 13th informing the Landlord that he had the rent and a
+response from the Landlord that payment on January 14th was
+acceptable.  The Landlord denies receipt of this payment.
+18.   I find that it is more probable than not that MF
+made a payment of $860.00 to the Landlord on January 14th.  MF
+provided bank statements and text messages to support his testimony and
+provided details about the meeting with his Landlord when he made the payment.
+19.   I am not satisfied that the Tenants made a
+payment of $1,280.00 in December.  The Tenants first testified that they were
+unsure when this payment was made and then FR testified that she made the
+payment in December. FR submitted her bank statement showing a withdrawal on
+December 1, 2016 for $1,000.00 and a bank statement from one of the other
+Tenants with a withdrawal dated November 18, 2016 for $280.00.  These withdrawal
+dates are several weeks apart and the testimony from the Tenants was not
+consistent.
+20.   I am mindful of the submissions by the Landlord's
+Legal Representative regarding an absence of receipts for the payments made by
+the Tenants.  However, the Landlord's Legal Representative also stated that
+this was a long standing friendship.  In this context, it is plausible that
+payment of rent through cash payments and without receipts would occur.  The
+receipt submitted by the Landlord was for a period of time and not for each
+individual payment. The Landlord did not provide a copy of the ledger to
+demonstrate his record keeping for rent payments.
+21.   I also acknowledge that the Tenants were unable
+to recall specific dates and times when payments were made.  However, my findings
+are based on consideration of the overall evidence provided by the Tenants
+whose testimony was tested through cross examination.  I agree with the
+submission from tenant duty counsel that the Tenants’ ability to recall is
+likely affected by the passage of time, in this case, 4-6 months ago.
+22.   The Tenants paid $3,580.00 after the application
+was filed.
+23.   I have considered all of the disclosed
+circumstances in accordance with subsection 83(2) of the Act and find that it
+would not be necessary to grant relief from eviction pursuant to subsection
+83(1) of the Act because the Tenants vacated the rental unit.
+It is ordered that:
+ 
+1.     
+The tenancy between the
+Landlord and the Tenants terminated as of March 31, 2017.
+2.     
+The Tenants shall pay to the
+Landlord $2,376.40*, which represents the amount of rent owing to March 31,
+2017, less the rent deposit and interest the Landlord owes on the rent deposit.
+3.     
+The Tenants shall also pay
+to the Landlord $190.00 for the cost of filing the application.
+4.     
+If the Tenants do not pay
+the Landlord the full amount owing* on or before May 5, 2017, the Tenants will
+start to owe interest.  This will be simple interest calculated from May 6,
+2017 at 2.00% annually on the balance outstanding.
+ 
+April 24, 2017                                                                   _______________________
+Date Issued                                                                      Avril
+Cardoso
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy,
+5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with
+section 81 of the Act, the part of this order relating to the eviction expires
+on October 1, 2017 if the order has not been filed on or before this date with
+the Court Enforcement Office (Sheriff) that has territorial jurisdiction where
+the rental unit is located.
+ 
+*           Refer to
+the attached Summary of Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-65563-17
+ 
+Amount the Tenants
+must pay as the tenancy is terminated:
+ 
+
+
+
+Reasons for amount
+  owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+October 1, 2016 to
+  March 31, 2017
+
+
+$7,200.00
+
+
+
+ 
+
+
+
+Less the amount the
+  Tenants paid to the Landlord
+
+
+ 
+
+
+-$3,580.00
+
+
+
+ 
+ 
+
+
+
+Less the rent
+  deposit:
+
+
+ 
+
+
+-$1,200.00
+
+
+
+ 
+
+
+
+Less the interest
+  owing on the rent deposit:
+
+
+March 1, 2015 to
+  March 31, 2017
+
+
+-$43.60
+
+
+
+ 
+
+
+
+Amount owing to the
+  Landlord on the order date:(total of previous boxes)
+
+
+$2,376.40
+
+
+
+ 
+
+
+
+Additional costs the
+  Tenants must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+
+
+
+Total the Tenants
+  must pay the Landlord as the tenancy is terminated:
+
+
+$2,566.40
+
+
+
+ 
+

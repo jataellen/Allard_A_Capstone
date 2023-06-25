@@ -1,0 +1,176 @@
+Metadata:
+Date:	2020-02-24
+File number:	
+TSL-08283-19-RV
+	TSL-08283-19-RV
+Citation:	TSL-08283-19-RV (Re), 2020 CanLII 31381 (ON LTB), <https://canlii.ca/t/j6vxn>, retrieved on 2023-05-16	https://canlii.ca/t/j6vxn
+Content:
+
+
+Order under Section 21.2 of the 
+Statutory Powers Procedure Act 
+and the Residential Tenancies Act, 2006
+ 
+File Number: TSL-08283-19-RV
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Review Order
+ 
+M
+C and G P A (the 'Landlords') applied for an order to terminate the tenancy and
+evict C S (the 'Tenant') because the Tenant did not pay the rent that the
+Tenant owes.
+ 
+This
+application was resolved by order TSL-08283-19 issued on December 9, 2019.
+ 
+On December 20, 2019, the Tenant requested a review of the order
+and that the order be stayed until the request to review the order is resolved.
+ 
+On December 23, 2019, interim order TSL-08283-19-IN was issued,
+staying the order issued on December 9, 2019.
+ 
+The request was heard in Toronto on January 24, 2020.
+ 
+The Landlord, M C; the Landlords’ representative, K M; and the
+Tenant attended the hearing. 
+ 
+Determinations:
+ 
+The
+request to review is granted 
+1.      These
+proceedings stem from an L1 Application for non-payment of rent. The Board
+heard the merits of the application on December 3, 2019. Only the Landlords’
+representative attended that hearing; the Tenant did not attend. The hearing
+Member issued a “standard order” on December 9, 2019, which gave the Tenant 11
+days to pay the full amount owing, failing which the Landlord could pursue
+eviction. 
+2.      The
+Tenant filed a review, in which he claims that he was not reasonably able to
+participate in the hearing on December 3, 2019 and that the order contains
+serious errors. During the review hearing, the Tenant’s testimony included
+information that led me to grant the review for a reason that was not
+specifically identified in the Tenant’s review request. Rule 26.15 of the
+Board’s Rules of Procedure allows the Board to grant a review based on an issue
+that is not identified in the request but which the Member finds may amount to
+a serious error in the order.
+3.      In
+this case, I granted the review because the Tenant’s testimony disclosed that
+there was a fire in the residential complex in December 2018, which resulted in
+the Tenant losing heat, water and electricity in the rental unit and, as of the
+date of the review hearing, these services have not been restored. The Landlord
+did not dispute that a fire occurred on the roof of the building in December
+2018; that the fire was not caused by the Tenant and that the fire resulted in
+the Tenant having no heat, water and electricity. As of the hearing date, only
+part of the rental unit has electricity restored and while the Landlord was
+anticipating that the water would be restored the following week, he could not
+confirm when heat will be restored. 
+4.      Based
+on the parties’ evidence, I am satisfied on a balance of probabilities that for
+over a year, the Tenant has not had several vital services in the rental unit.
+The Landlord did not provide a reasonable explanation for why the Tenant has
+been without these vital services for so long. The Landlord also did not
+provide a reasonable explanation for why he did not take appropriate action to
+address the situation through other means (for example, an N13 Notice of
+Termination for extensive repairs with accompanying right of first refusal) to
+avoid the Tenant having to live in (and pay for) an uninhabitable space while
+work was being done on the building to repair any damage from the fire. When I
+asked the Landlord why he did not serve the Tenant with an N13 Notice, the
+Landlord only responded that he asked the Tenant to move out several times.
+This was not a reasonable or appropriate approach to the situation.
+5.      I
+confirmed with the parties that the Landlord did not disclose the state of the
+rental unit and the lack of vital services to the Board at the hearing on
+December 3, 2019. I find that by failing to disclose these circumstances to the
+Board, the Landlord abused the Board’s process because it withheld clear and
+obvious grounds for mandatory relief of eviction under section 83(3) of the
+Act. That provision requires the Board to deny a landlord’s request for
+eviction where the landlord is in serious breach of its obligations under the
+Act. I think it is fair to say that failing to ensure that the rental unit is
+habitable and supplied with vital services is a serious breach of the Act, and
+this breach was ongoing as of the December 3rd hearing date. By
+failing to disclose these circumstances to the Board, even in the Tenant’s
+absence, I find that the Landlord abused the Board’s process, and this resulted
+in a serious error in the proceedings and the order. The review was granted on
+this basis. 
+6.      I
+delivered my decision granting the review at the hearing and proceeded to hear
+the application de novo (from the beginning). 
+ 
+De
+novo hearing 
+7.      At
+the hearing, the Landlord claimed the Tenant owes $7,390.00, including arrears
+of rent to January 31, 2020 and the application filing fee. The Tenant did not
+dispute the amount of rent the Landlord claims he paid for the period February
+2019 – January 2020 ($3,600); however, the Tenant contends that he should not
+have to pay the full rent he was charged after the fire and that he should
+receive a significant rent abatement because he has not had water, heat and
+electricity in the unit over this period. 
+8.      I
+considered the Tenant’s position under section 82 of the Act. That provision
+allows a tenant to raise issues during the hearing of an L1 Application for
+non-payment of rent which would otherwise form the basis for a tenant
+application under the Act. Based on the evidence before me, I am satisfied on a
+balance of probabilities that by failing to ensure that the Tenant had
+electricity, water and heat in the rental unit, the Landlords failed to satisfy
+their maintenance obligations under section 20(1) of the Act. The Tenant asked
+for a rent abatement of at least 50% for this breach and I agree that this is
+appropriate, given the magnitude and duration of the breach as well as the fact
+that the Tenant has been forced to live elsewhere at times when the lack of
+vital services in the rental unit was unbearable. Even the Landlord agreed that
+a $500.00/month rent abatement would be reasonable in the circumstances.
+Accordingly, I find that the Tenant is entitled to a $500.00 rent abatement for
+each of the 13 months between December 23, 2018 when the fire took place and
+the hearing date, for a total of $6,500.00. 
+9.      When
+the Tenant’s abatement is subtracted from the arrears claimed, I find that the
+tenant owes the Landlord $890.00, including arrears to January 31, 2020 and the
+application filing fee. The Tenant shall have 11 days to pay this amount,
+failing which interest will accrue. 
+10.   Since
+the vital services were not restored as of the hearing date, I find that the
+Landlords continue to be in serious breach of their maintenance obligations.
+Accordingly, I cannot order eviction pursuant to section 83(3) of the Act. 
+It is ordered that:
+ 
+1.      The
+request to review order TSL-08283-19 issued on December 9, 2019 is granted. The
+order is cancelled and replaced with the following. 
+2.      The
+Tenant shall pay the Landlords $890.00, which includes arrears of rent to
+January 31, 2020 and the application filing fee.
+3.      If
+the Tenant does not pay the Landlords the full amount owing by March 6, 2020
+the Tenant will owe interest. This will be simple interest calculated from
+March 7, 2020 at 3.00% annually on the outstanding balance.
+February 24, 2020                                                           _______________________
+Date Issued                                                                      Anna
+Solomon 
+                                                                                                                           Vice
+Chair, Landlord and Tenant Board
+ 
+Toronto South-RO
+15 Grosvenor Street, 1st Floor
+Toronto ON M7A 2G6
+ 
+ 
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+ 
+

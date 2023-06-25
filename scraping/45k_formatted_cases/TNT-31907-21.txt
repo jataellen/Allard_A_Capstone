@@ -1,0 +1,233 @@
+Metadata:
+Date:	2022-02-14
+File number:	
+TNT-31907-21
+
+Citation:	Shalaev v Talero, 2022 CanLII 122591 (ON LTB), <https://canlii.ca/t/jtp57>, retrieved on 2023-05-16
+Content:
+
+
+
+ 
+Order under Section 31
+Residential Tenancies Act, 2006
+ 
+File Number: TNT-31907-21
+ 
+ 
+
+
+
+In the matter
+of:
+
+
+141 WHITBURN CRESCENT NORTH YORK ON M3M2S6
+
+
+ 
+
+
+
+
+Between:
+
+
+Victor Shalaev
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+and
+
+
+ 
+
+
+
+
+ 
+
+
+Andreas (Gerardo) Talero
+
+
+Landlord
+
+
+
+ 
+ 
+Victor Shalaev (the 'Tenant')
+applied for an order determining that Andreas (Gerardo) Talero (the 'Landlord')
+harassed, obstructed, coerced, threatened or interfered with him, and
+substantially interfered with the reasonable enjoyment
+of the rental unit or residential complex
+by the Tenant or by a member
+of their household.
+ 
+This application was heard by videoconference on January 27, 2022. The Tenant
+and the Landlord were present
+at the hearing.
+ 
+Preliminary Issue – Status
+of the Tenancy Respondent’s Evidence
+1.     The Respondent, Andreas
+(Gerardo) Talero, testified
+that the rental unit at 141 Whitburn Crescent in North York is a
+single detached house containing just one rental unit. He testified that he is himself a tenant, and not a landlord or
+owner. He resides in the basement
+portion of the house and the Applicant Victor Shalaev was his roommate who
+resided on the top floor. Mr. Shalaev
+vacated the rental unit on April 30, 2021.
+ 
+2.    
+The Respondent testified that he has
+been renting the entire rental unit from the owners, Alex and Rosetta Angelina,
+since 2013. The Respondent submitted a lease for the rental unit identifying
+him as the tenant of 141 Whitburn Crescent for the period of May 15, 2017 to May 14, 2018 and monthly
+thereafter. The Respondent also submitted an N1
+Notice of Rent Increase from the Landlords (N1), dated October 7, 2021, that
+identifies him as the tenant of the rental unit.
+ 
+3.     The Respondent stated
+that he signed
+a Room Rental Agreement with the Applicant on October 19, 2019, and that he never signed an agreement to
+sublet his tenancy to the Applicant, nor did he ever vacate his rental unit
+during the Applicant’s residence in the rental unit from November 1, 2019 to
+April 30, 2021.
+
+
+
+
+ 
+Applicant’s Evidence
+ 
+4.     The Applicant testified that the Respondent always
+represented himself as a landlord during his residency at the rental unit. The Applicant submitted the Room Rental
+Agreement he signed with the Respondent on October 19, 2019. The Applicant noted that on this Room Rental Agreement, he is listed as a tenant,
+and the Respondent signed the agreement as an agent of the Landlord. The Applicant also remarked that the Residential Tenancies
+Act, 2006 (the
+“Act”) is referenced in the Room Rental Agreement.
+ 
+5.    
+The Applicant testified further that the Respondent’s residence in the
+basement of the rental unit had its own entrance,
+kitchen and washroom,
+and was completely separate
+from his residence on the top floor of the rental unit.
+ 
+Analysis
+ 
+6.    
+I accept that the Applicant, on the basis of
+the use of the words “tenant” and “landlord” in the Room Rental Agreement, believed that he was a tenant and
+the Respondent was a landlord. However,
+for the reasons that follow, the use of the terms “tenant” and “landlord” in
+the Room Rental Agreement does not result in these parties’ relationship being subject
+to the Act, and this was in fact an agreement to share part of the rental unit with the Respondent who is the
+tenant.
+ 
+7.     I am
+satisfied that the rental unit in this matter is the entire
+single detached house
+at 141 Whitburn Crescent in
+North York consisting of just one rental unit, as listed in the lease and N1
+submitted by the Respondent, and as listed in the Room Rental Agreement and T2
+Application submitted by the Applicant.
+ 
+8.     In order for the Act to apply, there must be tenancy
+agreement entered by a “tenant”
+and a “landlord”.
+ 
+9.     The term “landlord” is defined in section 2(1) of the Act, in part, as follows:
+ 
+“landlord” includes,
+(a)              
+the owner of a rental unit or any
+other person who permits occupancy of a rental
+unit, other than a tenant who occupies
+a rental unit in a residential complex and who permits another
+person to also occupy the unit or any part of the unit
+ 
+[emphasis added]
+ 
+10.  The Respondent is not the owner of the rental unit. In addition, on the basis of the submitted lease, N1 and Room Rental
+Agreement, I am satisfied that the Respondent is a tenant occupying
+the single rental unit at 141 Whitburn Crescent who has permitted another
+person, the Applicant, to occupy a part of that single rental unit. For these reasons, I find that the
+Respondent is not a landlord of the rental unit.
+ 
+11.  I have also considered whether
+the Applicant could be considered a “subtenant” under the Act. Section 2(1) of the Act defines a subtenant as the person
+to whom a tenant
+
+
+
+
+ 
+gives the right under section 97 to occupy
+a rental unit. Section 2(2) defines “subletting as follows:
+2) For the
+purposes of this Act, a reference to subletting a rental unit refers to the
+situation in which,
+(a)          
+the tenant vacates the rental unit;
+(b)          
+the tenant gives one or more other persons the right to occupy the rental
+unit for a term ending on a specified date before the end of the tenant’s term
+or period; and
+(c)          
+the tenant has the right to resume
+occupancy of the rental unit after that specified date.
+ 
+12.  Therefore, for a subtenancy to exist under the Act, the tenant
+must vacate the rental unit during the subtenancy. The Respondent did not vacate the rental unit during the period of the
+Applicant’s residence at the rental unit. Therefore,
+I find that the Respondent did not sublet his tenancy of the rental unit to the
+Applicant pursuant to s. 97(1) of the Act, and the Applicant is not a subtenant
+pursuant to s. 2(1) of the Act.
+ 
+13.  I further find that the Applicant was a roommate of
+the Respondent and/or an occupant during the period November 1, 2019 to April
+30, 2021. The Board’s Interpretation Guideline 21 for residential tenancies
+defines an occupant as a person who is not a tenant but who lives in a
+rental unit as their principal place of residence. In addition, Guideline 21 defines
+a roommate as a person
+who, like an occupant, shares a room with a tenant or shares a
+rental unit or part of it with a tenant.
+ 
+14.  The Applicant, as an occupant
+and roommate of the rental unit and not a tenant, cannot apply to the Board pursuant to s.
+29(1) of the Act alleging substantial interference of reasonable enjoyment and
+harassment. For this reason, the
+Applicant’s application cannot be considered by the Board.
+ 
+It is
+ordered that:
+ 
+1.    
+The Applicant’s application is dismissed.
+ 
+ 
+ 
+February 14, 2022
+
+Date Issued                                                                      Frank Ebner
+Member, Landlord
+and Tenant Board
+ 
+Toronto North-RO
+47 Sheppard Avenue East, Suite 700, 7th Floor Toronto ON M2N5X5
+ 
+ 
+If you have any questions about this order,
+call 416-645-8080 or toll free at 1-888-332-3234.
+

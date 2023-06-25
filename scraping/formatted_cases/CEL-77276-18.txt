@@ -1,0 +1,714 @@
+Metadata:
+Date:	2018-08-03
+File number:	
+CEL-77276-18
+	CEL-77276-18
+Citation:	CEL-77276-18 (Re), 2018 CanLII 88706 (ON LTB), <https://canlii.ca/t/hv7kx>, retrieved on 2023-05-16	https://canlii.ca/t/hv7kx
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-77276-18
+ 
+Time period for Arrears
+Owing            From:    May
+1, 2018 to June 18, 2018
+(From the commencement of
+arrears to the termination date in the notice, or the end of the rental period
+if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/05/2018 - 31/05/2018
+
+
+$1,400.00
+
+
+ 
+
+
+$1,400.00
+
+
+ 
+
+
+$1,400.00
+
+
+
+
+01/06/2018 - 18/06/2018
+
+
+$828.49
+
+
+ 
+
+
+$828.49
+
+
+ 
+
+
+$828.49
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent
+  for part of a month, use the 
+       following formula for
+  columns (B), (C) and (D):
+ 
+       Monthly Rent X 12
+  X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$2,228.49
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                  $2,228.49
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                               $4,390.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                   $2,228.49
+ 
+(I)         Total Amount
+Owing                                                                                        $2,228.49
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy
+is being terminated)
+ 
+(J) (i)    Lump Sum
+Compensation Start Date                                            June
+19, 2018
+            (Day after
+termination date in notice)
+ 
+    (ii)    Lump Sum
+Compensation End Date                                              August
+3, 2018
+            (Date of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                                $46.03
+                                                    
+365
+ 
+(L)        Number of Days
+for Lump Sum Compensation                                                      46
+days
+            (# days between
+start date and order date - inclusive)
+ 
+(M)       Total Lump Sum
+Compensation                                                                      $2,117.38
+            [(K) X (L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are
+terminating the tenancy)
+ 
+(N)        Rent Deposit                                                                                                    $2,800.00
+ 
+(O1)      Interest Owing
+on Rent Deposit
+        For period from:
+15/02/2018 to 18/06/2018
+       (i)  Annual Amount (S)
+X 1.8%       =                                                          $50.40
+       (ii) Daily Amount (i)
+/ 365               =                                                             0.1381
+       (iii) Interest Owing
+(ii) X 124 (# of days) =                                                                       $17.12
+ 
+ 
+ 
+ 
+(O2)      Total amount of
+interest owing on rent deposit
+ 
+            [(O1)]                                                                                                  $17.12
+ 
+ 
+ 
+(P)        Rent Deposit +
+Interest
+ 
+            [(N) + (O2)] =                                                                                                     $2,817.12
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating the tenancy [I+M-P]                                                                          $1,528.75
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies
+Act, 2006
+ 
+File Number: CEL-77276-18
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+G O
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+J M
+M P
+ 
+
+
+Tenants
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+G O (the 'Landlord') applied for an order to terminate
+the tenancy and evict M P and J M (the 'Tenants') because the Tenants did not
+pay the rent that the Tenants owe.  (L1 Application)
+ 
+The Landlord also applied for an order to terminate
+the tenancy and evict the Tenants because they, another occupant of the rental
+unit or someone they permitted in the residential complex have wilfully or
+negligently caused undue damage to the premises. The Landlord has also applied
+for an order requiring the Tenants to compensate the Landlord for the damage;
+because they, another occupant of the rental unit or someone they permitted in
+the residential complex have substantially interfered with the reasonable
+enjoyment or lawful right, privilege or interest of the Landlord or another
+tenant; and because the number of persons living in the unit on a continuing
+basis is more than permitted by health, safety or housing standards. The
+Landlord also claimed compensation for each day the Tenants remained in the
+unit after the termination date.  (L2 Application)
+ 
+These applications were heard in Mississauga on July
+27, 2018.
+ 
+Only the Landlord attended the hearing.
+ 
+Preliminary Matter
+ 
+Landlord requested that the L2
+claim relating to “the number of persons living in the unit…more than permitted
+by health, safety of housing standards” be deleted.  The Landlord indicated
+that this particular claim was inadvertently included in his application when
+it should not have been.  As this does not prejudice the Tenants, I consented
+to deleting this particular claim.
+ 
+ 
+ 
+Determinations:
+ 
+L1 Application
+ 
+1.     
+The Tenants have not paid
+the total rent they were required to pay for the period from May 1, 2018 to
+July 31, 2018.  Because of the arrears, the Landlord served a Notice of
+Termination effective June 18, 2018.
+2.     
+The Landlord collected a
+rent deposit of $1,400.00 from the Tenants and this deposit is still being held
+by the Landlord.
+3.     
+Interest on the rent deposit
+is owing to the Tenants for the period from February 15, 2018 to June 18, 2018.
+L2 Application
+4.     
+The N5 notice of termination
+underlying the application was served on the Tenants on June 20, 2018 (exhibit
+LL#1) and sufficiently identified the claimed:  undue damage caused by the
+Tenants to the wall of the house/rental unit; and failure of the Tenants to pay
+hydro, water and gas bills.   The Landlord is seeking $500.00 in estimated
+costs to repair the damage and the termination of the tenancy on July 31, 2018
+(as indicated on the N5).  
+5.     
+The Landlord testified that
+the Tenants moved into the rental unit on February 15, 2018, under a
+month-to-month tenancy for which the rent is due on the first of each month. 
+Further, the Landlord testified the lawful monthly rent is $1,400.00 and the
+Tenants are responsible for paying monthly utilities.  Specifically, the
+agreement between the parties is that the Tenants are to pay the Landlord
+$200.00 as a separate monthly amount toward utilities.
+6.     
+In February 2018, the
+Landlord testified the Tenants drove their truck into the side of house/rental
+unit wall.  The Landlord submitted a colour photo (exhibit LL#1) in support of
+this claim that the Tenants or another occupant have wilfully or negligently
+damaged the rental unit.  
+7.     
+The Landlord testified the
+Tenants apologized for the damage but have not done anything to remedy or void
+the N5 notice served on them.
+8.     
+The Landlord was unable to
+provide any written estimates or quotations to support the claim of $500.00
+damage
+9.     
+With respect to the Tenants
+paying the utility bills, the Landlord testified the Tenants have not paid any
+amount toward the utility bills since the outset of the tenancy.  The Landlord
+confirmed that he must pay the utility bills himself in full so that none of
+the services is affected due to non-payment.
+10.  
+The Landlord confirmed, as
+well, that the Tenants have not attempted to remedy or void the N5 notice in
+respect to unpaid utility bills.
+11.  
+As provided for under
+subsections 62(3) and 64(3) of the Residential Tenancies Act, 2006 (the
+'Act'), and based on the uncontested testimony and submissions, I find Tenants
+failed to void the N5 Notice of Termination that was served on the Tenants on June
+20, 2018. 
+12.  
+As well, and on a balance of
+probabilities, I find the Tenants have wilfully or negligently damaged the
+rental unit wall and the Tenants’ conduct with regard to utility bills has
+substantially interfered with the Landlord’s lawful right or interest of the
+Landlord.   With regard to the claim of $500.00 for repair costs, I denied this
+claim as the Landlord was unable to substantiate that cost at the hearing.
+13.  
+I made these determinations
+orally at the hearing.  The Landlord confirmed his request under the L2
+application for a non-remedial termination of the tenancy, and requested that
+the termination date be set for the standard eleven day period.  If granted,
+the Landlord requested the L1 application be amended to be an order for arrears
+only.
+14.  
+I have considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Act, and
+find that it would be unfair to grant relief from eviction pursuant to
+subsection 83(1) of the Act.  The L1 application is hereby converted to an
+order for arrears only as the tenancy is to be terminated in a non-remedial,
+standard way under the L2 application.
+It is ordered that:
+ 
+L1 and L2 Applications
+ 
+1.     
+With respect to the L1
+application for rent arrears, the Tenants shall pay to the Landlord $2,937.31*,
+which represents the amount of rent owing and compensation up to August 3, 2018
+(the date of this order), less the rent deposit and interest the Landlord owes
+on the rent deposit.
+2.     
+The Tenants shall also pay
+to the Landlord $46.03 per day for compensation for the use of the unit
+starting August 4, 2018 to the date they move out of the unit.
+3.     
+The Tenants shall also pay
+to the Landlord $190.00 for the cost of filing the application.
+4.     
+If the Tenants do not pay
+the Landlord the full amount owing* on or before August 14, 2018, the Tenants
+will start to owe interest.  This will be simple interest calculated from
+August 15, 2018 at 3.00% annually on the balance outstanding.
+5.     
+With respect to the L2
+application that seeks an order to terminate the tenancy and evict the Tenant because
+they have caused undue damage to the premises and have
+substantially interfered with the reasonable enjoyment or lawful right,
+privilege or interest of the Landlords or another tenant(s):   the tenancy shall terminate in a final way (i.e. cannot
+be voided) on August 14, 2018.  
+6.     
+The Tenant must move out of
+the unit on or before August 14, 2018.
+7.     
+If the unit is not vacated
+on or before August 14, 2018, then starting August 15, 2018, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+8.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after August 15, 2018.
+August 3, 2018                                                                _______
+Date Issued                                                                      Alex
+Brkic
+                                                                                                                           Member,
+Landlord and Tenant Board
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of
+the Act, the part of this order relating to the eviction expires on February
+15, 2019 if the order has not been filed on or before this date with the Court
+Enforcement Office (Sheriff) that has territorial jurisdiction where the rental
+unit is located.
+ 
+*           Refer to section A on
+the attached Summary of Calculations.
+
+
+
+
+Schedule
+1
+SUMMARY
+OF CALCULATIONS
+ 
+File
+Number: CEL-77276-18
+ 
+A.        Amount the Tenants
+must pay as the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+May 1, 2018 to June 18, 2018
+
+
+$2,228.49
+
+
+
+ 
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+June 19, 2018 to August 3, 2018
+
+
+$2,117.38
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,400.00
+
+
+
+ 
+
+
+
+Less the interest owing on the
+  rent deposit:
+
+
+February 15, 2018 to June 18,
+  2018
+
+
+-$8.56
+
+
+
+ 
+ 
+
+
+
+Amount owing to the Landlord on
+  the order date:(total
+  of previous boxes)
+
+
+$2,937.31
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+ 
+
+
+
+Plus daily compensation owing
+  for each day of occupation starting August 4, 2018:
+
+
+$46.03 (per day)
+
+
+
+ 
+ 
+
+
+
+Total the Tenants must pay
+  the Landlord as the tenancy is terminated:
+
+
+$3,127.31,
+  + $46.03
+  per day starting August 4, 2018
+
+
+
+ 
+ 
+

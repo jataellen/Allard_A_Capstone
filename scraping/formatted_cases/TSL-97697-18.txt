@@ -1,0 +1,367 @@
+Metadata:
+Date:	2019-01-18
+File number:	
+TSL-97697-18
+	TSL-97697-18
+Citation:	TSL-97697-18 (Re), 2019 CanLII 87031 (ON LTB), <https://canlii.ca/t/j2gqd>, retrieved on 2023-05-16	https://canlii.ca/t/j2gqd
+Content:
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: TSL-97697-18
+
+
+
+
+
+
+
+
+
+
+ 
+
+L.P.A.L
+(the 'Landlord') applied for an order to terminate the tenancy and evict M.L.J
+and T.K (the 'Tenants') because the Tenants did not pay the rent that the
+Tenants owe. (L1 application)
+ 
+The
+Landlord also applied for an order to terminate the tenancy and evicting the
+Tenants because the Tenants have been persistently late in paying their rent.
+The Landlord also claimed compensation for each day the Tenants remained in the
+unit after the termination date. (L2 application)
+ 
+This
+combined L1/L2 application was heard in Toronto on November 27, 2018.
+ 
+The
+Landlord’s legal representative, H.L, the Landlord’s site manager, D.M, and the
+Tenant, T. K (TK), attended the hearing.
+ 
+Determinations:
+ 
+            Preliminary Issue – Tenants’ Late Disclosure
+ 
+1.      The
+parties previously appeared before the Board on September 13, 2018.  The matter
+was adjourned at the time, in part due to lack of disclosure of a s. 82 issue
+raised by the Tenants at the hearing.  An interim order dated September 14,
+2018 (TSL-97697-18-IN) was issued directing the parties to provide disclosure
+of evidence to each other.  The Tenants were ordered to disclose to the
+Landlord their evidence no later than 15 days before the next hearing date, and
+the Landlord to disclose to the Tenants the Landlord’s evidence no later than
+10 days before the next hearing date.
+2.      At
+the hearing, the Landlord’s legal representative indicated that the Tenants
+were late by six days in their disclosure and requested that the Tenants’
+disclosed evidence be barred from being used at this hearing.
+3.      The
+Tenant TK agreed that the Tenants were late by six days in their disclosure,
+and explained that the disclosure was late because she was sick and her dog was
+sick.
+4.      I
+do not find the Tenants’ excuse reasonable or sufficient.  The interim order
+was issued on September 14, 2018, and the required day of disclosure was 15
+days before this hearing, or November 12, 2018.  This means that the Tenants
+had nearly two months to prepare and disclose their evidence.  The Tenant TK
+also has not submitted any evidence to support her claim that she or her dog
+was sick in that period.  The disclosure was late by 6 days which diminished
+the time available for the Landlord to prepare its case.
+5.      I
+find the Tenants failed to comply with the disclosure ordered in the interim
+order. As stated in paragraph 8 of the interim order, “Pursuant to Rule 19.1(3)
+of the Board’s Rules of Practice a party that does not comply with an order for
+disclosure may not be permitted to rely on any evidence not properly
+disclosed.”
+6.      Accordingly,
+the Tenants cannot rely on the evidence they failed to disclose in accordance
+with the interim order TSL-97697-18-IN.
+            L1
+application
+7.      The
+Tenants have not paid the total rent the Tenants were required to pay for the
+period from July 1, 2018 to November 30, 2018.  Because of the arrears, the
+Landlord served a Notice of Termination effective July 20, 2018.
+8.      The Tenant is in possession of the rental unit. 
+9.      The monthly rent as of the date of the hearing is $1,327.74.
+10.   The
+Landlord collected a rent deposit of $1,327.74 from the Tenants and this
+deposit is still being held by the Landlord.
+11.   Interest
+on the rent deposit is owing to the Tenants for the period from June 1, 2018 to
+July 20, 2018.
+12.   The
+Tenants paid $6,250.00 after the application was filed. 
+13.   I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Residential Tenancies Act, 2006 (the 'Act'), and
+find that it would be unfair to grant relief from eviction pursuant to
+subsection 83(1) of the Act.
+L2
+application
+14.   On July 12,
+2018, the Landlord served the Tenant a Notice to Terminate at End of the Term
+for persistent late payment of rent (the ‘N8 notice’) with a termination date
+of September 30, 2018. 
+15.   I find
+that the N8 notice is in compliance with the Act. It meets the 60 day
+requirement and provides sufficient details as of the reason for the notice.
+16.   The N8
+notice alleged that the rent is due on the first day of each month and the Tenants
+have been late in paying rent in every month since September 1, 2016, which
+necessitated the Landlord serving N4 notices and filing applications at the
+Board on numerous occasions in order for the Tenant to pay the arrears.
+17.   Based on
+the evidence of the Landlord, including the detailed records and numerous N4
+notices served on the Tenants, I am satisfied that, on a balance of
+probabilities, the Tenants have been persistently late in paying rent.
+18.   The Tenant
+TK does not dispute the allegations of persistent late payment of rent but explains
+that the Tenants did so because of mice infestation of the unit.
+19.   There is
+no evidence of the Tenants having filed a T6 application for maintenance issue
+before the Board, and according to the Tenant TK, the Tenants only started
+complaining to the Landlord about this issue since June 2018, while they have
+been persistently late in paying rent since September 2016.  The Tenant TK also
+acknowledged that the Landlord has responded to the mice complaint although the
+Tenants are still not completely satisfied with the result.
+20.   Based on
+the Tenant TK’s testimony and the Landlord’s site manager’s evidence, I am
+satisfied that the Landlord responded to the Tenants’ request by calling in a
+pest control company which treated the unit about 1.5 weeks after receiving a
+written complaint from the Tenant, with subsequent treatments that followed.
+21.   The
+Ontario Court of Appeal had stated in Onyskiw v. CJM Property Management
+Ltd., 2016 ONCA 477, that the Landlord is not automatically in breach of
+its maintenance obligations under section 20 of the Act simply because there
+are maintenance issues with the rental unit.  Rather, the reasonableness of the
+Landlord’s response to those issues, once made aware, should be considered when
+determining whether the Landlord is in breach of its maintenance obligations.
+22.   The
+evidence overall indicates that the Landlord acted promptly, reasonably and
+diligently in response to the Tenants’ request. As such, I find the Tenants
+have failed to establish, on a balance of probabilities, that the Landlord has
+not met its obligations under subsection 20(1) of the Act to repair or maintain
+the rental unit and to comply with maintenance standards.
+23.   The
+evidence is also clear that the Tenants only raised this concern to the
+Landlord in June 2018 while they have been persistently late in paying their
+rent since September 2016.
+24.   In any
+case, while the Tenants can raise maintenance issues with regards to an L1
+application based on non-payment of rent, this cannot be raised with respect to
+an L2 application based on persistent late payment of rent.
+            S. 83
+Considerations
+25.   The only
+hardship the Tenant TK raised is that it is not easy to find a new place to
+move to, as rent has gone up.  There is no evidence of any effort of finding a
+new place, or what the rent differential of a comparable unit is. 
+26.   I have
+considered all of the disclosed circumstances in accordance with subsection
+83(2) of the Residential Tenancies Act, 2006 (the 'Act'), including the
+delay in the issuance of this order, and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act. Because of the
+persistent late payment, the tenancy will terminate even if the Tenants pay the
+full amount currently owing under the L1 application.
+It is ordered that:
+ 
+1.      The
+tenancy between the Landlord and the Tenants is terminated.  The Tenants must
+move out of the rental unit on or before January 29, 2019.
+2.      The
+Tenants shall pay to the Landlord $1,236.28*, which represents the amount of
+rent owing and compensation up to January 18, 2019, less the rent deposit and
+interest the Landlord owes on the rent deposit.
+3.      The
+Tenants shall also pay to the Landlord $43.65 per day for compensation for the
+use of the unit starting January 19, 2019 to the date the Tenants move out of
+the unit.
+4.      The
+Tenants shall also pay to the Landlord $190.00 for the cost of filing the
+application.
+5.      If
+the Tenants do not pay the Landlord the full amount owing* on or before January
+29, 2019, the Tenants will start to owe interest.  This will be simple interest
+calculated from January 30, 2019 at 3.00% annually on the balance outstanding.
+6.      If
+the unit is not vacated on or before January 29, 2019, then starting January
+30, 2019, the Landlord may file this order with the Court Enforcement Office
+(Sheriff) so that the eviction may be enforced.
+7.      Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to
+give vacant possession of the unit to the Landlord, on or after January 30,
+2019.
+ 
+January 18, 2019                                                            _______________________
+Date Issued                                                                      David
+Lee
+                                                                                                                           Member,
+Landlord and Tenant Board
+Toronto South-RO
+79 St. Clair Avenue East, Suite 212, 2nd Floor
+Toronto ON M4T1M6
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the Act, the part of this order
+relating to the eviction expires on July 30, 2019 if the order has not been
+filed on or before this date with the Court Enforcement Office (Sheriff) that
+has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+ 
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: TSL-97697-18
+ 
+A.        Amount the Tenants must pay the Landlord:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+July 1, 2018 to July 20, 2018
+
+
+$873.00
+
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+July 21, 2018 to January 18, 2019
+
+
+$7,944.30
+
+
+
+ 
+ 
+
+
+
+Less the amount the Tenants paid to the Landlord
+
+
+ 
+
+
+-$6,250.00
+
+
+
+ 
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,327.74
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+June 1, 2018 to July 20, 2018
+
+
+-$3.28
+
+
+
+ 
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$1,236.28
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenants must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+ 
+
+
+
+Plus daily compensation owing for each day of occupation
+  starting January 19, 2019:
+
+
+$43.65 (per
+  day)
+
+
+
+ 
+ 
+
+
+
+Total the Tenants must pay the Landlord:
+
+
+$1,426.28, + $43.65 per day starting January 19, 2019 to the date
+  the unit is vacated
+
+
+
+ 
+ 
+

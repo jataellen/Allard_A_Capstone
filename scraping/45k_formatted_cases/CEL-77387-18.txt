@@ -1,0 +1,932 @@
+Metadata:
+Date:	2018-07-30
+File number:	
+CEL-77387-18
+	CEL-77387-18
+Citation:	CEL-77387-18 (Re), 2018 CanLII 88554 (ON LTB), <https://canlii.ca/t/hv7l3>, retrieved on 2023-05-16	https://canlii.ca/t/hv7l3
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-77387-18
+ 
+Time period for Arrears
+Owing            From:    April
+1, 2018 to June 30, 2018
+(From the commencement of
+arrears to the termination date in the notice, or the end of the rental period
+if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/04/2018 - 30/04/2018
+
+
+$1,600.00
+
+
+ 
+
+
+$1,600.00
+
+
+$318.00
+
+
+$1,282.00
+
+
+
+
+01/05/2018 - 31/05/2018
+
+
+$1,600.00
+
+
+ 
+
+
+$1,600.00
+
+
+ 
+
+
+$1,600.00
+
+
+
+
+01/06/2018 - 30/06/2018
+
+
+$1,600.00
+
+
+ 
+
+
+$1,600.00
+
+
+ 
+
+
+$1,600.00
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent
+  for part of a month, use the 
+       following formula for
+  columns (B), (C) and (D):
+ 
+       Monthly Rent X 12
+  X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$4,482.00
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                  $4,482.00
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                               $6,257.00
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                   $4,482.00
+ 
+(I)         Total Amount
+Owing                                                                                        $4,482.00
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy
+is being terminated)
+ 
+(J) (i)    Lump Sum
+Compensation Start Date                                            July
+1, 2018
+            (Day after
+termination date in notice)
+ 
+    (ii)    Lump Sum
+Compensation End Date                                              July
+30, 2018
+            (Date of order)
+ 
+(K)        Daily
+Compensation (Monthly
+Rent X 12)                                                                $52.60
+                                                    
+365
+ 
+(L)        Number of Days
+for Lump Sum Compensation                                                      30
+days
+            (# days between
+start date and order date - inclusive)
+ 
+(M)       Total Lump Sum
+Compensation                                                                      $1,578.00
+            [(K) X (L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are
+terminating the tenancy)
+ 
+(N)        Rent Deposit                                                                                                    $1,600.00
+ 
+(O1)      Interest Owing
+on Rent Deposit
+        For period from:
+20/12/2017 to 30/06/2018
+       (i)  Annual Amount (S)
+X 1.8%       =                                                          $28.80
+       (ii) Daily Amount (i)
+/ 365               =                                                             0.0789
+       (iii) Interest Owing
+(ii) X 193 (# of days) =                                                                       $15.23
+ 
+ 
+ 
+ 
+(O2)      Total amount of
+interest owing on rent deposit
+ 
+            [(O1)]                                                                                                  $15.23
+ 
+ 
+ 
+(P)        Rent Deposit +
+Interest
+ 
+            [(N) + (O2)] =                                                                                                     $1,615.23
+ 
+ 
+ 
+Part IV - Amounts owing to Tenant under s.82
+(Use this part if you are
+including amounts owing by the Landlord to the Tenant pursuant to s. 82)
+ 
+(Q)       Amount owing
+under s.82                                                                                      $0.00
+ 
+Part V - Total Amount Owing
+ 
+(R)        Terminating the tenancy [I+M-(P+Q)]                                                                   $4,444.77
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies
+Act, 2006
+ 
+File Number: CEL-77387-18
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+G D
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+S A
+Z M
+ 
+
+
+Tenants
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+G D (the 'Landlord') applied for an order to terminate
+the tenancy and evict Z M (ZM) and Saber Ashram (SA) (the 'Tenants') because
+the Tenants did not pay the rent that the Tenants owe.
+ 
+This application was heard in Mississauga on July 25,
+2018.
+ 
+The Landlord’s Agent, J D (JD),
+the Landlord’s Legal Representative, S W, and the Tenants attended the hearing. 
+The Tenants brought an Arabic interpreter with them, however little
+interpretation was needed as SA spoke and understood English.
+ 
+At the hearing the Tenants raised
+the following issues pursuant to section 82 of the Residential Tenancies
+Act, 2006 (the 'Act'): laundry facilities, parking and smoking from other
+tenants.
+ 
+The following witness testified at
+the hearing:
+S S (SS) (friend of the Tenants)
+on behalf of the Tenants
+ 
+Determinations:
+ 
+1.     
+The Tenants disputed the
+rent arrears claimed by the Landlord in this application.   SA stated that on
+June 6, 2018 he paid JD $3,200.00 in cash when he attended the rental unit. 
+This amount has not been credited to the Tenants.  SA believes that JD has
+applied his rent payments to outstanding utility bills that SA does not want to
+pay.  
+2.     
+This tenancy commenced in
+December 2017.  The rent arrears in the application stem from April 2018
+onward.  JD provided copies of three cheques provided by the Tenants which were
+returned NSF or were not able to be deposited as advised by his financial
+institution.  The amount of $1,282.00 claimed as outstanding for April 2018
+matched the amount on the Tenants’ cheque dated April 10, 2018 that was
+returned NSF. 
+3.     
+SA disputed that his cheque
+payments were returned. However, he did not provide his bank statement to
+demonstrate the payments were negotiated.  As well, he stated he was not given a
+receipt for the cash payment in June 2018 and did not provide any bank records
+to demonstrate the cash being withdrawn. 
+4.     
+The evidence before me was
+insufficient to find that the Tenants paid the arrears claimed in this
+application to the Landlord.  Without receipts, cancelled cheques, or bank
+statements, the Tenants’ alleged payments cannot be verified.  I find it
+unlikely that a large sum payment of cash like in this instance could not be
+supported by some form of documentation.  
+5.     
+The Tenants’ witness, SS,
+only confirmed in his testimony that on June 6, 2018 the parties were
+discussing moneys owed and that the Landlord was not going to provide a receipt
+until payment is received.  SS stated twice that he did not see SA give cash to
+the JD on this date.   
+6.     
+As well, the text messages
+between the parties submitted into evidence show JD requesting payment of the
+arrears after June 6, 2018.  The N4 notice was also served after June 6, 2018. 
+I find it highly unlikely that the Landlord would send a text, then serve a
+notice of termination, then pay to make an application for an order for
+termination, then hire a legal representative, and attend a hearing after
+payment was received.  
+7.     
+The Tenants have not paid
+the total rent they were required to pay for the period from April 1, 2018 to
+July 31, 2018.  Because of the arrears, the Landlord served a Notice of
+Termination effective June 30, 2018.
+8.     
+The Landlord collected a
+rent deposit of $1,600.00 from the Tenants and this deposit is still being held
+by the Landlord.
+9.     
+Interest on the rent deposit
+is owing to the Tenants for the period from December 20, 2017 to June 30, 2018.
+10.  
+There was no dispute that
+recently JD removed the laundry facilities used by the Tenants from the garage
+to the basement.  The Tenants allege that they don’t have access to the
+basement.  In any event, JD confirmed that the facilities are still in the process
+of being installed and are not yet operational.  
+11.  
+Based on the uncontested
+evidence before me, I am satisfied that the Landlord has temporarily
+discontinued the use of laundry facilities.  The laundry facilities were
+removed from the garage to allow the Tenants use of the garage for their
+vehicle.  JD confirmed that the laundry facilities will be operational soon and
+that the Tenants will have access to them.  Consequently, I am satisfied that
+this temporary discontinuance is reasonable and therefore, no reduction in rent
+is warranted.
+12.  
+SA stated that the basement
+and middle tenants smoke marijuana in the residential complex.  ZM has had to
+close or cover the vents within their unit.  SA stated that he has sent
+hundreds of messages to the JD regarding this issue.  However, SA submitted
+only one text from ZM to JD regarding this matter.  The text message submitted
+does not provide the date it was sent.
+13.  
+The evidence before me was
+insufficient to find that the Landlord substantially interfered with the Tenants’
+reasonable enjoyment of the premises by failing to address the Tenants’
+complaints regarding smoking in the residential complex.  The text message
+submitted by the Tenants complained of loud music and them being unable to
+sleep at night.  There is no mention of marijuana or tobacco smoking in the
+complex. 
+14.  
+In any event, the basement
+tenants moved out at the beginning of July 2018.  The Tenants submitted that
+the new tenants have two vehicles and were promised by the Landlord two spots. 
+The Tenants also have two vehicles.  The Tenants park one vehicle in the garage
+and one in the driveway, however the other tenants’ vehicles are being parked
+in the driveway resulting in the Tenants’ vehicles being blocked.  
+15.  
+There was no dispute that
+there are four parking spots at the residential complex.  However, in order to
+park four vehicles, 1 in garage, 2 side-by-side in driveway, and 1 long way in
+driveway, it results in vehicles being blocked.  
+16.  
+Based on the evidence before
+me and given that the new tenants just moved into the complex on July 10, 2018,
+that this is the first time that the Landlord is hearing about this issue.  
+Therefore, I am not satisfied that the Landlord substantially interfered with
+the Tenants’ reasonable enjoyment of the residential complex.  However, the
+Landlord is now on notice that there are issues that need to be addressed
+regarding the parking before this inconvenience reaches the level of
+substantial.   
+17.  
+The Tenants plan to vacate
+the rental unit and requested until the end of September 2018.  They disputed
+that they owe any rent arrears and therefore did not offer any payment terms.
+18.  
+The Landlord does not oppose
+an extension to August 31, 2018.
+19.  
+Having considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Act, I find
+that it would not be unfair to postpone the eviction until August 31, 2018
+pursuant to subsection 83(1)(b) of the Act.
+It is ordered that:
+ 
+1.     
+Unless the Tenant voids the
+order as set out below, the tenancy between the Landlord and the Tenants is
+terminated.  The Tenants must move out of the rental unit on or before August
+31, 2018.
+2.     
+The Tenants shall pay to the
+Landlord $4,444.77*, which represents the amount of rent owing and compensation
+up to July 30, 2018, less the rent deposit and interest the Landlord owes on
+the rent deposit.
+3.     
+The Tenants shall also pay
+to the Landlord $52.60 per day for compensation for the use of the unit
+starting July 31, 2018 to the date they move out of the unit.
+4.     
+The Tenants shall also pay
+to the Landlord $175.00 for the cost of filing the application.
+5.     
+If the Tenants do not pay
+the Landlord the full amount owing* on or before August 31, 2018, the Tenants
+will start to owe interest.  This will be simple interest calculated from
+September 1, 2018 at 3.00% annually on the balance outstanding.
+6.     
+If the unit is not vacated
+on or before August 31, 2018, then starting September 1, 2018, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+7.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after September 1, 2018.
+8.     
+If the Tenants wish to void
+this order and continue the tenancy, they must pay to the Landlord or to the
+Board in trust:
+i)        $6,257.00 if the payment is made on or before July 31, 2018, or
+ii)       $7,857.00 if the payment is made on or before August 31, 2018**.
+If the Tenants do not make full payment in accordance with this paragraph and
+by the appropriate deadline, then the Landlord may file this order with the
+Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+9.     
+The Tenants may make a motion to the Board under subsection
+74(11) of the Act to set aside this order if they pay the amount required under
+that subsection on or after September 1, 2018 but before the Sheriff gives
+vacant possession to the Landlord. The Tenants are only entitled to make this
+motion once during the period of the tenancy agreement with the Landlord.
+ 
+July 30, 2018                                                                    _______________________
+Date Issued                                                                      Lisa
+Del Vecchio
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about
+this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of
+the Act, the part of this order relating to the eviction expires on March 1,
+2019 if the order has not been filed on or before this date with the Court
+Enforcement Office (Sheriff) that has territorial jurisdiction where the rental
+unit is located.
+ 
+*           Refer to section A on
+the attached Summary of Calculations.
+**         Refer to section B on
+the attached Summary of Calculations.
+
+
+
+
+Schedule
+1
+SUMMARY
+OF CALCULATIONS
+ 
+File
+Number: CEL-77387-18
+ 
+A.        Amount the Tenants
+must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+April 1, 2018 to June 30, 2018
+
+
+$4,482.00
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+July 1, 2018 to July 30, 2018
+
+
+$1,578.00
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,600.00
+
+
+
+ 
+
+
+
+Less the interest owing on the
+  rent deposit:
+
+
+December 20, 2017 to June 30,
+  2018
+
+
+-$15.23
+
+
+
+ 
+
+
+
+Less amount owing to the Tenant
+  for abatement/rebate:
+
+
+ 
+
+
+$0.00
+
+
+
+ 
+
+
+
+Amount owing to the Landlord on
+  the order date:(total
+  of previous boxes)
+
+
+$4,444.77
+
+
+
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+$175.00
+
+
+
+ 
+
+
+
+Plus daily compensation owing
+  for each day of occupation starting July 31, 2018:
+
+
+$52.60 (per day)
+
+
+
+ 
+
+
+
+Total the Tenants must pay
+  the Landlord if the tenancy is terminated:
+
+
+$4,619.77,
+  + $52.60
+  per day starting July 31, 2018
+
+
+
+ 
+ 
+ 
+ 
+B. Amount the Tenants must pay
+to void the eviction order and continue the tenancy:
+ 
+1.         If the payment is
+made on or before July 31, 2018:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears: 
+
+
+April 1, 2018 to July 31, 2018
+
+
+$6,082.00
+
+
+
+ 
+
+
+
+Less amount owing to the Tenant
+  for abatement/rebate:
+
+
+ 
+
+
+$0.00
+
+
+
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenants must pay to
+  continue the tenancy:
+
+
+On or before July 31, 2018
+
+
+$6,257.00
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+2.         If the payment is
+made after July 31, 2018 but on or before August 31, 2018:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+April 1, 2018 to August 31, 2018
+
+
+        $7,682.00
+
+
+
+ 
+
+
+
+Less amount owing to the Tenant
+  for abatement/rebate:
+
+
+ 
+
+
+$0.00
+
+
+
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenants must pay to
+  continue the tenancy:
+
+
+On or before August 31, 2018
+
+
+$7,857.00
+
+
+
+ 
+ 
+ 
+ 
+

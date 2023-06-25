@@ -1,0 +1,780 @@
+Metadata:
+Date:	2017-02-03
+File number:	
+CEL-63193-16
+	CEL-63193-16
+Citation:	CEL-63193-16 (Re), 2017 CanLII 30828 (ON LTB), <https://canlii.ca/t/h3w7b>, retrieved on 2023-05-16	https://canlii.ca/t/h3w7b
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-63193-16
+ 
+Time period for Arrears Owing From:   November 1, 2016 to December 2,
+2016
+(From the commencement of arrears to the termination date in the
+notice, or the end of the rental period if the tenancy is not being terminated.)
+ 
+Part 1 - Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/11/2016 - 30/11/2016
+
+
+$1,205.10
+
+
+ 
+
+
+$1,205.10
+
+
+$19.90
+
+
+$1,185.20
+
+
+
+
+01/12/2016 - 02/12/2016
+
+
+$79.24
+
+
+ 
+
+
+$79.24
+
+
+ 
+
+
+$79.24
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**    To calculate the Rent for part of a month, use the 
+       following formula for columns (B), (C) and (D):
+ 
+       Monthly Rent X 12 X # Days
+                   365
+
+
+ (F) Total Rent Owing
+
+
+$1,264.44
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears Owing                                                                                                  $1,264.44
+            [From (F)]
+ 
+(G2)      Arrears Claimed                                                                                               $2,560.30
+ 
+(G3)      Include whichever is less when Calculation
+Total Arrears Owing                     $1,264.44
+ 
+(H1)      Payment to Landlord                                                                                        $1,161.00
+ 
+(H2)      Payment to Board in trust                                                                                 $1,205.00
+ 
+(I)         Total Amount Owing                                                                                       -$1,101.56
+ 
+ 
+Part II - Calculation of Compensation
+(Use this part if the tenancy is being terminated)
+ 
+(J) (i)    Lump Sum Compensation Start Date                                             December
+3, 2016
+            (Day after termination date in notice)
+ 
+    (ii)    Lump Sum Compensation End Date                                              February
+3, 2017
+            (Date of order)
+ 
+(K)        Daily Compensation (Monthly Rent X 12)                                                               $39.62
+                                                     365
+ 
+(L)        Number of Days for Lump Sum Compensation                                                       63
+days
+            (# days between start date and order date - inclusive)
+ 
+(M)       Total Lump Sum Compensation                                                                       $2,496.06
+            [(K) X (L)] =
+ 
+ 
+Part III - Rent Deposit and Interest Owing
+(Use this part if you are terminating the tenancy)
+ 
+(N)        Rent Deposit                                                                                                     $1,181.00
+ 
+(O1)      Interest Owing on Rent Deposit
+        For period from: 01/07/2016 to 02/12/2016
+       (i)  Annual Amount (S) X 2%         =                                                          $23.62
+       (ii) Daily Amount (i) / 365              =                                                             0.0647
+       (iii) Interest Owing (ii) X 155 (# of days) =                                                                      $10.03
+ 
+ 
+ 
+ 
+(O2)      Total amount of interest owing on rent
+deposit
+ 
+            [(O1)]                                                                                                  $10.03
+ 
+ 
+ 
+(P)        Rent Deposit + Interest
+ 
+            [(N) + (O2)] =                                                                                                     $1,191.03
+ 
+ 
+Part IV - Total Amount Owing
+ 
+(Q)       Terminating
+the tenancy [I+M-P]                                                                            $203.47
+ 
+
+
+
+
+Order under Section 21.2 of the 
+Statutory Powers Procedure Act 
+and the Residential Tenancies Act, 2006
+ 
+File Number: CEL-63193-16-RV
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In the matter
+  of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+K P L
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+O A M
+ 
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+Review Order
+ 
+K P L (the
+'Landlord') applied for an order to terminate the tenancy and evict O A M (the
+'Tenant') because the Tenant did not pay the rent that the Tenant owes.
+ 
+The Landlord’s L1
+application was resolved by order CEL-63193-16, issued on January 10, 2017.
+ 
+On January 19,
+2017, the Tenant requested a review of that order.
+ 
+The Tenant’s review
+request was heard in Mississauga on February 2, 2017.
+ 
+The Landlord's
+Agent, G. P, and the Tenant attended the hearing.
+ 
+Determinations
+and Reasons:
+ 
+1.      The Tenant alleges that he was not reasonably
+able to participate in the hearing on January 4, 2017 because he did not
+receive the Notice of Hearing until after the hearing had already taken place. 
+2.      The Tenant stated that: he checks his mail
+regularly and cannot explain the delay in receiving the Notice of Hearing from
+Canada Post; and he would have attended the hearing if he got the notice in
+time since he attended a prior Board hearing concerning CEL-60968-16.
+3.      The Tenant complied with the interim order issued
+on January 20, 2017 and paid the February rent (minus 10 cents) to the Board in
+trust. This minimized the prejudice to the Landlord from the review since the
+rent arrears have not increased.
+4.      The Tenant was not reasonably able to
+participate in the original hearing. The Tenant’s review request is granted and
+the L1 rent arrears application is heard de novo (re-heard).
+5.      The monthly rent is $1,205.10. 
+6.      The Landlord offers a prompt payment discount of 2% ($24.10) of the
+monthly rent if the rent is paid on the first day of the month.
+7.      The Tenant has not paid the total rent the Tenant was required to
+pay for the period from November 1, 2016 to February 28, 2017. Because of the
+arrears, the Landlord served a Notice of Termination effective December 2,
+2016.
+8.      The Tenant paid $1,161.00 to the Landlord after the application was
+filed.
+9.      The Tenant paid $1,205.00 to the Board in trust after the
+application was filed.
+10.   The money which was paid into the Board by the Tenant, and any
+accumulated interest, shall be paid out to the Landlord. 
+11.   After the two payments above are credited, there is a balance of
+$2,604.50 owing to the Landlord up to February 28, 2017. The amount includes
+the $170.00 fee to file the application.
+12.   The Tenant disputed the $2,604.50 amount because he thought it
+included a $20.00 charge to replace his FOB (electronic key) and extra charges of
+$24.10 for the loss of the 2% prompt payment discount.
+13.   The amount does not include any extra charges.
+14.   The Landlord’s rent ledger, the N4 notice of termination and the L1 application
+all confirm that only the monthly rent of $1,205.10 was claimed. No additional
+charges were claimed in the N4 notice or the L1 application.
+15.   The undisputed $20.00 charge to replace the FOB was paid by the Tenant
+in October 2016 before the N4 notice was even created.
+16.   The Landlord collected a rent deposit of $1,181.00 from the Tenant
+and this deposit is still being held by the Landlord.
+17.   Interest on the rent deposit is owing to the Tenant for the period
+from July 1, 2016 to December 2, 2016.
+18.   I have considered all of the disclosed
+circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act. This tenancy just
+commenced in July 2016 and the Tenant has been unable or unwilling to pay the
+rent on time and/or in full each month since then. A prior L1 rent arrears
+order was issued in October 2016. The Tenant was able to pay the amount owing by
+the date in the order which voided the order. However, immediately after that,
+he fell into arrears for the November rent.
+19.   The Tenant stated he was injured in an accident
+shortly after he moved in and was off work. However, he is now back at work and
+hopes to pay the amount owing by the end of February.
+20.   The Tenant still has the option set out below in
+paragraph 9 of the order if he wants to preserve this tenancy.
+It is ordered
+that:
+ 
+1.      Order CEL-63193-16, issued on January 10, 2017, is cancelled and
+replaced by the following: 
+2.      Unless the Tenant voids the order as set out
+below, the tenancy between the Landlord and the Tenant is terminated. The
+Tenant must move out of the rental unit on or before February 14, 2017.
+3.      The Tenant shall pay to the Landlord $203.47*, which represents the
+amount of rent owing and compensation up to February 3, 2017, less the rent
+deposit and interest the Landlord owes on the rent deposit.
+4.      The Tenant shall also pay to the Landlord $39.62 per day for
+compensation for the use of the unit starting February 4, 2017 to the date the
+Tenant moves out of the unit.
+5.      The Tenant shall also pay to the Landlord $170.00 for the cost of
+filing the application.
+6.     
+If the Tenant does not pay
+the Landlord the full amount owing on or before February 14, 2017, the Tenant
+will start to owe interest. This will be simple interest calculated from
+February 15, 2017 at 2.00% annually on the balance outstanding.
+7.      If the unit is not vacated on or before February 14, 2017, then
+starting February 15, 2017, the Landlord may file this order with the Court
+Enforcement Office (Sheriff) so that the eviction may be enforced.
+8.      Upon receipt of this order, the Court Enforcement Office (Sheriff)
+is directed to give vacant possession of the unit to the Landlord, on or after
+February 15, 2017.
+9.      If, on or before February 14, 2017, the Tenant pays the amount of
+$2,604.50** to the Landlord or to the Board in trust, this order for eviction
+will be void.  This means that the tenancy
+would not be terminated and the Tenant could remain in the unit.  If this
+payment is not made in full and on time, the Landlord may file this order with
+the Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+10.   The Tenant may make a motion to the Board under subsection 74(11) of
+the Act to set aside this order if they pay the amount required under that
+subsection on or after February 15, 2017 but before the Sheriff gives vacant
+possession to the Landlord. The Tenant is only entitled to make this motion
+once during the period of the tenancy agreement with the Landlord.
+11.   The Board shall pay to the Landlord the amount of $1,205.00 together
+with any accrued interest. 
+ 
+February 3,
+2017                                                             _______________________
+Date Issued                                                                      Karen
+Wallace
+                                                                                                                           Vice
+Chair, Landlord and Tenant Board
+Central-RO
+3 Robert Speck
+Pkwy, 5th Floor
+Mississauga ON
+L4Z2G5
+ 
+If you have any
+questions about this order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with
+section 81 of the Act, the part of this order relating to the eviction expires
+on August 15, 2017 if the order has not been filed on or before this date with
+the Court Enforcement Office (Sheriff) that has territorial jurisdiction where
+the rental unit is located.
+ 
+*           Refer
+to section A on the attached Summary of Calculations.
+**         Refer to
+section B on the attached Summary of Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-63193-16-RV
+ 
+A.   Amount the Tenant must pay if the tenancy is terminated:
+ 
+ 
+
+
+
+Reasons for
+  amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in the Notice
+  of Termination)
+
+
+November 1, 2016
+  to December 2, 2016
+
+
+$1,264.44
+
+
+
+ 
+
+
+
+Less the amount
+  the Tenant paid to the Landlord
+
+
+ 
+
+
+-$1,161.00
+
+
+
+ 
+
+
+
+Less the amount
+  the Tenant paid to the Board in trust
+
+
+ 
+
+
+-$1,205.00
+
+
+
+ 
+
+
+
+Plus
+  compensation: (from the day
+  after the termination date in the Notice to the date of the order)
+
+
+December 3, 2016
+  to February 3, 2017
+
+
+$2,496.06
+
+
+
+ 
+
+
+
+Less the rent
+  deposit:
+
+
+ 
+
+
+-$1,181.00
+
+
+
+ 
+
+
+
+Less the interest
+  owing on the rent deposit:
+
+
+July 1, 2016 to
+  December 2, 2016
+
+
+-$10.03
+
+
+
+ 
+
+
+
+Amount owing to
+  the Landlord on the order date:(total
+  of previous boxes)
+
+
+$203.47
+
+
+
+ 
+
+
+
+Additional costs
+  the Tenant must pay to the Landlord:
+
+
+$170.00
+
+
+
+ 
+
+
+
+Plus daily
+  compensation owing for each day of occupation starting February 4, 2017:
+
+
+$39.62 (per day)
+
+
+
+ 
+
+
+
+Total the
+  Tenant must pay the Landlord if the tenancy is terminated:
+
+
+$373.47, + $39.62 per day starting February 4, 2017
+
+
+
+ 
+ 
+ 
+B. Amount the
+Tenant must pay to void the eviction order and continue the tenancy:
+ 
+
+
+
+Reasons for
+  amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+November 1, 2016
+  to February 28, 2017
+
+
+$4,800.50
+
+
+
+ 
+
+
+
+Less the amount
+  the Tenant paid to the Landlord
+
+
+ 
+
+
+-$1,161.00
+
+
+
+ 
+
+
+
+Less the amount
+  the Tenant paid to the Board in trust
+
+
+ 
+
+
+-$1,205.00
+
+
+
+ 
+
+
+
+Additional costs
+  the Tenant must pay to the Landlord:
+
+
+ 
+
+
+$170.00
+
+
+
+ 
+
+
+
+Total the
+  Tenant must pay to continue the tenancy:
+
+
+On or before
+  February 14, 2017
+
+
+$2,604.50
+
+
+
+ 
+

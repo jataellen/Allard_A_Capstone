@@ -1,0 +1,737 @@
+Metadata:
+Date:	2017-01-20
+File number:	
+CEL-63056-16
+	CEL-63056-16
+Citation:	CEL-63056-16 (Re), 2017 CanLII 9537 (ON LTB), <https://canlii.ca/t/gxq6t>, retrieved on 2023-05-16	https://canlii.ca/t/gxq6t
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-63056-16
+ 
+Time
+period for Arrears Owing From:   November 1, 2016 to November 24,
+2016
+(From
+the commencement of arrears to the termination date in the notice, or the end
+of the rental period if the tenancy is not being terminated.)
+ 
+Part
+1
+- Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+01/11/2016
+  - 24/11/2016
+
+
+$895.54
+
+
+ 
+
+
+$895.54
+
+
+$0.15
+
+
+$895.39
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part
+  Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**   
+  To calculate the Rent for part of a month, use the 
+      
+  following formula for columns (B), (C) and (D):
+ 
+      
+  Monthly Rent X 12 X # Days
+                  
+  365
+
+
+ (F)
+  Total Rent Owing
+
+
+$895.39
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                     $895.39
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $1,304.82
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                        $895.39
+ 
+(H1)      Payment
+to Landlord                                                                                           $700.00
+ 
+(I)         Total
+Amount Owing                                                                                           $195.39
+ 
+ 
+Part
+II
+- Calculation of Compensation
+(Use
+this part if the tenancy is being terminated)
+ 
+(J)
+(i)    Lump Sum Compensation Start Date                                             November
+25, 2016
+            (Day
+after termination date in notice)
+ 
+   
+(ii)    Lump Sum Compensation End Date                                              January
+9, 2017
+            (Date
+of order)
+ 
+(K)
+       Daily Compensation (Monthly Rent X 12)                                                               $37.31
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       46
+days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $1,716.26
+            [(K)
+X (L)] =
+ 
+ 
+Part
+III
+- Rent Deposit and Interest Owing
+(Use
+this part if you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                     $1,084.74
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For
+period from: 01/01/2016 to 24/11/2016
+       (i)  Annual
+Amount (S) X 2%         =                                                          $21.69
+       (ii) Daily
+Amount (i) / 365              =                                                             0.0594
+       (iii) Interest
+Owing (ii) X 329 (# of days) =                                                                      $19.54
+ 
+ 
+ 
+ 
+(O2)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)]                                                                                                  $19.54
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N)
++ (O2)] =                                                                                                     $1,104.28
+ 
+ 
+Part
+IV
+- Total Amount Owing
+ 
+(Q)       Terminating
+the tenancy [I+M-P]                                                                            $807.37
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: CEL-63056-16
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In
+  the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+T
+  I
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+O
+  S
+ 
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+T
+I (the 'Landlord') applied for an order to terminate the tenancy and evict O S
+and R S (the 'Tenants') because the Tenants did not pay the rent that the
+Tenants owe.
+ 
+This
+application was heard in Mississauga on January 4, 2017.
+ 
+The Landlord's Legal Representative, B R and the Tenant, O S (OS)
+and the Tenant’s brother S S attended the hearing.
+ 
+The
+Tenant stated that Tenant R S has been living in Ottawa for the last year and a
+half and is no longer in possession of the unit. The Landlord stated they were
+not aware of that fact. Since the Tenant’s uncontested evidence indicates that R
+S was not in possession of the unit at the time of the application, he was
+removed as a party.
+ 
+Determinations:
+ 
+1.      The
+Tenant has not paid the total rent they were required to pay for the period
+from November 1, 2016 to January 31, 2017.  Because of the arrears, the
+Landlord served a Notice of Termination effective November 24, 2016.
+2.      The
+Landlord collected a rent deposit of $1,084.74 from the Tenant and this deposit
+is still being held by the Landlord.
+3.      Interest
+on the rent deposit is owing to the Tenant for the period from January 1, 2016
+to November 24, 2016.
+4.      The
+Tenant paid $700.00 after the application was filed.
+5.      The
+Tenant OW was seeking a little extra time to pay and the Landlord did not
+strenuously object to extending the void date to January 20, 2016.
+6.      I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Residential Tenancies Act, 2006 (the 'Act'), and
+find that it would be unfair to grant a brief relief from eviction pursuant to
+subsection 83(1) of the Act.
+It is ordered that:
+ 
+1.      Unless
+the Tenant voids the order as set out below, the tenancy between the Landlord
+and the Tenants is terminated.  The Tenant must move out of the rental unit on
+or before January 20, 2017.
+2.      The
+Tenant shall pay to the Landlord $807.37*, which represents the amount of rent
+owing and compensation up to January 9, 2017, less the rent deposit and
+interest the Landlord owes on the rent deposit.
+3.      The
+Tenant shall also pay to the Landlord $37.31 per day for compensation for the
+use of the unit starting January 10, 2017 to the date they move out of the
+unit.
+4.      The
+Tenant shall also pay to the Landlord $170.00 for the cost of filing the
+application.
+5.      If
+the Tenant does not pay the Landlord the full amount owing* on or before
+January 20, 2017, the Tenant will start to owe interest.  This will be simple
+interest calculated from January 21, 2017 at 2.00% annually on the balance
+outstanding.
+6.      If
+the unit is not vacated on or before January 20, 2017, then starting January
+21, 2017, the Landlord may file this order with the Court Enforcement Office
+(Sheriff) so that the eviction may be enforced.
+7.      Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to give
+vacant possession of the unit to the Landlord, on or after January 21, 2017.
+8.      If,
+on or before January 20, 2017, the Tenant pays the amount of $2,874.76** to the
+Landlord or to the Board in trust, this order for eviction will be void.  This
+means that the tenancy would not be terminated and the Tenant could remain in
+the unit.  If this payment is not made in full and on time, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+9.      The
+Tenant may make a motion to the Board under subsection 74(11) of the Act to set
+aside this order if they pay the amount required under that subsection on or
+after January 21, 2017 but before the Sheriff gives vacant possession to the
+Landlord. The Tenant is only entitled to make this motion once during the
+period of the tenancy agreement with the Landlord.
+ 
+ 
+January 9, 2017                                                               _______________________
+Date Issued                                                                      Tiisetso
+Russell
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the Act, the part of this order
+relating to the eviction expires on July 21, 2017 if the order has not been
+filed on or before this date with the Court Enforcement Office (Sheriff) that
+has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+**         Refer to section B on the attached Summary of
+Calculations.
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: CEL-63056-16
+ 
+A.        Amount the Tenant must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+November 1, 2016 to November 24, 2016
+
+
+$895.39
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid to the Landlord
+
+
+ 
+
+
+-$700.00
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+November 25, 2016 to January 9, 2017
+
+
+$1,716.26
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,084.74
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+January 1, 2016 to November 24, 2016
+
+
+-$19.54
+
+
+
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$807.37
+
+
+
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord:
+
+
+$170.00
+
+
+
+ 
+
+
+
+Plus daily compensation owing for each day of occupation
+  starting January 10, 2017:
+
+
+$37.31 (per
+  day)
+
+
+
+ 
+
+
+
+Total the Tenant must pay the Landlord if the tenancy is
+  terminated:
+
+
+$977.37, + $37.31 per day starting January 10, 2017
+
+
+
+ 
+ 
+ 
+B. Amount the Tenant must pay to void the eviction order and
+continue the tenancy:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+November 1, 2016 to January 31, 2017
+
+
+$3,404.76
+
+
+
+ 
+
+
+
+Less the amount the Tenant paid to the Landlord
+
+
+ 
+
+
+-$700.00
+
+
+
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord:
+
+
+ 
+
+
+$170.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to continue the tenancy:
+
+
+On or before January 20, 2017
+
+
+$2,874.76
+
+
+
+ 
+ 
+

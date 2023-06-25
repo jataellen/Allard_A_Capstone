@@ -1,0 +1,526 @@
+Metadata:
+Date:	2017-01-09
+File number:	
+CEL-63024-16
+	CEL-63024-16
+Citation:	CEL-63024-16 (Re), 2017 CanLII 9543 (ON LTB), <https://canlii.ca/t/gxq6s>, retrieved on 2023-05-16	https://canlii.ca/t/gxq6s
+Content:
+
+
+Arrears Worksheet
+ 
+File Number: CEL-63024-16
+ 
+Time
+period for Arrears Owing From:   May 13, 2016 to November 11, 2016
+(From
+the commencement of arrears to the termination date in the notice, or the end
+of the rental period if the tenancy is not being terminated.)
+ 
+Part
+1
+- Calculations of Arrears Owing
+ 
+
+
+
+ 
+(A)
+Rent Period (monthly, weekly, etc.)
+
+
+ 
+(B)
+Rent Charged
+
+
+ 
+(C)
+Lawful Rent
+(if issue raised)
+
+
+ 
+(D)
+Lower of
+(B) and (C)
+
+
+ 
+(E)
+Rent Paid
+
+
+ 
+(F)
+Amount Owing
+(D-E)
+
+
+
+
+13/05/2016
+  - 30/09/2016
+
+
+$6,804.04
+
+
+ 
+
+
+$6,804.04
+
+
+$5,013.00
+
+
+$1,791.04
+
+
+
+
+01/10/2016
+  - 31/10/2016
+
+
+$1,475.00
+
+
+ 
+
+
+$1,475.00
+
+
+$1,475.00
+
+
+ 
+
+
+
+
+01/11/2016
+  - 11/11/2016
+
+
+$533.42
+
+
+ 
+
+
+$533.42
+
+
+ 
+
+
+$533.42
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**Part
+  Month
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+**   
+  To calculate the Rent for part of a month, use the 
+      
+  following formula for columns (B), (C) and (D):
+ 
+      
+  Monthly Rent X 12 X # Days
+                  
+  365
+
+
+ (F)
+  Total Rent Owing
+
+
+$2,324.46
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(G1)      Arrears
+Owing                                                                                                  $2,324.46
+            [From
+(F)]
+ 
+(G2)      Arrears
+Claimed                                                                                               $3,436.04
+ 
+(G3)      Include
+whichever is less when Calculation Total Arrears Owing                     $2,324.46
+ 
+(I)         Total
+Amount Owing                                                                                        $2,324.46
+ 
+ 
+Part
+II
+- Calculation of Compensation
+(Use
+this part if the tenancy is being terminated)
+ 
+(J)
+(i)    Lump Sum Compensation Start Date                                             November
+12, 2016
+            (Day
+after termination date in notice)
+ 
+   
+(ii)    Lump Sum Compensation End Date                                              January
+9, 2017
+            (Date
+of order)
+ 
+(K)
+       Daily Compensation (Monthly Rent X 12)                                                               $48.49
+                                                    
+365
+ 
+(L)        Number
+of Days for Lump Sum Compensation                                                       59
+days
+            (#
+days between start date and order date - inclusive)
+ 
+(M)       Total
+Lump Sum Compensation                                                                       $2,860.91
+            [(K)
+X (L)] =
+ 
+ 
+Part
+III
+- Rent Deposit and Interest Owing
+(Use
+this part if you are terminating the tenancy)
+ 
+(N)        Rent
+Deposit                                                                                                     $1,475.00
+ 
+(O1)      Interest
+Owing on Rent Deposit
+        For
+period from: 01/06/2016 to 11/11/2016
+       (i)  Annual
+Amount (S) X 2%         =                                                          $29.50
+       (ii) Daily
+Amount (i) / 365              =                                                             0.0808
+       (iii) Interest
+Owing (ii) X 164 (# of days) =                                                                      $13.25
+ 
+ 
+ 
+ 
+(O2)      Total
+amount of interest owing on rent deposit
+ 
+            [(O1)]                                                                                                  $13.25
+ 
+ 
+ 
+(P)        Rent
+Deposit + Interest
+ 
+            [(N)
++ (O2)] =                                                                                                     $1,488.25
+ 
+ 
+Part
+IV
+- Total Amount Owing
+ 
+(Q)       Terminating
+the tenancy [I+M-P]                                                                          $3,697.12
+ 
+
+
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: CEL-63024-16
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+In
+  the matter of:
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Between:
+
+
+W
+  M I
+ 
+
+
+Landlord
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+and
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+S
+  A M M 
+
+
+Tenant
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+W
+M I (the 'Landlord') applied for an order to terminate the tenancy and evict A
+M M S (the 'Tenant') because the Tenant did not pay the rent that the Tenant
+owes.
+ 
+This
+application was heard in Mississauga on January 4, 2017.
+ 
+The
+Landlord's Legal Agent, E M and the Tenant attended the hearing.
+ 
+The
+spelling of the Tenant’s name was corrected. 
+ 
+Determinations:
+ 
+1.      The
+monthly rent is $1,475.00.
+2.      The
+Tenant has not paid the total rent the Tenant was required to pay for the
+period from May 13, 2016 to January 31, 2017.  Because of the arrears, the
+Landlord served a Notice of Termination effective November 11, 2016.
+3.      The
+Landlord collected a rent deposit of $1,475.00 from the Tenant and this deposit
+is still being held by the Landlord.
+4.      Interest
+on the rent deposit is owing to the Tenant for the period from June 2, 2016 to
+November 11, 2016.
+5.      The
+Tenant stated he started a new job on November 22, 2016 and his car broke down,
+and his new job requires him to have use of a car. He stated he had to pay $3,000.00
+to repair the car. 
+6.      The
+Tenant proposed that he can pay $800.00 on top of his rent over the next 7
+months to address the arrears. The Landlord was not interested in a payment
+plan.
+7.      I
+have considered all of the disclosed circumstances in accordance with
+subsection 83(2) of the Residential Tenancies Act, 2006 (the 'Act'), and
+find that it would not be unfair to grant relief from eviction subject to  the
+condition(s) set out in this order pursuant to subsection 83(1)(a) and 204(1)
+of the Act. I am allowing the payment plan suggested by the Tenant and the
+prejudice to the Landlord is minimized by the provisions of section 78. of the
+Act.
+It is ordered that:
+ 
+1.      The
+Tenant shall pay the Landlord $6,386.04 which represents the amount of rent
+arrears owing up January 31, 2017 and includes the $170.00 cost of filing the
+application.     
+2.      The
+Tenant shall pay the Landlord the full amount owing and the additional rent
+that comes due, as follows:
+a.    On
+or before January 20, 2017          ($800.00 arrears and filing fee)
+b.    On
+or before February 1, 2017        February 2017 rent
+c.    On
+or before February 20, 2017      ($800.00 arrears)
+d.    On
+or before March 1, 2017             March 2017 rent
+e.    On
+or before March 20, 2017           ($800.00 arrears)
+f.     On
+or before April 1, 2017                April 2017 rent
+g.    On
+or before April 20, 2017             ($800.00 arrears)
+h.    On
+or before May 1, 2017                 May 2017 rent
+i.      On
+or before May 20, 2017               ($800.00 arrears)
+j.      On
+or before June 1, 2017               June 2017 rent
+k.    On
+or before June 20, 2017             ($800.00 arrears)
+l.      On
+or before July 1, 2017                 July 2017 rent
+m.   On
+or before July 20, 2016               ($800.00 arrears)
+n.    On
+or before August 1, 2017           August 2017 rent
+o.    On
+or before August 20, 2017         ($786.04 balance of arrears)             
+3.      If
+the Tenant fails to make any one of the payments in paragraph 2 of this order,
+in full and on time, the Landlord may apply under section 78 of the Residential
+Tenancies Act, 2006, without notice to the Tenant for an order terminating
+the tenancy and evicting the Tenant. The Landlord must make this application no
+later than 30 days after the Tenant’s failure to make a payment. As part of the
+application, the Landlord can also request an order for rent that became owing
+after the date of this order and NSF cheque fees and related administration
+charges.
+4.      This
+does not include charges related to lack of sufficient funds for pre-authorized
+debits as this would be considered a penalty that is not allowed under
+Subsection 134(1) of the Act.  Subsection 85(5).only allows
+NSF cheque charges to be claimed by the Landlord on an arrears application.
+ 
+ 
+January 9, 2017                                                               _______________________
+Date Issued                                                                      Tiisetso
+Russell
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Central-RO
+3 Robert Speck Pkwy, 5th Floor
+Mississauga ON L4Z2G5
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+
+
+
+
+ 
+

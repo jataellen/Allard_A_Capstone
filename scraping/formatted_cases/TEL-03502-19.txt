@@ -1,0 +1,578 @@
+Metadata:
+Date:	2020-01-27
+File number:	
+TEL-03502-19
+	TEL-03502-19
+Citation:	TEL-03502-19 (Re), 2020 CanLII 61292 (ON LTB), <https://canlii.ca/t/j9ds2>, retrieved on 2023-05-16	https://canlii.ca/t/j9ds2
+Content:
+
+
+Order under Section 69
+Residential Tenancies
+Act, 2006
+ 
+File Number: TEL-03502-19
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+Inc.. (the 'Landlord') applied for an order to
+terminate the tenancy and evict M. H., J. M. and J. B. (the 'Tenants') because
+the Tenants did not pay the rent that the Tenants owe.
+ 
+This application was heard in Peterborough on August 29,
+2019.
+ 
+The Landlord and Jennifer Murray attended the hearing. The Landlord
+was represented by S. H. 
+ 
+Also present was the Landlord’s Witness,
+F. B. 
+ 
+Determinations:
+ 
+PRELIMINARY ISSUES
+ 
+A.  
+SERVICE OF THE N4 NOTICE OF TERMINATION
+1.    The Landlord’s L1 application is based on an N4 notice
+of termination with a termination date of July 31, 2019. 
+2.    The certificate of service (“COS”) filed with the
+Board indicates the N4 notice of termination was served on the Tenants on August
+16, 2019, which is after the termination date. 
+3.    The Landlord’s representative, who served the N4
+notice of termination, testified that the COS contains an error and the N4 notice
+of termination was in fact served on July 17, 2019. 
+4.    This is consistent with the signature date found
+on the second page of the N4 notice of termination that shows the N4 was signed
+on July 16, 2019. 
+5.    I find that the N4 notice of termination was served
+in accordance with the notice requirements contained in subsection 59(1) of the
+Residential Tenancies Act, 2006 (Act). 
+B.  
+IS J. M. A TENANT?
+6.     
+JM attended the hearing as a
+named Tenant and testified that she moved into the rental unit on May 31, 2019 and
+was kicked out of the rental unit by the other Tenants on June 2, 2019, with the first-named Tenant taking
+her keys. She stated that the third-named Tenant’s fiancée didn’t like her, which
+resulted in a dispute between the Tenants, so the two Tenants decided to kick her out. Since then, she has had
+no access to the rental unit, although some of her items remained in the rental
+unit. 
+7.     
+Her evidence was that she informed[FE(1]  the Landlord shortly thereafter that the Tenants had kicked her out. She stated that she wasn’t even
+aware of the hearing date until she called the Landlord who told her to attend.
+This was not contested by the Landlord. 
+8.     
+The Landlord takes the position
+that as she signed the lease with the other Tenants, that this
+was a joint tenancy. The Landlord did not receive a notice from the Tenants to terminate
+the tenancy, the Landlord did not kick JM out of the rental unit and the Tenants did not agree to take JM’s name off the lease. Thus,
+JM should still be held accountable for the outstanding rent as the Tenants are joint and severally liable. 
+9.     
+I asked the Landlord to submit
+a copy of the lease on or before August 30, 2019. As of the date of this order,
+the lease has not been submitted. However,
+JM’s evidence was that she signed the lease agreement with the other two Tenants for
+the rental unit. 
+10.  
+Subparagraph 87(1)(b) of the Act says:
+87.  (1)  A landlord may apply to the Board for an order for the payment
+of arrears of rent if,
+(a)      the tenant has not paid rent lawfully required under the
+tenancy agreement; and
+(b)      the tenant is in possession of the rental unit.
+                      [Emphasis added.]
+11.  
+Therefore, question before the Board
+is whether JM was in possession of the rental unit when the Landlord’s L1 application
+was filed on August 1, 2019. 
+12.  
+The leading and definitive case
+on the meaning of the phrase “in possession of the rental unit” is the Court of Appeal’s decision in 1162994 Ontario Inc. v.
+Bakker, 2004 CanLII 59995 (ON CA) (“Bakker”). It says at paragraphs 18 to 22:
+[18]…I think the requirement that the tenant be
+"in possession of the rental unit" at the time of the application
+reflects a determination that rent arrears disputes can be resolved efficiently
+and fairly through the Tribunal where the tenant at the time of the application
+continues to have some connection with the rental unit and, therefore, some
+relationship with the landlord. Situations where that connection has been
+severed and the relationship gone are best resolved through the more formal court
+processes. 
+[19] Some further assistance in defining "tenant in
+possession" is found by an examination of s. 86(2). That subsection
+provides that a landlord may be compensated for "the use and
+occupation" of a rental unit after notice of termination of the lease. A
+landlord can only be compensated, however, if the tenant is "in possession
+of the rental unit" when the landlord's application is made. This
+suggests that a "tenant in possession" is a person who was using or
+occupying the rental unit at the time of the application but does not
+necessarily indicate that the phrase is limited to users and occupiers. 
+[20] Possession is a difficult concept to define. Both in
+common and legal parlance, it connotes some form of control over the thing said
+to be possessed: e.g. D. D, B. N, The Dictionary of Canadian Law 2nd ed.,
+(1995) Carswell at p. 916; The Shorter Oxford English Dictionary, Vol. II
+(1973) p. 1635. Clearly, possession in s. 86(1)(b) is not limited to immediate
+physical control. For example, a tenant who locks up a rental unit and leaves
+on an extended vacation, continues to exercise sufficient control over that
+rental unit so as to qualify as a "tenant in possession" for the
+purposes of s. 86(1)(b). In my view, possession of a rental unit refers to
+some form of control over that unit as demonstrated by factors such as access
+to, use of, or occupation of the unit. 
+[21] There will be cases, although I would not think a
+great many, where a determination of whether the tenant was "in possession
+of the rental unit" at the time of the application will raise a difficult
+issue. In those cases, the Tribunal will have to decide, based on the
+evidence, whether there is a sufficient connection between the rental unit and
+the tenant to permit a finding that the tenant was "in possession" of
+that rental unit. 
+[22] In this case, there was no connection between Bakker and
+the rental unit at the time the s. 86 application was commenced. Bakker  exercised no control over that unit. He had
+unequivocally, completely, and permanently vacated the unit more than two years
+before the application. 
+[Emphasis added.]
+13.  
+ As can be seen from this
+extract, questions of possession are to be determined on a case by case basis. In
+this case, the Board is to determine what sort of control JM exercised over the
+unit at the time the application was filed, whether she had access to it, used
+it for any purpose, or otherwise had a connection to the rental unit. 
+14.  
+Given the evidence before the Board,
+I am satisfied that JM was not in possession of the rental unit on August 1, 2019,
+when this application was filed. 
+15.  
+I say this because the evidence
+is uncontested that the two other Tenants removed her from the rental unit and took
+her keys, giving her no access or control of the rental unit. The only connection
+JM has to the rental unit is with regards to her belongings still being in there,
+only because she does not have the means to go and remove these items. I do not
+find that she has a real connection to the rental unit just because some of her
+belongings are still there. 
+16.  
+ Further, the Landlord’s evidence
+was that they were aware of the situation. Prior to JM’s removal of the rental unit,
+the hydro bill was in JM’s name. Since she was removed, the hydro bill went into
+the first-named Tenant’s name until it was cut off at the end July 2019. 
+17.  
+ As JM was not in
+possession of the rental unit when the application was filed she cannot be named
+as a party because Board lacks the jurisdiction under s. 87 to order JM to pay
+anything to the Landlord. Her name will be removed from this order. 
+18.  
+As JM was removed as a party and
+the other two named Tenants were not present at the hearing, the merits of the Landlord’s
+application were heard on an uncontested basis.
+APPLICATION
+FOR ARREARS OF RENT
+19.  
+The Tenants have not paid
+the total rent the Tenants were required to pay for the period from July 1, 2019
+to August 31, 2019.  Because of the arrears, the Landlord served a Notice of Termination
+effective July 31, 2019.
+20.  
+The Landlord collected a
+rent deposit of $1,200.00 from the Tenants and this deposit is still being held
+by the Landlord.
+21.  
+Interest on the rent deposit
+is owing to the Tenants for the period from June 26, 2019 to July 31, 2019.
+22.  
+The Tenants have made no payments since the application was filed.
+
+23.  
+The arrears and costs owing to
+August 31, 2019 total $2,575.00.
+24.  
+Since the hearing the rents for
+September 2019 through to January 2020 have also come due. 
+25.  
+An order shall issue accordingly.
+
+26.  
+I have considered all of the
+disclosed circumstances in accordance with subsection 83(2) of the Residential
+Tenancies Act, 2006 (the 'Act'), and find that it would be unfair to grant
+relief from eviction pursuant to subsection 83(1) of the Act. The Landlord is
+unaware of any circumstances that would justify relief from eviction. 
+27.  
+This order contains all of
+the reasons for my decision within it. No further reasons shall be issued.  
+It is ordered that:
+ 
+1.     
+The application is amended to
+remove Jennifer Murray as a named Tenant. 
+2.     
+Unless the Tenants void the
+order as set out below, the tenancy between the Landlord and the Tenants is
+terminated.  The Tenants must move out of the rental unit on or before February
+7, 2020.
+3.     
+The Tenants shall pay to the
+Landlord $7,098.87 (less any payments made to the Landlord after the hearing date)*,
+which represents the amount of rent owing and compensation up to January 27,
+2020, less the rent deposit and interest the Landlord owes on the rent deposit.
+4.     
+The Tenants shall also pay
+to the Landlord $39.45 per day for compensation for the use of the unit starting
+January 28, 2020 to the date the Tenants move out of the unit.
+5.     
+The Tenants shall also pay
+to the Landlord $175.00 for the cost of filing the application.
+6.     
+If the Tenants do not pay
+the Landlord the full amount owing* on or before February 7, 2020, the Tenants
+will start to owe interest.  This will be simple interest calculated from
+February 8, 2020 at 3.00% annually on the balance outstanding.
+7.     
+If the unit is not vacated
+on or before February 7, 2020, then starting February 8, 2020, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+8.     
+Upon receipt of this order,
+the Court Enforcement Office (Sheriff) is directed to give vacant possession of
+the unit to the Landlord, on or after February 8, 2020.
+9.     
+If the Tenants wish to
+void this order and continue the tenancy, the Tenants must pay to the Landlord
+or to the Board in trust:
+i)        $8,575.00 (less any payments made to the Landlord after the hearing date)
+if the payment is made on or before January 31, 2020, or
+ii)       $9,775.00 (less any payments made to the Landlord after the hearing date)
+if the payment is made on or before February 7, 2020**.
+If the Tenants do not make full payment in accordance with this paragraph and
+by the appropriate deadline, then the Landlord may file this order with the
+Court Enforcement Office (Sheriff) so that the eviction may be enforced.
+10.  
+The Tenants may make a
+motion to the Board under subsection 74(11) of the Act to set aside this order
+if they pay the amount required under that subsection on or after February 8,
+2020 but before the Sheriff gives vacant possession to the Landlord. The
+Tenants are only entitled to make this motion once during the period of the tenancy
+agreement with the Landlord.
+                                                                                               
+January 27, 2020                                                            _______________________
+Date Issued                                                                      Sonia
+Anwar-Ali
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Toronto East-RO
+2275 Midland Avenue, Unit 2
+Toronto ON M1P3E7
+ 
+ 
+ 
+If you have any questions about this
+order, call 416-645-8080 or toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the
+Act, the part of this order relating to the eviction expires on August 8, 2020
+if the order has not been filed on or before this date with the Court Enforcement
+Office (Sheriff) that has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on
+the attached Summary of Calculations.
+**         Refer to section B on the
+attached Summary of Calculations.
+ 
+
+
+
+
+Schedule
+1
+SUMMARY
+OF CALCULATIONS
+ 
+File
+Number: TEL-03502-19
+ 
+A.        Amount the Tenants
+must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+July 1, 2019 to July 31, 2019
+
+
+$1,200.00
+
+
+
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+August 1, 2019 to January 27,
+  2020
+
+
+$7,101.00
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,200.00
+
+
+
+ 
+
+
+
+Less the interest owing on the
+  rent deposit:
+
+
+June 26, 2019 to July 31, 2019
+
+
+-$2.13
+
+
+
+
+Amount owing to the Landlord on
+  the order date:(total
+  of previous boxes)
+
+
+$7,098.87
+
+
+
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+$175.00
+
+
+
+ 
+
+
+
+Plus daily compensation owing
+  for each day of occupation starting January 28, 2020:
+
+
+$39.45 (per day)
+
+
+
+ 
+
+
+
+Total the Tenants must pay
+  the Landlord if the tenancy is terminated:
+
+
+$7,273.87,
+  + $39.45
+  per day starting January 28, 2020
+
+
+
+ 
+ 
+ 
+ 
+ 
+B. Amount the Tenants must pay
+to void the eviction order and continue the tenancy:
+ 
+1.         If the payment is
+made on or before January 31, 2020:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears: 
+
+
+July 1, 2019 to January 31, 2020
+
+
+$8,400.00
+
+
+
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenants must pay to
+  continue the tenancy:
+
+
+On or before January 31, 2020
+
+
+$8,575.00
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.         If the payment is
+made after January 31, 2020 but on or before February 7, 2020:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+July 1, 2019 to February 29,
+  2020
+
+
+$9,600.00
+
+
+
+ 
+
+
+
+Additional costs the Tenants
+  must pay to the Landlord:
+
+
+ 
+
+
+$175.00
+
+
+
+ 
+
+
+
+Total the Tenants must pay to
+  continue the tenancy:
+
+
+On or before February 7, 2020
+
+
+$9,775.00
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+ [FE(1]Approximate date?
+
+
+

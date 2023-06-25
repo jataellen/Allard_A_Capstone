@@ -1,0 +1,390 @@
+Metadata:
+Date:	2018-06-06
+File number:	
+TSL-95674-18
+	TSL-95674-18
+Citation:	TSL-95674-18 (Re), 2018 CanLII 111827 (ON LTB), <https://canlii.ca/t/hw7s5>, retrieved on 2023-05-16	https://canlii.ca/t/hw7s5
+Content:
+
+
+Order under Section 69
+Residential Tenancies Act, 2006
+ 
+File Number: TSL-95674-18
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+S.K
+(the 'Landlord') applied for an order to terminate the tenancy and evict N.G
+(the 'Tenant') because the Tenant did not pay the rent that the Tenant owes.
+ 
+This
+application was heard in Toronto on June 4, 2018.
+ 
+The Landlord’s representative N.M and the Tenant attended the
+hearing.
+Reasons:
+Adjournment request
+1.   
+At the start of the hearing, the Tenant asked that the matter be
+adjourned.  He wishes to bring a counter-claim pursuant to section 82 of the Residential
+Tenancies Act, 2006 (the ‘RTA’).  He says that he only recently received
+notice of this proceeding, and has not had the opportunity to prepare his
+section 82 counter-claim.
+2.   
+I denied the adjournment request.  Although section 82 permits a tenant
+to bring a counter-claim, it is incumbent on the tenant to come to the hearing
+prepared to do so.  The Landlord has a legitimate and time-sensitive claim for
+ongoing rent arrears, and it would not be fair to delay the hearing of that
+claim to give the Tenant more time to bring his own claims about other issues.
+3.   
+Even if the Tenant only found out about the hearing recently, I do not
+find that to be a reason to give him more time to prepare a counter-claim.  The
+Tenant’s complaints have been ongoing.  He could, at any time over the past
+several months, have filed his own application against the Landlord.  It would
+not be fair for him to now delay the Landlord’s application so as to raise
+claims that he has failed to raise by way of his own application.
+Rent deposit and arrears
+4.   
+The parties have a dispute about whether the Tenant has a rent deposit. 
+The Landlord says that the Tenant had a deposit, but used it up by applying it
+to the rent for a month in 2017.  The Tenant denies this.
+5.   
+The Landlord’s argument cannot succeed in light of subsection 106(10) of
+the RTA, which provides that a rent deposit can only be applied to the last
+month of a tenancy.  This tenancy has not ended, so the deposit could not be
+applied to a month in 2017.  Even if the parties agreed to apply the deposit,
+the agreement would have no effect since subsection 3(1) provides that the RTA
+applies despite any agreement to the contrary.
+6.   
+In other words, on the facts the Landlord alleges, the Tenant would
+still have a rent deposit, but he would owe an extra month’s arrears that arose
+in 2017.  This would mean that the N4 notice of termination that the Landlord
+served was invalid.  Subsection 59(2) provides that the N4 must set out the
+amount of rent due, and the amount the Landlord set out in the N4 did not
+include the arrears owing from 2017.
+7.   
+After I made that finding, the Landlord opted to waive her claim to any
+arrears that may have come due in 2017, so as to preserve the validity of the
+N4 notice.
+8.   
+The parties agree that $7,500.00 in arrears have come due in 2018. 
+Those arrears are correctly set out in the N4.  I therefore find that:
+a.   
+the Tenant has a rent deposit of $1,875.00;
+b.   
+the Tenant owes rent arrears of $7,500.00 to June 30, 2018.  The
+Landlord has waived her claim to any additional arrears that may have been
+owing; and
+c.   
+the Landlord has served a valid N4 notice of termination.
+Relief from eviction
+9.   
+The Tenant asks to repay his arrears at a rate of $700.00
+monthly.  I have considered all of the disclosed circumstances
+in accordance with subsection 83(2) of the RTA, and find that it would be
+unfair to grant relief from eviction pursuant to subsection 83(1) of the RTA on
+the terms the Tenant proposes.
+10. The
+Tenant has not adequately explained why his arrears arose.  He gave conflicting
+reasons for having failed to pay any rent from March, 2018 onwards.  At various
+points, he said that he did not pay because he did not know whether he was going
+to be evicted; that he refused to pay until the Landlord resolved complaints
+that he had; and that he was not able to pay because his roommate had moved
+out.
+11. The
+problem with the first two reasons is that they do not explain why the Tenant
+is not now able to pay his arrears.  If he withheld payment because he was
+worried about being evicted, or because of a dispute with the Landlord, then he
+should now be able to make the payment.  He has not explained what happened to
+the $7,500.00 that he withheld.
+12. The
+third reason could provide some explanation for the arrears, but it does not
+explain why nothing at all has been paid for four months.  The Tenant has not
+paid either his or his former roommate’s portion of the rent.  Again, if he
+withheld his portion of it, he has not explained why the money is not now
+available to put towards his arrears.
+13. In
+light of the Tenant’s contradictory and unsatisfactory explanations for his
+arrears, an eleven-month payment plan would be unreasonably long.  I find that
+it would be unfair to the Landlord to allow it.  A standard order will issue
+terminating the tenancy unless the full amount owing is paid in eleven days.
+ 
+ 
+It is ordered that:
+ 
+1.      Unless
+the Tenant voids the order as set out below, the tenancy between the Landlord
+and the Tenant is terminated.  The Tenant must move out of the rental unit on
+or before June 17, 2018.
+2.      The
+Tenant shall pay to the Landlord $4,115.11*, which represents the amount of
+rent owing and compensation up to June 6, 2018, less the rent deposit and interest
+the Landlord owes on the rent deposit.
+3.      The
+Tenant shall also pay to the Landlord $61.64 per day for compensation for the
+use of the unit starting June 7, 2018 to the date the Tenant moves out of the
+unit.
+4.      The
+Tenant shall also pay to the Landlord $190.00 for the cost of filing the
+application.
+5.      If
+the Tenant does not pay the Landlord the full amount owing* on or before June
+17, 2018, the Tenant will start to owe interest.  This will be simple interest
+calculated from June 18, 2018 at 3.00% annually on the balance outstanding.
+6.      If
+the unit is not vacated on or before June 17, 2018, then starting June 18,
+2018, the Landlord may file this order with the Court Enforcement Office
+(Sheriff) so that the eviction may be enforced.
+7.      Upon
+receipt of this order, the Court Enforcement Office (Sheriff) is directed to
+give vacant possession of the unit to the Landlord, on or after June 18, 2018.
+8.      If,
+on or before June 17, 2018, the Tenant pays the amount of $7,690.00** to the
+Landlord or to the Board in trust, this order for eviction will be void.  This
+means that the tenancy would not be terminated and the Tenant could remain in
+the unit.  If this payment is not made in full and on time, the Landlord may
+file this order with the Court Enforcement Office (Sheriff) so that the
+eviction may be enforced.
+9.      The
+Tenant may make a motion to the Board under subsection 74(11) of the Act to set
+aside this order if they pay the amount required under that subsection on or
+after June 18, 2018 but before the Sheriff gives vacant possession to the
+Landlord. The Tenant is only entitled to make this motion once during the
+period of the tenancy agreement with the Landlord.
+ 
+June 6, 2018                                                                     _______________________
+Date Issued                                                                      Dale
+Whitmore
+                                                                                                                           Member,
+Landlord and Tenant Board
+ 
+Toronto South-RO
+79 St. Clair Avenue East, Suite 212, 2nd Floor
+Toronto ON M4T1M6
+ 
+If you have any questions about this order, call 416-645-8080 or
+toll free at 1-888-332-3234.
+ 
+In accordance with section 81 of the Act, the part of this order
+relating to the eviction expires on December 18, 2018 if the order has not been
+filed on or before this date with the Court Enforcement Office (Sheriff) that
+has territorial jurisdiction where the rental unit is located.
+ 
+*           Refer to section A on the attached Summary of
+Calculations.
+**         Refer to section B on the attached Summary of
+Calculations.
+ 
+
+
+
+
+Schedule 1
+SUMMARY OF CALCULATIONS
+ 
+File Number: TSL-95674-18
+ 
+A.        Amount the Tenant must pay if the tenancy is terminated:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+ Arrears: (up to the termination date in
+  the Notice of Termination)
+
+
+March 1, 2018 to May 15, 2018
+
+
+$4,674.66
+
+
+
+ 
+ 
+
+
+
+Plus compensation: (from the day after the
+  termination date in the Notice to the date of the order)
+
+
+May 16, 2018 to June 6, 2018
+
+
+$1,356.08
+
+
+
+ 
+
+
+
+Less the rent deposit:
+
+
+ 
+
+
+-$1,875.00
+
+
+
+ 
+
+
+
+Less the interest owing on the rent deposit:
+
+
+January 1, 2017 to May 15, 2018
+
+
+-$40.63
+
+
+
+ 
+ 
+
+
+
+Amount owing to the Landlord on the order date:(total of previous boxes)
+
+
+$4,115.11
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord:
+
+
+$190.00
+
+
+
+ 
+ 
+
+
+
+Plus daily compensation owing for each day of occupation
+  starting June 7, 2018:
+
+
+$61.64 (per
+  day)
+
+
+
+ 
+ 
+
+
+
+Total the Tenant must pay the Landlord if the tenancy is
+  terminated:
+
+
+$4,305.11, + $61.64 per day starting June 7, 2018
+
+
+
+ 
+ 
+ 
+ 
+ 
+B. Amount the Tenant must pay to void the eviction order and
+continue the tenancy:
+ 
+
+
+
+Reasons for amount owing
+
+
+Period
+
+
+Amount
+
+
+
+ 
+
+
+
+Arrears:
+
+
+March 1, 2018 to June 30, 2018
+
+
+$7,500.00
+
+
+
+ 
+ 
+
+
+
+Additional costs the Tenant must pay to the Landlord:
+
+
+ 
+
+
+$190.00
+
+
+
+ 
+
+
+
+Total the Tenant must pay to continue the tenancy:
+
+
+On or before June 17, 2018
+
+
+$7,690.00
+
+
+
+ 
+ 
+
