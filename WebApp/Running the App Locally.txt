@@ -1,0 +1,18 @@
+﻿Running the App Locally
+
+
+MySQL Dummy Server
+
+
+1. Download XXAMP from: https://www.apachefriends.org/download.html
+2. Open application, run all servers.
+3. Access MariaDB at http://localhost/phpmyadmin
+4. Create table “Cases”
+5. Use PHPMyAdmin “import” button, import cases.sql
+6. Now the DB should be running.
+
+
+Follow the readme_backend to start the backend server
+
+
+Follow the readme_frontend to start the frontend server
